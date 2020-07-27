@@ -1,1323 +1,2537 @@
 ,archetype,deck,card,count
-0,UR Delver,UR Delver 1,Wasteland,4
-1,UR Delver,UR Delver 1,Volcanic Island,4
-2,UR Delver,UR Delver 1,Underground Sea,3
-3,UR Delver,UR Delver 1,Polluted Delta,4
-4,UR Delver,UR Delver 1,Misty Rainforest,4
-5,UR Delver,UR Delver 1,Lightning Bolt,4
-6,UR Delver,UR Delver 1,Force of Will,4
-7,UR Delver,UR Delver 1,Force of Negation,2
-8,UR Delver,UR Delver 1,Fatal Push,2
-9,UR Delver,UR Delver 1,Daze,4
-10,UR Delver,UR Delver 1,Brainstorm,4
-11,UR Delver,UR Delver 1,Thoughtseize,3
-12,UR Delver,UR Delver 1,Preordain,2
-13,UR Delver,UR Delver 1,Ponder,4
-14,UR Delver,UR Delver 1,Young Pyromancer,1
-15,UR Delver,UR Delver 1,Dreadhorde Arcanist,3
-16,UR Delver,UR Delver 1,Delver of Secrets,4
-17,UR Delver,UR Delver 1,Brazen Borrower,2
-18,UR Delver,UR Delver 1,Bedlam Reveler,2
-19,UR Delver,UR Delver 2,Daze,4
-20,UR Delver,UR Delver 2,Brainstorm,4
-21,UR Delver,UR Delver 2,Thoughtseize,3
-22,UR Delver,UR Delver 2,Preordain,2
-23,UR Delver,UR Delver 2,Ponder,4
-24,UR Delver,UR Delver 2,Young Pyromancer,1
-25,UR Delver,UR Delver 2,Dreadhorde Arcanist,3
-26,UR Delver,UR Delver 2,Delver of Secrets,4
-27,UR Delver,UR Delver 2,Brazen Borrower,2
-28,UR Delver,UR Delver 2,Bedlam Reveler,2
-29,UR Delver,UR Delver 2,Wasteland,4
-30,UR Delver,UR Delver 2,Volcanic Island,4
-31,UR Delver,UR Delver 2,Underground Sea,3
-32,UR Delver,UR Delver 2,Fatal Push,2
-33,UR Delver,UR Delver 2,Force of Negation,2
-34,UR Delver,UR Delver 2,Force of Will,4
-35,UR Delver,UR Delver 2,Lightning Bolt,4
-36,UR Delver,UR Delver 2,Bloodstained Mire,2
-37,UR Delver,UR Delver 2,Flooded Strand,2
-38,UR Delver,UR Delver 2,Misty Rainforest,2
-39,UR Delver,UR Delver 2,Polluted Delta,2
-40,UR Delver,UR Delver 3,Wasteland,4
-41,UR Delver,UR Delver 3,Volcanic Island,4
-42,UR Delver,UR Delver 3,Underground Sea,3
-43,UR Delver,UR Delver 3,Scalding Tarn,2
-44,UR Delver,UR Delver 3,Polluted Delta,2
-45,UR Delver,UR Delver 3,Misty Rainforest,2
-46,UR Delver,UR Delver 3,Flooded Strand,2
-47,UR Delver,UR Delver 3,Lightning Bolt,4
-48,UR Delver,UR Delver 3,Force of Will,4
-49,UR Delver,UR Delver 3,Force of Negation,1
-50,UR Delver,UR Delver 3,Fatal Push,2
-51,UR Delver,UR Delver 3,Daze,4
-52,UR Delver,UR Delver 3,Brainstorm,4
-53,UR Delver,UR Delver 3,Thoughtseize,3
-54,UR Delver,UR Delver 3,Preordain,2
-55,UR Delver,UR Delver 3,Ponder,4
-56,UR Delver,UR Delver 3,Young Pyromancer,2
-57,UR Delver,UR Delver 3,Dreadhorde Arcanist,3
-58,UR Delver,UR Delver 3,Delver of Secrets,4
-59,UR Delver,UR Delver 3,Brazen Borrower,2
-60,UR Delver,UR Delver 3,Bedlam Reveler,2
-61,UR Delver,UR Delver 4,Brazen Borrower,2
-62,UR Delver,UR Delver 4,Polluted Delta,3
-63,UR Delver,UR Delver 4,Underground Sea,3
-64,UR Delver,UR Delver 4,Volcanic Island,4
-65,UR Delver,UR Delver 4,Wasteland,4
-66,UR Delver,UR Delver 4,Misty Rainforest,2
-67,UR Delver,UR Delver 4,Scalding Tarn,3
-68,UR Delver,UR Delver 4,Young Pyromancer,2
-69,UR Delver,UR Delver 4,Bedlam Reveler,2
-70,UR Delver,UR Delver 4,Dreadhorde Arcanist,3
-71,UR Delver,UR Delver 4,Delver of Secrets,4
-72,UR Delver,UR Delver 4,Lightning Bolt,4
-73,UR Delver,UR Delver 4,Daze,4
-74,UR Delver,UR Delver 4,Brainstorm,4
-75,UR Delver,UR Delver 4,Force of Will,4
-76,UR Delver,UR Delver 4,Ponder,4
-77,UR Delver,UR Delver 4,Preordain,2
-78,UR Delver,UR Delver 4,Force of Negation,1
-79,UR Delver,UR Delver 4,Thoughtseize,3
-80,UR Delver,UR Delver 4,Fatal Push,2
-81,UR Delver,UR Delver 5,Bloodstained Mire,1
-82,UR Delver,UR Delver 5,Volcanic Island,3
-83,UR Delver,UR Delver 5,Flooded Strand,2
-84,UR Delver,UR Delver 5,Wasteland,4
-85,UR Delver,UR Delver 5,Snow-Covered Mountain,1
-86,UR Delver,UR Delver 5,Snow-Covered Island,3
-87,UR Delver,UR Delver 5,Misty Rainforest,1
-88,UR Delver,UR Delver 5,Scalding Tarn,4
-89,UR Delver,UR Delver 5,Young Pyromancer,3
-90,UR Delver,UR Delver 5,Dreadhorde Arcanist,4
-91,UR Delver,UR Delver 5,Delver of Secrets,4
-92,UR Delver,UR Delver 5,True-Name Nemesis,2
-93,UR Delver,UR Delver 5,Brazen Borrower,2
-94,UR Delver,UR Delver 5,Chain Lightning,1
-95,UR Delver,UR Delver 5,Lightning Bolt,4
-96,UR Delver,UR Delver 5,Daze,4
-97,UR Delver,UR Delver 5,Brainstorm,4
-98,UR Delver,UR Delver 5,Force of Will,4
-99,UR Delver,UR Delver 5,Ponder,4
-100,UR Delver,UR Delver 5,Spell Pierce,1
-101,UR Delver,UR Delver 5,Preordain,3
-102,UR Delver,UR Delver 5,Force of Negation,1
-103,UR Delver,UR Delver 6,Brazen Borrower,2
-104,UR Delver,UR Delver 6,Polluted Delta,2
-105,UR Delver,UR Delver 6,Underground Sea,3
-106,UR Delver,UR Delver 6,Volcanic Island,4
-107,UR Delver,UR Delver 6,Flooded Strand,2
-108,UR Delver,UR Delver 6,Wasteland,4
-109,UR Delver,UR Delver 6,Misty Rainforest,2
-110,UR Delver,UR Delver 6,Scalding Tarn,2
-111,UR Delver,UR Delver 6,Young Pyromancer,2
-112,UR Delver,UR Delver 6,Bedlam Reveler,2
-113,UR Delver,UR Delver 6,Dreadhorde Arcanist,3
-114,UR Delver,UR Delver 6,Delver of Secrets,4
-115,UR Delver,UR Delver 6,Lightning Bolt,4
-116,UR Delver,UR Delver 6,Daze,4
-117,UR Delver,UR Delver 6,Brainstorm,4
-118,UR Delver,UR Delver 6,Force of Will,4
-119,UR Delver,UR Delver 6,Ponder,4
-120,UR Delver,UR Delver 6,Preordain,2
-121,UR Delver,UR Delver 6,Force of Negation,1
-122,UR Delver,UR Delver 6,Thoughtseize,3
-123,UR Delver,UR Delver 6,Fatal Push,2
-124,Death & Taxes,Death & Taxes 1,Giver of Runes,1
-125,Death & Taxes,Death & Taxes 1,Stoneforge Mystic,4
-126,Death & Taxes,Death & Taxes 1,"Tomik, Distinguished Advokist",1
-127,Death & Taxes,Death & Taxes 1,Mirran Crusader,2
-128,Death & Taxes,Death & Taxes 1,Swords to Plowshares,4
-129,Death & Taxes,Death & Taxes 1,Cavern of Souls,2
-130,Death & Taxes,Death & Taxes 1,Wasteland,4
-131,Death & Taxes,Death & Taxes 1,Rishadan Port,4
-132,Death & Taxes,Death & Taxes 1,Karakas,3
-133,Death & Taxes,Death & Taxes 1,Snow-Covered Plains,2
-134,Death & Taxes,Death & Taxes 1,Plains,8
-135,Death & Taxes,Death & Taxes 1,Palace Jailer,1
-136,Death & Taxes,Death & Taxes 1,Recruiter of the Guard,2
-137,Death & Taxes,Death & Taxes 1,Flickerwisp,4
-138,Death & Taxes,Death & Taxes 1,Mother of Runes,4
-139,Death & Taxes,Death & Taxes 1,"Thalia, Guardian of Thraben",4
-140,Death & Taxes,Death & Taxes 1,Phyrexian Revoker,2
-141,Death & Taxes,Death & Taxes 1,Sanctum Prelate,1
-142,Death & Taxes,Death & Taxes 1,Aether Vial,4
-143,Death & Taxes,Death & Taxes 1,Umezawa's Jitte,1
-144,Death & Taxes,Death & Taxes 1,Sword of Fire and Ice,1
-145,Death & Taxes,Death & Taxes 1,Batterskull,1
-146,Death & Taxes,Death & Taxes 2,Batterskull,1
-147,Death & Taxes,Death & Taxes 2,Sword of Fire and Ice,1
-148,Death & Taxes,Death & Taxes 2,Umezawa's Jitte,1
-149,Death & Taxes,Death & Taxes 2,Aether Vial,4
-150,Death & Taxes,Death & Taxes 2,Flickerwisp,4
-151,Death & Taxes,Death & Taxes 2,Mother of Runes,4
-152,Death & Taxes,Death & Taxes 2,Phyrexian Revoker,2
-153,Death & Taxes,Death & Taxes 2,Recruiter of the Guard,2
-154,Death & Taxes,Death & Taxes 2,Sanctum Prelate,2
-155,Death & Taxes,Death & Taxes 2,Stoneforge Mystic,4
-156,Death & Taxes,Death & Taxes 2,"Thalia, Guardian of Thraben",4
-157,Death & Taxes,Death & Taxes 2,Palace Jailer,1
-158,Death & Taxes,Death & Taxes 2,"Tomik, Distinguished Advokist",2
-159,Death & Taxes,Death & Taxes 2,Swords to Plowshares,4
-160,Death & Taxes,Death & Taxes 2,Cavern of Souls,1
-161,Death & Taxes,Death & Taxes 2,Karakas,3
-162,Death & Taxes,Death & Taxes 2,Wasteland,4
-163,Death & Taxes,Death & Taxes 2,Snow-Covered Plains,5
-164,Death & Taxes,Death & Taxes 2,Plains,5
-165,Death & Taxes,Death & Taxes 2,Rishadan Port,4
-166,Death & Taxes,Death & Taxes 2,Horizon Canopy,1
-167,Death & Taxes,Death & Taxes 2,Flagstones of Trokair,1
-168,Death & Taxes,Death & Taxes 3,Aether Vial,4
-169,Death & Taxes,Death & Taxes 3,Batterskull,1
-170,Death & Taxes,Death & Taxes 3,Charming Prince,1
-171,Death & Taxes,Death & Taxes 3,Flickerwisp,4
-172,Death & Taxes,Death & Taxes 3,Mirran Crusader,1
-173,Death & Taxes,Death & Taxes 3,Mother of Runes,4
-174,Death & Taxes,Death & Taxes 3,Palace Jailer,1
-175,Death & Taxes,Death & Taxes 3,Phyrexian Revoker,2
-176,Death & Taxes,Death & Taxes 3,Recruiter of the Guard,2
-177,Death & Taxes,Death & Taxes 3,Sanctum Prelate,1
-178,Death & Taxes,Death & Taxes 3,Stoneforge Mystic,4
-179,Death & Taxes,Death & Taxes 3,Sword of Fire and Ice,1
-180,Death & Taxes,Death & Taxes 3,Swords to Plowshares,4
-181,Death & Taxes,Death & Taxes 3,"Thalia, Guardian of Thraben",4
-182,Death & Taxes,Death & Taxes 3,"Tomik, Distinguished Advokist",2
-183,Death & Taxes,Death & Taxes 3,Umezawa's Jitte,1
-184,Death & Taxes,Death & Taxes 3,Cavern of Souls,2
-185,Death & Taxes,Death & Taxes 3,Karakas,3
-186,Death & Taxes,Death & Taxes 3,Plains,10
-187,Death & Taxes,Death & Taxes 3,Rishadan Port,4
-188,Death & Taxes,Death & Taxes 3,Wasteland,4
-189,Death & Taxes,Death & Taxes 4,Karakas,3
-190,Death & Taxes,Death & Taxes 4,Plains,10
-191,Death & Taxes,Death & Taxes 4,Rishadan Port,4
-192,Death & Taxes,Death & Taxes 4,Wasteland,4
-193,Death & Taxes,Death & Taxes 4,Cavern of Souls,2
-194,Death & Taxes,Death & Taxes 4,Charming Prince,1
-195,Death & Taxes,Death & Taxes 4,Flickerwisp,4
-196,Death & Taxes,Death & Taxes 4,Mirran Crusader,1
-197,Death & Taxes,Death & Taxes 4,Mother of Runes,4
-198,Death & Taxes,Death & Taxes 4,Palace Jailer,1
-199,Death & Taxes,Death & Taxes 4,Phyrexian Revoker,2
-200,Death & Taxes,Death & Taxes 4,Recruiter of the Guard,2
-201,Death & Taxes,Death & Taxes 4,Sanctum Prelate,1
-202,Death & Taxes,Death & Taxes 4,Stoneforge Mystic,4
-203,Death & Taxes,Death & Taxes 4,"Thalia, Guardian of Thraben",4
-204,Death & Taxes,Death & Taxes 4,"Tomik, Distinguished Advokist",2
-205,Death & Taxes,Death & Taxes 4,Swords to Plowshares,4
-206,Death & Taxes,Death & Taxes 4,Aether Vial,4
-207,Death & Taxes,Death & Taxes 4,Batterskull,1
-208,Death & Taxes,Death & Taxes 4,Sword of Fire and Ice,1
-209,Death & Taxes,Death & Taxes 4,Umezawa's Jitte,1
-210,Goblins,Goblins 1,Goblin Piledriver,2
-211,Goblins,Goblins 1,Aether Vial,4
-212,Goblins,Goblins 1,Gempalm Incinerator,3
-213,Goblins,Goblins 1,Goblin Chainwhirler,3
-214,Goblins,Goblins 1,Goblin Chieftain,2
-215,Goblins,Goblins 1,Goblin Cratermaker,2
-216,Goblins,Goblins 1,Goblin Lackey,4
-217,Goblins,Goblins 1,Goblin Matron,4
-218,Goblins,Goblins 1,Goblin Ringleader,4
-219,Goblins,Goblins 1,Goblin Trashmaster,1
-220,Goblins,Goblins 1,Goblin Warchief,3
-221,Goblins,Goblins 1,"Krenko, Mob Boss",1
-222,Goblins,Goblins 1,Mogg War Marshal,2
-223,Goblins,Goblins 1,Siege-Gang Commander,1
-224,Goblins,Goblins 1,Stingscourger,1
-225,Goblins,Goblins 1,Cavern of Souls,4
-226,Goblins,Goblins 1,Mountain,11
-227,Goblins,Goblins 1,Rishadan Port,4
-228,Goblins,Goblins 1,Wasteland,4
-229,Goblins,Goblins 2,Skirk Prospector,1
-230,Goblins,Goblins 2,Wooded Foothills,2
-231,Goblins,Goblins 2,Wasteland,4
-232,Goblins,Goblins 2,Volrath's Stronghold,1
-233,Goblins,Goblins 2,Swamp,1
-234,Goblins,Goblins 2,Rishadan Port,2
-235,Goblins,Goblins 2,Mountain,4
-236,Goblins,Goblins 2,Cavern of Souls,4
-237,Goblins,Goblins 2,Goblin Lackey,4
-238,Goblins,Goblins 2,Badlands,2
-239,Goblins,Goblins 2,Bloodstained Mire,4
-240,Goblins,Goblins 2,Earwig Squad,1
-241,Goblins,Goblins 2,Gempalm Incinerator,1
-242,Goblins,Goblins 2,Goblin Cratermaker,3
-243,Goblins,Goblins 2,Goblin Matron,4
-244,Goblins,Goblins 2,Goblin Ringleader,4
-245,Goblins,Goblins 2,Goblin Piledriver,3
-246,Goblins,Goblins 2,Goblin Warchief,2
-247,Goblins,Goblins 2,Goblin Trashmaster,1
-248,Goblins,Goblins 2,Mogg Fanatic,1
-249,Goblins,Goblins 2,Mogg War Marshal,1
-250,Goblins,Goblins 2,Munitions Expert,3
-251,Goblins,Goblins 2,Pashalik Mons,2
-252,Goblins,Goblins 2,Aether Vial,4
-253,Goblins,Goblins 2,Sling-Gang Lieutenant,1
-254,Eldrazi Aggro,Eldrazi Aggro 1,City of Traitors,3
-255,Eldrazi Aggro,Eldrazi Aggro 1,Ancient Tomb,4
-256,Eldrazi Aggro,Eldrazi Aggro 1,Cavern of Souls,4
-257,Eldrazi Aggro,Eldrazi Aggro 1,Eldrazi Temple,4
-258,Eldrazi Aggro,Eldrazi Aggro 1,"Urborg, Tomb of Yawgmoth",1
-259,Eldrazi Aggro,Eldrazi Aggro 1,Eye of Ugin,3
-260,Eldrazi Aggro,Eldrazi Aggro 1,Dismember,1
-261,Eldrazi Aggro,Eldrazi Aggro 1,Umezawa's Jitte,1
-262,Eldrazi Aggro,Eldrazi Aggro 1,Ratchet Bomb,2
-263,Eldrazi Aggro,Eldrazi Aggro 1,Chalice of the Void,4
-264,Eldrazi Aggro,Eldrazi Aggro 1,Simian Spirit Guide,2
-265,Eldrazi Aggro,Eldrazi Aggro 1,Walking Ballista,1
-266,Eldrazi Aggro,Eldrazi Aggro 1,Endbringer,3
-267,Eldrazi Aggro,Eldrazi Aggro 1,Matter Reshaper,4
-268,Eldrazi Aggro,Eldrazi Aggro 1,Eldrazi Mimic,4
-269,Eldrazi Aggro,Eldrazi Aggro 1,Endless One,4
-270,Eldrazi Aggro,Eldrazi Aggro 1,Thought-Knot Seer,4
-271,Eldrazi Aggro,Eldrazi Aggro 1,Reality Smasher,4
-272,Eldrazi Aggro,Eldrazi Aggro 1,Wastes,3
-273,Eldrazi Aggro,Eldrazi Aggro 1,Wasteland,4
-274,Eldrazi Aggro,Eldrazi Aggro 2,Grove of the Burnwillows,4
-275,Eldrazi Aggro,Eldrazi Aggro 2,Chrome Mox,2
-276,Eldrazi Aggro,Eldrazi Aggro 2,Ancient Tomb,4
-277,Eldrazi Aggro,Eldrazi Aggro 2,City of Traitors,4
-278,Eldrazi Aggro,Eldrazi Aggro 2,Eldrazi Temple,4
-279,Eldrazi Aggro,Eldrazi Aggro 2,Mountain,6
-280,Eldrazi Aggro,Eldrazi Aggro 2,Simian Spirit Guide,4
-281,Eldrazi Aggro,Eldrazi Aggro 2,Goblin Rabblemaster,4
-282,Eldrazi Aggro,Eldrazi Aggro 2,Thought-Knot Seer,4
-283,Eldrazi Aggro,Eldrazi Aggro 2,Reality Smasher,4
-284,Eldrazi Aggro,Eldrazi Aggro 2,Bonecrusher Giant,3
-285,Eldrazi Aggro,Eldrazi Aggro 2,Hazoret the Fervent,1
-286,Eldrazi Aggro,Eldrazi Aggro 2,Anje's Ravager,1
-287,Eldrazi Aggro,Eldrazi Aggro 2,Blood Sun,4
-288,Eldrazi Aggro,Eldrazi Aggro 2,Chalice of the Void,4
-289,Eldrazi Aggro,Eldrazi Aggro 2,Punishing Fire,4
-290,Eldrazi Aggro,Eldrazi Aggro 2,Fiery Confluence,2
-291,Eldrazi Aggro,Eldrazi Aggro 2,Dead / Gone,1
-292,Grixis Delver,Grixis Delver 1,Wasteland,4
-293,Grixis Delver,Grixis Delver 1,Volcanic Island,3
-294,Grixis Delver,Grixis Delver 1,Underground Sea,3
-295,Grixis Delver,Grixis Delver 1,Scalding Tarn,2
-296,Grixis Delver,Grixis Delver 1,Polluted Delta,2
-297,Grixis Delver,Grixis Delver 1,Misty Rainforest,2
-298,Grixis Delver,Grixis Delver 1,Island,1
-299,Grixis Delver,Grixis Delver 1,Flooded Strand,2
-300,Grixis Delver,Grixis Delver 1,Young Pyromancer,2
-301,Grixis Delver,Grixis Delver 1,True-Name Nemesis,1
-302,Grixis Delver,Grixis Delver 1,Thoughtseize,3
-303,Grixis Delver,Grixis Delver 1,Spell Pierce,1
-304,Grixis Delver,Grixis Delver 1,Preordain,2
-305,Grixis Delver,Grixis Delver 1,Ponder,4
-306,Grixis Delver,Grixis Delver 1,Lightning Bolt,4
-307,Grixis Delver,Grixis Delver 1,Gurmag Angler,2
-308,Grixis Delver,Grixis Delver 1,Force of Will,4
-309,Grixis Delver,Grixis Delver 1,Brazen Borrower,1
-310,Grixis Delver,Grixis Delver 1,Brainstorm,4
-311,Grixis Delver,Grixis Delver 1,Daze,4
-312,Grixis Delver,Grixis Delver 1,Delver of Secrets,4
-313,Grixis Delver,Grixis Delver 1,Dreadhorde Arcanist,3
-314,Grixis Delver,Grixis Delver 1,Fatal Push,1
-315,Grixis Delver,Grixis Delver 1,Force of Negation,1
-316,Grixis Delver,Grixis Delver 2,Dreadhorde Arcanist,3
-317,Grixis Delver,Grixis Delver 2,Lightning Bolt,4
-318,Grixis Delver,Grixis Delver 2,Gurmag Angler,2
-319,Grixis Delver,Grixis Delver 2,Delver of Secrets,4
-320,Grixis Delver,Grixis Delver 2,True-Name Nemesis,2
-321,Grixis Delver,Grixis Delver 2,Young Pyromancer,1
-322,Grixis Delver,Grixis Delver 2,Brainstorm,4
-323,Grixis Delver,Grixis Delver 2,Daze,4
-324,Grixis Delver,Grixis Delver 2,Force of Will,4
-325,Grixis Delver,Grixis Delver 2,Fatal Push,2
-326,Grixis Delver,Grixis Delver 2,Stifle,3
-327,Grixis Delver,Grixis Delver 2,Force of Negation,1
-328,Grixis Delver,Grixis Delver 2,Ponder,4
-329,Grixis Delver,Grixis Delver 2,Thoughtseize,3
-330,Grixis Delver,Grixis Delver 2,Bloodstained Mire,1
-331,Grixis Delver,Grixis Delver 2,Polluted Delta,4
-332,Grixis Delver,Grixis Delver 2,Flooded Strand,3
-333,Grixis Delver,Grixis Delver 2,Underground Sea,3
-334,Grixis Delver,Grixis Delver 2,Volcanic Island,3
-335,Grixis Delver,Grixis Delver 2,Wasteland,4
-336,Grixis Delver,Grixis Delver 2,Scalding Tarn,1
-337,Canadian Threshold,Canadian Threshold 1,Force of Negation,1
-338,Canadian Threshold,Canadian Threshold 1,Spell Pierce,3
-339,Canadian Threshold,Canadian Threshold 1,Stifle,4
-340,Canadian Threshold,Canadian Threshold 1,Wasteland,4
-341,Canadian Threshold,Canadian Threshold 1,Wooded Foothills,3
-342,Canadian Threshold,Canadian Threshold 1,Polluted Delta,3
-343,Canadian Threshold,Canadian Threshold 1,Misty Rainforest,2
-344,Canadian Threshold,Canadian Threshold 1,Volcanic Island,3
-345,Canadian Threshold,Canadian Threshold 1,Tropical Island,3
-346,Canadian Threshold,Canadian Threshold 1,Delver of Secrets,4
-347,Canadian Threshold,Canadian Threshold 1,Tarmogoyf,4
-348,Canadian Threshold,Canadian Threshold 1,Hooting Mandrills,2
-349,Canadian Threshold,Canadian Threshold 1,Brazen Borrower,1
-350,Canadian Threshold,Canadian Threshold 1,Brainstorm,4
-351,Canadian Threshold,Canadian Threshold 1,Ponder,4
-352,Canadian Threshold,Canadian Threshold 1,Preordain,1
-353,Canadian Threshold,Canadian Threshold 1,Lightning Bolt,4
-354,Canadian Threshold,Canadian Threshold 1,Dismember,1
-355,Canadian Threshold,Canadian Threshold 1,Forked Bolt,1
-356,Canadian Threshold,Canadian Threshold 1,Force of Will,4
-357,Canadian Threshold,Canadian Threshold 1,Daze,4
-358,Bant Aggro,Bant Aggro 1,Natural Order,2
-359,Bant Aggro,Bant Aggro 1,Arcum's Astrolabe,2
-360,Bant Aggro,Bant Aggro 1,Opposition,2
-361,Bant Aggro,Bant Aggro 1,"Teferi, Time Raveler",2
-362,Bant Aggro,Bant Aggro 1,"Oko, Thief of Crowns",3
-363,Bant Aggro,Bant Aggro 1,Brainstorm,4
-364,Bant Aggro,Bant Aggro 1,Force of Will,4
-365,Bant Aggro,Bant Aggro 1,Green Sun's Zenith,4
-366,Bant Aggro,Bant Aggro 1,Courser of Kruphix,1
-367,Bant Aggro,Bant Aggro 1,Questing Beast,1
-368,Bant Aggro,Bant Aggro 1,Archon of Valor's Reach,1
-369,Bant Aggro,Bant Aggro 1,Scavenging Ooze,1
-370,Bant Aggro,Bant Aggro 1,Knight of Autumn,1
-371,Bant Aggro,Bant Aggro 1,Brazen Borrower,1
-372,Bant Aggro,Bant Aggro 1,Craterhoof Behemoth,1
-373,Bant Aggro,Bant Aggro 1,Gilded Goose,2
-374,Bant Aggro,Bant Aggro 1,Ice-Fang Coatl,4
-375,Bant Aggro,Bant Aggro 1,Noble Hierarch,4
-376,Bant Aggro,Bant Aggro 1,Snow-Covered Island,1
-377,Bant Aggro,Bant Aggro 1,Wooded Foothills,1
-378,Bant Aggro,Bant Aggro 1,Savannah,1
-379,Bant Aggro,Bant Aggro 1,Verdant Catacombs,2
-380,Bant Aggro,Bant Aggro 1,Dryad Arbor,2
-381,Bant Aggro,Bant Aggro 1,Gaea's Cradle,2
-382,Bant Aggro,Bant Aggro 1,Windswept Heath,2
-383,Bant Aggro,Bant Aggro 1,Tropical Island,2
-384,Bant Aggro,Bant Aggro 1,Snow-Covered Forest,3
-385,Bant Aggro,Bant Aggro 1,Misty Rainforest,4
-386,Dragon Stompy,Dragon Stompy 1,"Karn, the Great Creator",4
-387,Dragon Stompy,Dragon Stompy 1,"Chandra, Torch of Defiance",4
-388,Dragon Stompy,Dragon Stompy 1,Legion Warboss,2
-389,Dragon Stompy,Dragon Stompy 1,Goblin Rabblemaster,4
-390,Dragon Stompy,Dragon Stompy 1,Simian Spirit Guide,4
-391,Dragon Stompy,Dragon Stompy 1,Fiery Confluence,2
-392,Dragon Stompy,Dragon Stompy 1,Chalice of the Void,4
-393,Dragon Stompy,Dragon Stompy 1,Trinisphere,4
-394,Dragon Stompy,Dragon Stompy 1,Ensnaring Bridge,3
-395,Dragon Stompy,Dragon Stompy 1,Blood Moon,4
-396,Dragon Stompy,Dragon Stompy 1,Blood Sun,2
-397,Dragon Stompy,Dragon Stompy 1,Chrome Mox,4
-398,Dragon Stompy,Dragon Stompy 1,Snow-Covered Mountain,11
-399,Dragon Stompy,Dragon Stompy 1,City of Traitors,4
-400,Dragon Stompy,Dragon Stompy 1,Ancient Tomb,4
-401,Slivers,Slivers 1,Aether Vial,4
-402,Slivers,Slivers 1,Ancient Ziggurat,3
-403,Slivers,Slivers 1,Cavern of Souls,4
-404,Slivers,Slivers 1,Cloudshredder Sliver,2
-405,Slivers,Slivers 1,Crystalline Sliver,4
-406,Slivers,Slivers 1,Force of Will,4
-407,Slivers,Slivers 1,Galerider Sliver,4
-408,Slivers,Slivers 1,Hibernation Sliver,3
-409,Slivers,Slivers 1,Karakas,2
-410,Slivers,Slivers 1,Muscle Sliver,2
-411,Slivers,Slivers 1,Mutavault,3
-412,Slivers,Slivers 1,Plated Sliver,2
-413,Slivers,Slivers 1,Predatory Sliver,4
-414,Slivers,Slivers 1,Sinew Sliver,4
-415,Slivers,Slivers 1,Sliver Hive,4
-416,Slivers,Slivers 1,Striking Sliver,4
-417,Slivers,Slivers 1,Unclaimed Territory,4
-418,Slivers,Slivers 1,Unsettled Mariner,3
-419,Pikula,Pikula 1,Windswept Heath,1
-420,Pikula,Pikula 1,Vindicate,1
-421,Pikula,Pikula 1,Batterskull,1
-422,Pikula,Pikula 1,Council's Judgment,1
-423,Pikula,Pikula 1,Dark Confidant,4
-424,Pikula,Pikula 1,Fatal Push,1
-425,Pikula,Pikula 1,Gideon of the Trials,1
-426,Pikula,Pikula 1,Hymn to Tourach,3
-427,Pikula,Pikula 1,Inquisition of Kozilek,1
-428,Pikula,Pikula 1,"Liliana, the Last Hope",2
-429,Pikula,Pikula 1,Lingering Souls,2
-430,Pikula,Pikula 1,Mother of Runes,3
-431,Pikula,Pikula 1,Stoneforge Mystic,4
-432,Pikula,Pikula 1,Sword of Fire and Ice,1
-433,Pikula,Pikula 1,Swords to Plowshares,4
-434,Pikula,Pikula 1,Thoughtseize,4
-435,Pikula,Pikula 1,Toxic Deluge,1
-436,Pikula,Pikula 1,Umezawa's Jitte,1
-437,Pikula,Pikula 1,Horizon Canopy,1
-438,Pikula,Pikula 1,Karakas,1
-439,Pikula,Pikula 1,Marsh Flats,4
-440,Pikula,Pikula 1,Plains,2
-441,Pikula,Pikula 1,Scrubland,4
-442,Pikula,Pikula 1,Swamp,4
-443,Pikula,Pikula 1,Verdant Catacombs,3
-444,Pikula,Pikula 1,Wasteland,2
-445,Pikula,Pikula 1,Tidehollow Sculler,3
-446,Mono Black Aggro,Mono Black Aggro 1,Carrion Feeder,4
-447,Mono Black Aggro,Mono Black Aggro 1,Wayward Servant,4
-448,Mono Black Aggro,Mono Black Aggro 1,Gravecrawler,4
-449,Mono Black Aggro,Mono Black Aggro 1,Plains,1
-450,Mono Black Aggro,Mono Black Aggro 1,Prismatic Vista,1
-451,Mono Black Aggro,Mono Black Aggro 1,Bloodstained Mire,1
-452,Mono Black Aggro,Mono Black Aggro 1,Karakas,2
-453,Mono Black Aggro,Mono Black Aggro 1,Scrubland,2
-454,Mono Black Aggro,Mono Black Aggro 1,Cavern of Souls,2
-455,Mono Black Aggro,Mono Black Aggro 1,Relentless Dead,2
-456,Mono Black Aggro,Mono Black Aggro 1,Undead Augur,3
-457,Mono Black Aggro,Mono Black Aggro 1,Tidehollow Sculler,4
-458,Mono Black Aggro,Mono Black Aggro 1,Cryptbreaker,4
-459,Mono Black Aggro,Mono Black Aggro 1,Marsh Flats,4
-460,Mono Black Aggro,Mono Black Aggro 1,Swamp,7
-461,Mono Black Aggro,Mono Black Aggro 1,Cabal Therapy,2
-462,Mono Black Aggro,Mono Black Aggro 1,Thoughtseize,2
-463,Mono Black Aggro,Mono Black Aggro 1,Phyrexian Altar,2
-464,Mono Black Aggro,Mono Black Aggro 1,Hymn to Tourach,3
-465,Mono Black Aggro,Mono Black Aggro 1,Swords to Plowshares,4
-466,Mono Black Aggro,Mono Black Aggro 1,Diregraf Colossus,2
-467,Other - Aggro,Other - Aggro 1,Batterskull,1
-468,Other - Aggro,Other - Aggro 1,Sword of Fire and Ice,1
-469,Other - Aggro,Other - Aggro 1,Umezawa's Jitte,1
-470,Other - Aggro,Other - Aggro 1,Wasteland,4
-471,Other - Aggro,Other - Aggro 1,Windswept Heath,4
-472,Other - Aggro,Other - Aggro 1,Verdant Catacombs,3
-473,Other - Aggro,Other - Aggro 1,Marsh Flats,1
-474,Other - Aggro,Other - Aggro 1,Savannah,3
-475,Other - Aggro,Other - Aggro 1,Forest,2
-476,Other - Aggro,Other - Aggro 1,Plains,1
-477,Other - Aggro,Other - Aggro 1,Karakas,1
-478,Other - Aggro,Other - Aggro 1,Horizon Canopy,1
-479,Other - Aggro,Other - Aggro 1,Gaea's Cradle,1
-480,Other - Aggro,Other - Aggro 1,Maze of Ith,1
-481,Other - Aggro,Other - Aggro 1,Dryad Arbor,1
-482,Other - Aggro,Other - Aggro 1,Birds of Paradise,1
-483,Other - Aggro,Other - Aggro 1,Noble Hierarch,4
-484,Other - Aggro,Other - Aggro 1,Giver of Runes,4
-485,Other - Aggro,Other - Aggro 1,Knight of the Reliquary,4
-486,Other - Aggro,Other - Aggro 1,Stoneforge Mystic,3
-487,Other - Aggro,Other - Aggro 1,"Thalia, Guardian of Thraben",3
-488,Other - Aggro,Other - Aggro 1,Gaddock Teeg,1
-489,Other - Aggro,Other - Aggro 1,Qasali Pridemage,1
-490,Other - Aggro,Other - Aggro 1,Scryb Ranger,1
-491,Other - Aggro,Other - Aggro 1,Scavenging Ooze,1
-492,Other - Aggro,Other - Aggro 1,Ramunap Excavator,1
-493,Other - Aggro,Other - Aggro 1,Tireless Tracker,1
-494,Other - Aggro,Other - Aggro 1,Questing Beast,1
-495,Other - Aggro,Other - Aggro 1,Swords to Plowshares,4
-496,Other - Aggro,Other - Aggro 1,Green Sun's Zenith,4
-497,Other - Aggro,Other - Aggro 2,"Chandra, Torch of Defiance",1
-498,Other - Aggro,Other - Aggro 2,"Karn, the Great Creator",4
-499,Other - Aggro,Other - Aggro 2,Red Elemental Blast,2
-500,Other - Aggro,Other - Aggro 2,Pyroblast,4
-501,Other - Aggro,Other - Aggro 2,Blood Moon,4
-502,Other - Aggro,Other - Aggro 2,Lotus Petal,2
-503,Other - Aggro,Other - Aggro 2,Ichor Wellspring,1
-504,Other - Aggro,Other - Aggro 2,Ensnaring Bridge,1
-505,Other - Aggro,Other - Aggro 2,Grindstone,3
-506,Other - Aggro,Other - Aggro 2,Painter's Servant,3
-507,Other - Aggro,Other - Aggro 2,Smuggler's Copter,2
-508,Other - Aggro,Other - Aggro 2,Simian Spirit Guide,4
-509,Other - Aggro,Other - Aggro 2,Imperial Recruiter,2
-510,Other - Aggro,Other - Aggro 2,Goblin Engineer,4
-511,Other - Aggro,Other - Aggro 2,City of Traitors,3
-512,Other - Aggro,Other - Aggro 2,Ancient Tomb,4
-513,Other - Aggro,Other - Aggro 2,Great Furnace,3
-514,Other - Aggro,Other - Aggro 2,Mountain,10
-515,Other - Aggro,Other - Aggro 2,Goblin Welder,3
-516,Bant Control,Bant Control 1,Counterspell,1
-517,Bant Control,Bant Control 1,"Teferi, Time Raveler",1
-518,Bant Control,Bant Control 1,Entreat the Angels,1
-519,Bant Control,Bant Control 1,Veil of Summer,2
-520,Bant Control,Bant Control 1,"Jace, the Mind Sculptor",2
-521,Bant Control,Bant Control 1,Force of Negation,2
-522,Bant Control,Bant Control 1,"Oko, Thief of Crowns",3
-523,Bant Control,Bant Control 1,Terminus,3
-524,Bant Control,Bant Control 1,Brainstorm,4
-525,Bant Control,Bant Control 1,Arcum's Astrolabe,4
-526,Bant Control,Bant Control 1,Force of Will,4
-527,Bant Control,Bant Control 1,Ponder,4
-528,Bant Control,Bant Control 1,Swords to Plowshares,4
-529,Bant Control,Bant Control 1,Ice-Fang Coatl,2
-530,Bant Control,Bant Control 1,Snapcaster Mage,3
-531,Bant Control,Bant Control 1,Scalding Tarn,1
-532,Bant Control,Bant Control 1,Snow-Covered Mountain,1
-533,Bant Control,Bant Control 1,Snow-Covered Plains,1
-534,Bant Control,Bant Control 1,Tropical Island,1
-535,Bant Control,Bant Control 1,Tundra,1
-536,Bant Control,Bant Control 1,Volcanic Island,1
-537,Bant Control,Bant Control 1,Mystic Sanctuary,2
-538,Bant Control,Bant Control 1,Snow-Covered Island,4
-539,Bant Control,Bant Control 1,Flooded Strand,4
-540,Bant Control,Bant Control 1,Misty Rainforest,4
-541,Bant Control,Bant Control 2,Tropical Island,1
-542,Bant Control,Bant Control 2,Tundra,1
-543,Bant Control,Bant Control 2,Flooded Strand,4
-544,Bant Control,Bant Control 2,Snow-Covered Plains,1
-545,Bant Control,Bant Control 2,Snow-Covered Island,4
-546,Bant Control,Bant Control 2,Snow-Covered Forest,1
-547,Bant Control,Bant Control 2,Misty Rainforest,4
-548,Bant Control,Bant Control 2,Scalding Tarn,2
-549,Bant Control,Bant Control 2,Mystic Sanctuary,2
-550,Bant Control,Bant Control 2,Snapcaster Mage,3
-551,Bant Control,Bant Control 2,Ice-Fang Coatl,3
-552,Bant Control,Bant Control 2,Brainstorm,4
-553,Bant Control,Bant Control 2,Force of Will,4
-554,Bant Control,Bant Control 2,Counterspell,1
-555,Bant Control,Bant Control 2,Ponder,4
-556,Bant Control,Bant Control 2,Force of Negation,2
-557,Bant Control,Bant Control 2,Swords to Plowshares,4
-558,Bant Control,Bant Control 2,Entreat the Angels,1
-559,Bant Control,Bant Control 2,Terminus,3
-560,Bant Control,Bant Control 2,Veil of Summer,1
-561,Bant Control,Bant Control 2,"Oko, Thief of Crowns",3
-562,Bant Control,Bant Control 2,Arcum's Astrolabe,4
-563,Bant Control,Bant Control 2,"Jace, the Mind Sculptor",2
-564,Bant Control,Bant Control 2,"Teferi, Time Raveler",1
-565,Bant Control,Bant Control 3,Council's Judgment,1
-566,Bant Control,Bant Control 3,"Jace, the Mind Sculptor",1
-567,Bant Control,Bant Control 3,Veil of Summer,1
-568,Bant Control,Bant Control 3,Ephemerate,2
-569,Bant Control,Bant Control 3,"Teferi, Time Raveler",2
-570,Bant Control,Bant Control 3,"Oko, Thief of Crowns",3
-571,Bant Control,Bant Control 3,Force of Will,4
-572,Bant Control,Bant Control 3,Brainstorm,4
-573,Bant Control,Bant Control 3,Swords to Plowshares,4
-574,Bant Control,Bant Control 3,Ponder,4
-575,Bant Control,Bant Control 3,Arcum's Astrolabe,4
-576,Bant Control,Bant Control 3,"Pir, Imaginative Rascal",2
-577,Bant Control,Bant Control 3,Snapcaster Mage,2
-578,Bant Control,Bant Control 3,"Toothy, Imaginary Friend",2
-579,Bant Control,Bant Control 3,Ice-Fang Coatl,4
-580,Bant Control,Bant Control 3,Tundra,1
-581,Bant Control,Bant Control 3,Snow-Covered Plains,1
-582,Bant Control,Bant Control 3,Tropical Island,1
-583,Bant Control,Bant Control 3,Snow-Covered Forest,2
-584,Bant Control,Bant Control 3,Windswept Heath,3
-585,Bant Control,Bant Control 3,Snow-Covered Island,4
-586,Bant Control,Bant Control 3,Prismatic Vista,4
-587,Bant Control,Bant Control 3,Flooded Strand,4
-588,Bant Control,Bant Control 4,Misty Rainforest,4
-589,Bant Control,Bant Control 4,Snow-Covered Island,5
-590,Bant Control,Bant Control 4,Force of Will,4
-591,Bant Control,Bant Control 4,Ponder,4
-592,Bant Control,Bant Control 4,Swords to Plowshares,4
-593,Bant Control,Bant Control 4,Brainstorm,4
-594,Bant Control,Bant Control 4,Ice-Fang Coatl,2
-595,Bant Control,Bant Control 4,Snapcaster Mage,3
-596,Bant Control,Bant Control 4,Polluted Delta,1
-597,Bant Control,Bant Control 4,"Jace, the Mind Sculptor",2
-598,Bant Control,Bant Control 4,Terminus,3
-599,Bant Control,Bant Control 4,"Oko, Thief of Crowns",3
-600,Bant Control,Bant Control 4,Arcum's Astrolabe,4
-601,Bant Control,Bant Control 4,Snow-Covered Forest,1
-602,Bant Control,Bant Control 4,Snow-Covered Plains,1
-603,Bant Control,Bant Control 4,Tropical Island,1
-604,Bant Control,Bant Control 4,Entreat the Angels,1
-605,Bant Control,Bant Control 4,Counterspell,1
-606,Bant Control,Bant Control 4,"Teferi, Time Raveler",1
-607,Bant Control,Bant Control 4,Veil of Summer,2
-608,Bant Control,Bant Control 4,Force of Negation,2
-609,Bant Control,Bant Control 4,Tundra,1
-610,Bant Control,Bant Control 4,Mystic Sanctuary,2
-611,Bant Control,Bant Control 4,Flooded Strand,4
-612,Bant Control,Bant Control 5,Engineered Explosives,1
-613,Bant Control,Bant Control 5,"Teferi, Time Raveler",1
-614,Bant Control,Bant Control 5,Dovin's Veto,2
-615,Bant Control,Bant Control 5,"Oko, Thief of Crowns",2
-616,Bant Control,Bant Control 5,"Jace, the Mind Sculptor",2
-617,Bant Control,Bant Control 5,Force of Negation,2
-618,Bant Control,Bant Control 5,Terminus,3
-619,Bant Control,Bant Control 5,Tropical Island,1
-620,Bant Control,Bant Control 5,Tundra,1
-621,Bant Control,Bant Control 5,Snow-Covered Plains,2
-622,Bant Control,Bant Control 5,Mystic Sanctuary,2
-623,Bant Control,Bant Control 5,Flooded Strand,4
-624,Bant Control,Bant Control 5,Misty Rainforest,4
-625,Bant Control,Bant Control 5,Snow-Covered Island,4
-626,Bant Control,Bant Control 5,Snapcaster Mage,3
-627,Bant Control,Bant Control 5,Polluted Delta,1
-628,Bant Control,Bant Control 5,Snow-Covered Forest,1
-629,Bant Control,Bant Control 5,Arcum's Astrolabe,4
-630,Bant Control,Bant Control 5,Force of Will,4
-631,Bant Control,Bant Control 5,Ponder,4
-632,Bant Control,Bant Control 5,Swords to Plowshares,4
-633,Bant Control,Bant Control 5,Brainstorm,4
-634,Bant Control,Bant Control 5,Ice-Fang Coatl,2
-635,Bant Control,Bant Control 5,Entreat the Angels,1
-636,Bant Control,Bant Control 5,Council's Judgment,1
-637,UWx Control,UWx Control 1,"Teferi, Time Raveler",1
-638,UWx Control,UWx Control 1,Supreme Verdict,1
-639,UWx Control,UWx Control 1,Force of Negation,1
-640,UWx Control,UWx Control 1,Spell Pierce,1
-641,UWx Control,UWx Control 1,Counterspell,2
-642,UWx Control,UWx Control 1,Council's Judgment,2
-643,UWx Control,UWx Control 1,"Oko, Thief of Crowns",2
-644,UWx Control,UWx Control 1,"Narset, Parter of Veils",2
-645,UWx Control,UWx Control 1,"Jace, the Mind Sculptor",2
-646,UWx Control,UWx Control 1,Arcum's Astrolabe,4
-647,UWx Control,UWx Control 1,Swords to Plowshares,4
-648,UWx Control,UWx Control 1,Force of Will,4
-649,UWx Control,UWx Control 1,Brainstorm,4
-650,UWx Control,UWx Control 1,Ponder,4
-651,UWx Control,UWx Control 1,Snapcaster Mage,3
-652,UWx Control,UWx Control 1,Ice-Fang Coatl,3
-653,UWx Control,UWx Control 1,Savannah,1
-654,UWx Control,UWx Control 1,Windswept Heath,1
-655,UWx Control,UWx Control 1,Tundra,1
-656,UWx Control,UWx Control 1,Tropical Island,1
-657,UWx Control,UWx Control 1,Snow-Covered Forest,1
-658,UWx Control,UWx Control 1,Misty Rainforest,1
-659,UWx Control,UWx Control 1,Snow-Covered Plains,2
-660,UWx Control,UWx Control 1,Prismatic Vista,3
-661,UWx Control,UWx Control 1,Flooded Strand,4
-662,UWx Control,UWx Control 1,Snow-Covered Island,5
-663,UWx Control,UWx Control 2,Swords to Plowshares,2
-664,UWx Control,UWx Control 2,Bayou,1
-665,UWx Control,UWx Control 2,Polluted Delta,4
-666,UWx Control,UWx Control 2,Tropical Island,1
-667,UWx Control,UWx Control 2,Tundra,1
-668,UWx Control,UWx Control 2,Underground Sea,2
-669,UWx Control,UWx Control 2,Volcanic Island,1
-670,UWx Control,UWx Control 2,Flooded Strand,4
-671,UWx Control,UWx Control 2,Scrubland,1
-672,UWx Control,UWx Control 2,Snow-Covered Swamp,1
-673,UWx Control,UWx Control 2,Snow-Covered Island,1
-674,UWx Control,UWx Control 2,Misty Rainforest,3
-675,UWx Control,UWx Control 2,Snapcaster Mage,2
-676,UWx Control,UWx Control 2,Baleful Strix,4
-677,UWx Control,UWx Control 2,Brainstorm,4
-678,UWx Control,UWx Control 2,Force of Will,4
-679,UWx Control,UWx Control 2,Ponder,4
-680,UWx Control,UWx Control 2,Hymn to Tourach,3
-681,UWx Control,UWx Control 2,Inquisition of Kozilek,3
-682,UWx Control,UWx Control 2,Drown in the Loch,2
-683,UWx Control,UWx Control 2,"Oko, Thief of Crowns",3
-684,UWx Control,UWx Control 2,Abrupt Decay,2
-685,UWx Control,UWx Control 2,Arcum's Astrolabe,3
-686,UWx Control,UWx Control 2,"Jace, the Mind Sculptor",1
-687,UWx Control,UWx Control 2,"Teferi, Time Raveler",3
-688,UWx Control,UWx Control 3,"Jace, the Mind Sculptor",1
-689,UWx Control,UWx Control 3,"Oko, Thief of Crowns",3
-690,UWx Control,UWx Control 3,"Teferi, Time Raveler",3
-691,UWx Control,UWx Control 3,Baleful Strix,4
-692,UWx Control,UWx Control 3,Snapcaster Mage,2
-693,UWx Control,UWx Control 3,Hymn to Tourach,3
-694,UWx Control,UWx Control 3,Inquisition of Kozilek,3
-695,UWx Control,UWx Control 3,Ponder,4
-696,UWx Control,UWx Control 3,Abrupt Decay,2
-697,UWx Control,UWx Control 3,Brainstorm,4
-698,UWx Control,UWx Control 3,Drown in the Loch,2
-699,UWx Control,UWx Control 3,Force of Will,4
-700,UWx Control,UWx Control 3,Swords to Plowshares,2
-701,UWx Control,UWx Control 3,Arcum's Astrolabe,3
-702,UWx Control,UWx Control 3,Bayou,1
-703,UWx Control,UWx Control 3,Flooded Strand,4
-704,UWx Control,UWx Control 3,Misty Rainforest,3
-705,UWx Control,UWx Control 3,Polluted Delta,4
-706,UWx Control,UWx Control 3,Scrubland,1
-707,UWx Control,UWx Control 3,Snow-Covered Island,1
-708,UWx Control,UWx Control 3,Snow-Covered Swamp,1
-709,UWx Control,UWx Control 3,Tropical Island,1
-710,UWx Control,UWx Control 3,Tundra,1
-711,UWx Control,UWx Control 3,Underground Sea,2
-712,UWx Control,UWx Control 3,Volcanic Island,1
-713,UWx Control,UWx Control 4,Snow-Covered Forest,1
-714,UWx Control,UWx Control 4,Snow-Covered Plains,2
-715,UWx Control,UWx Control 4,Snow-Covered Island,4
-716,UWx Control,UWx Control 4,Flooded Strand,4
-717,UWx Control,UWx Control 4,Misty Rainforest,4
-718,UWx Control,UWx Control 4,Tundra,1
-719,UWx Control,UWx Control 4,Mystic Sanctuary,1
-720,UWx Control,UWx Control 4,Veil of Summer,1
-721,UWx Control,UWx Control 4,Dovin's Veto,1
-722,UWx Control,UWx Control 4,"Teferi, Time Raveler",1
-723,UWx Control,UWx Control 4,Entreat the Angels,1
-724,UWx Control,UWx Control 4,Prismatic Vista,1
-725,UWx Control,UWx Control 4,Tropical Island,1
-726,UWx Control,UWx Control 4,Council's Judgment,1
-727,UWx Control,UWx Control 4,Ice-Fang Coatl,3
-728,UWx Control,UWx Control 4,Scalding Tarn,1
-729,UWx Control,UWx Control 4,Force of Negation,2
-730,UWx Control,UWx Control 4,"Jace, the Mind Sculptor",2
-731,UWx Control,UWx Control 4,"Oko, Thief of Crowns",3
-732,UWx Control,UWx Control 4,Terminus,3
-733,UWx Control,UWx Control 4,Brainstorm,4
-734,UWx Control,UWx Control 4,Force of Will,4
-735,UWx Control,UWx Control 4,Ponder,4
-736,UWx Control,UWx Control 4,Swords to Plowshares,4
-737,UWx Control,UWx Control 4,Arcum's Astrolabe,4
-738,UWx Control,UWx Control 4,Snapcaster Mage,2
-739,Loam,Loam 1,Blast Zone,1
-740,Loam,Loam 1,Cabal Pit,1
-741,Loam,Loam 1,Dryad Arbor,1
-742,Loam,Loam 1,Forest,1
-743,Loam,Loam 1,Ghost Quarter,1
-744,Loam,Loam 1,Grove of the Burnwillows,3
-745,Loam,Loam 1,Karakas,1
-746,Loam,Loam 1,Maze of Ith,1
-747,Loam,Loam 1,Savannah,1
-748,Loam,Loam 1,Scrubland,1
-749,Loam,Loam 1,Swamp,1
-750,Loam,Loam 1,Taiga,1
-751,Loam,Loam 1,Tranquil Thicket,1
-752,Loam,Loam 1,Verdant Catacombs,4
-753,Loam,Loam 1,Wasteland,3
-754,Loam,Loam 1,Windswept Heath,2
-755,Loam,Loam 1,Bayou,1
-756,Loam,Loam 1,Barren Moor,1
-757,Loam,Loam 1,Badlands,1
-758,Loam,Loam 1,Toxic Deluge,1
-759,Loam,Loam 1,Sylvan Library,1
-760,Loam,Loam 1,Scavenging Ooze,1
-761,Loam,Loam 1,Punishing Fire,3
-762,Loam,Loam 1,Mox Diamond,4
-763,Loam,Loam 1,"Liliana, the Last Hope",1
-764,Loam,Loam 1,Liliana of the Veil,2
-765,Loam,Loam 1,Life from the Loam,2
-766,Loam,Loam 1,Dark Confidant,4
-767,Loam,Loam 1,Chalice of the Void,4
-768,Loam,Loam 1,Knight of the Reliquary,4
-769,Loam,Loam 1,Assassin's Trophy,1
-770,Loam,Loam 1,Angrath's Rampage,1
-771,Loam,Loam 1,Abrupt Decay,4
-772,Loam,Loam 2,Liliana of the Veil,3
-773,Loam,Loam 2,Sylvan Library,2
-774,Loam,Loam 2,Mox Diamond,4
-775,Loam,Loam 2,Chalice of the Void,4
-776,Loam,Loam 2,Life from the Loam,2
-777,Loam,Loam 2,Punishing Fire,3
-778,Loam,Loam 2,Abrupt Decay,4
-779,Loam,Loam 2,Grim Flayer,4
-780,Loam,Loam 2,Knight of the Reliquary,4
-781,Loam,Loam 2,Dark Confidant,4
-782,Loam,Loam 2,Blast Zone,1
-783,Loam,Loam 2,Wasteland,4
-784,Loam,Loam 2,Karakas,1
-785,Loam,Loam 2,Grove of the Burnwillows,3
-786,Loam,Loam 2,Cabal Pit,1
-787,Loam,Loam 2,Barren Moor,1
-788,Loam,Loam 2,Tranquil Thicket,1
-789,Loam,Loam 2,Swamp,1
-790,Loam,Loam 2,Forest,1
-791,Loam,Loam 2,Badlands,1
-792,Loam,Loam 2,Taiga,1
-793,Loam,Loam 2,Savannah,1
-794,Loam,Loam 2,Scrubland,1
-795,Loam,Loam 2,Bayou,2
-796,Loam,Loam 2,Windswept Heath,2
-797,Loam,Loam 2,Verdant Catacombs,4
-798,Lands,Lands 1,Windswept Heath,1
-799,Lands,Lands 1,Wooded Foothills,1
-800,Lands,Lands 1,Verdant Catacombs,1
-801,Lands,Lands 1,Wasteland,4
-802,Lands,Lands 1,Waterlogged Grove,1
-803,Lands,Lands 1,Thespian's Stage,4
-804,Lands,Lands 1,Tranquil Thicket,2
-805,Lands,Lands 1,Taiga,2
-806,Lands,Lands 1,The Tabernacle at Pendrell Vale,1
-807,Lands,Lands 1,Rishadan Port,4
-808,Lands,Lands 1,Sphere of Resistance,1
-809,Lands,Lands 1,Sylvan Library,1
-810,Lands,Lands 1,Mox Diamond,4
-811,Lands,Lands 1,Punishing Fire,3
-812,Lands,Lands 1,Manabond,1
-813,Lands,Lands 1,Maze of Ith,2
-814,Lands,Lands 1,Karakas,1
-815,Lands,Lands 1,Life from the Loam,4
-816,Lands,Lands 1,Ghost Quarter,1
-817,Lands,Lands 1,Grove of the Burnwillows,3
-818,Lands,Lands 1,Forest,1
-819,Lands,Lands 1,Gamble,3
-820,Lands,Lands 1,Exploration,4
-821,Lands,Lands 1,Field of the Dead,2
-822,Lands,Lands 1,Dark Depths,2
-823,Lands,Lands 1,Crop Rotation,4
-824,Lands,Lands 1,Bojuka Bog,1
-825,Lands,Lands 1,Blast Zone,1
-826,BUG Midrange,BUG Midrange 1,Sylvan Library,1
-827,BUG Midrange,BUG Midrange 1,"Jace, the Mind Sculptor",1
-828,BUG Midrange,BUG Midrange 1,Abrupt Decay,2
-829,BUG Midrange,BUG Midrange 1,Arcum's Astrolabe,2
-830,BUG Midrange,BUG Midrange 1,"Oko, Thief of Crowns",4
-831,BUG Midrange,BUG Midrange 1,Green Sun's Zenith,4
-832,BUG Midrange,BUG Midrange 1,Force of Will,4
-833,BUG Midrange,BUG Midrange 1,Brainstorm,4
-834,BUG Midrange,BUG Midrange 1,Questing Beast,1
-835,BUG Midrange,BUG Midrange 1,Courser of Kruphix,1
-836,BUG Midrange,BUG Midrange 1,Scavenging Ooze,1
-837,BUG Midrange,BUG Midrange 1,Tarmogoyf,1
-838,BUG Midrange,BUG Midrange 1,Tireless Tracker,1
-839,BUG Midrange,BUG Midrange 1,"Leovold, Emissary of Trest",2
-840,BUG Midrange,BUG Midrange 1,Gilded Goose,2
-841,BUG Midrange,BUG Midrange 1,Noble Hierarch,2
-842,BUG Midrange,BUG Midrange 1,Plague Engineer,2
-843,BUG Midrange,BUG Midrange 1,Ice-Fang Coatl,4
-844,BUG Midrange,BUG Midrange 1,Dryad Arbor,1
-845,BUG Midrange,BUG Midrange 1,Snow-Covered Swamp,1
-846,BUG Midrange,BUG Midrange 1,Underground Sea,1
-847,BUG Midrange,BUG Midrange 1,Tropical Island,1
-848,BUG Midrange,BUG Midrange 1,Bayou,1
-849,BUG Midrange,BUG Midrange 1,Wasteland,2
-850,BUG Midrange,BUG Midrange 1,Snow-Covered Forest,2
-851,BUG Midrange,BUG Midrange 1,Snow-Covered Island,2
-852,BUG Midrange,BUG Midrange 1,Polluted Delta,3
-853,BUG Midrange,BUG Midrange 1,Verdant Catacombs,3
-854,BUG Midrange,BUG Midrange 1,Misty Rainforest,4
-855,Artifacts Blue,Artifacts Blue 1,Dimir Signet,1
-856,Artifacts Blue,Artifacts Blue 1,Force of Negation,1
-857,Artifacts Blue,Artifacts Blue 1,"Oko, Thief of Crowns",2
-858,Artifacts Blue,Artifacts Blue 1,Thopter Foundry,2
-859,Artifacts Blue,Artifacts Blue 1,Lotus Petal,3
-860,Artifacts Blue,Artifacts Blue 1,Mox Opal,3
-861,Artifacts Blue,Artifacts Blue 1,"Karn, the Great Creator",4
-862,Artifacts Blue,Artifacts Blue 1,Force of Will,4
-863,Artifacts Blue,Artifacts Blue 1,Chalice of the Void,4
-864,Artifacts Blue,Artifacts Blue 1,Mishra's Bauble,4
-865,Artifacts Blue,Artifacts Blue 1,"Sai, Master Thopterist",1
-866,Artifacts Blue,Artifacts Blue 1,Baleful Strix,3
-867,Artifacts Blue,Artifacts Blue 1,"Emry, Lurker of the Loch",4
-868,Artifacts Blue,Artifacts Blue 1,"Urza, Lord High Artificer",4
-869,Artifacts Blue,Artifacts Blue 1,Underground Sea,1
-870,Artifacts Blue,Artifacts Blue 1,Swamp,1
-871,Artifacts Blue,Artifacts Blue 1,Vault of Whispers,2
-872,Artifacts Blue,Artifacts Blue 1,Tropical Island,2
-873,Artifacts Blue,Artifacts Blue 1,Polluted Delta,3
-874,Artifacts Blue,Artifacts Blue 1,Island,3
-875,Artifacts Blue,Artifacts Blue 1,Seat of the Synod,4
-876,Artifacts Blue,Artifacts Blue 1,Ancient Tomb,4
-877,Grixis Control,Grixis Control 1,Baleful Strix,3
-878,Grixis Control,Grixis Control 1,Snapcaster Mage,3
-879,Grixis Control,Grixis Control 1,Gurmag Angler,2
-880,Grixis Control,Grixis Control 1,Plague Engineer,1
-881,Grixis Control,Grixis Control 1,Bitterblossom,1
-882,Grixis Control,Grixis Control 1,"Narset, Parter of Veils",2
-883,Grixis Control,Grixis Control 1,"Liliana, the Last Hope",1
-884,Grixis Control,Grixis Control 1,"Jace, the Mind Sculptor",2
-885,Grixis Control,Grixis Control 1,Brainstorm,4
-886,Grixis Control,Grixis Control 1,Force of Will,4
-887,Grixis Control,Grixis Control 1,Drown in the Loch,2
-888,Grixis Control,Grixis Control 1,Kolaghan's Command,2
-889,Grixis Control,Grixis Control 1,Fatal Push,3
-890,Grixis Control,Grixis Control 1,Lightning Bolt,2
-891,Grixis Control,Grixis Control 1,Liliana's Triumph,1
-892,Grixis Control,Grixis Control 1,Hymn to Tourach,2
-893,Grixis Control,Grixis Control 1,Thoughtseize,2
-894,Grixis Control,Grixis Control 1,Ponder,4
-895,Grixis Control,Grixis Control 1,Polluted Delta,4
-896,Grixis Control,Grixis Control 1,Bloodstained Mire,4
-897,Grixis Control,Grixis Control 1,Scalding Tarn,1
-898,Grixis Control,Grixis Control 1,Underground Sea,2
-899,Grixis Control,Grixis Control 1,Volcanic Island,2
-900,Grixis Control,Grixis Control 1,Badlands,2
-901,Grixis Control,Grixis Control 1,Snow-Covered Island,2
-902,Grixis Control,Grixis Control 1,Snow-Covered Swamp,2
-903,Show and Tell,Show and Tell 1,Volcanic Island,3
-904,Show and Tell,Show and Tell 1,Tropical Island,1
-905,Show and Tell,Show and Tell 1,Snow-Covered Island,2
-906,Show and Tell,Show and Tell 1,Scalding Tarn,2
-907,Show and Tell,Show and Tell 1,Polluted Delta,2
-908,Show and Tell,Show and Tell 1,Misty Rainforest,2
-909,Show and Tell,Show and Tell 1,Flooded Strand,2
-910,Show and Tell,Show and Tell 1,City of Traitors,2
-911,Show and Tell,Show and Tell 1,Ancient Tomb,3
-912,Show and Tell,Show and Tell 1,Sneak Attack,4
-913,Show and Tell,Show and Tell 1,Lotus Petal,4
-914,Show and Tell,Show and Tell 1,Force of Will,4
-915,Show and Tell,Show and Tell 1,Daze,4
-916,Show and Tell,Show and Tell 1,Brainstorm,4
-917,Show and Tell,Show and Tell 1,Show and Tell,4
-918,Show and Tell,Show and Tell 1,Preordain,4
-919,Show and Tell,Show and Tell 1,Ponder,4
-920,Show and Tell,Show and Tell 1,Simian Spirit Guide,2
-921,Show and Tell,Show and Tell 1,Griselbrand,4
-922,Show and Tell,Show and Tell 1,"Emrakul, the Aeons Torn",3
-923,Show and Tell,Show and Tell 2,Scalding Tarn,4
-924,Show and Tell,Show and Tell 2,Island,5
-925,Show and Tell,Show and Tell 2,Ancient Tomb,2
-926,Show and Tell,Show and Tell 2,Flooded Strand,3
-927,Show and Tell,Show and Tell 2,Tundra,1
-928,Show and Tell,Show and Tell 2,Plains,1
-929,Show and Tell,Show and Tell 2,"Narset, Parter of Veils",1
-930,Show and Tell,Show and Tell 2,Peek,2
-931,Show and Tell,Show and Tell 2,Intuition,2
-932,Show and Tell,Show and Tell 2,Drawn from Dreams,2
-933,Show and Tell,Show and Tell 2,Mystic Sanctuary,1
-934,Show and Tell,Show and Tell 2,Misty Rainforest,1
-935,Show and Tell,Show and Tell 2,Spell Pierce,2
-936,Show and Tell,Show and Tell 2,"Teferi, Time Raveler",2
-937,Show and Tell,Show and Tell 2,Show and Tell,4
-938,Show and Tell,Show and Tell 2,Omniscience,4
-939,Show and Tell,Show and Tell 2,Force of Will,4
-940,Show and Tell,Show and Tell 2,Brainstorm,4
-941,Show and Tell,Show and Tell 2,Preordain,4
-942,Show and Tell,Show and Tell 2,Ponder,4
-943,Show and Tell,Show and Tell 2,"Emrakul, the Aeons Torn",1
-944,Show and Tell,Show and Tell 2,Fae of Wishes,2
-945,Show and Tell,Show and Tell 2,Monastery Mentor,3
-946,Show and Tell,Show and Tell 2,Polluted Delta,1
-947,Show and Tell,Show and Tell 3,Brainstorm,4
-948,Show and Tell,Show and Tell 3,Show and Tell,4
-949,Show and Tell,Show and Tell 3,Omniscience,4
-950,Show and Tell,Show and Tell 3,Vendilion Clique,1
-951,Show and Tell,Show and Tell 3,"Emrakul, the Aeons Torn",3
-952,Show and Tell,Show and Tell 3,Karakas,1
-953,Show and Tell,Show and Tell 3,City of Traitors,1
-954,Show and Tell,Show and Tell 3,"Boseiju, Who Shelters All",1
-955,Show and Tell,Show and Tell 3,Plains,1
-956,Show and Tell,Show and Tell 3,Spell Pierce,3
-957,Show and Tell,Show and Tell 3,"Teferi, Time Raveler",3
-958,Show and Tell,Show and Tell 3,Ponder,4
-959,Show and Tell,Show and Tell 3,Force of Will,4
-960,Show and Tell,Show and Tell 3,Cunning Wish,4
-961,Show and Tell,Show and Tell 3,Tundra,1
-962,Show and Tell,Show and Tell 3,Ancient Tomb,2
-963,Show and Tell,Show and Tell 3,Prismatic Vista,4
-964,Show and Tell,Show and Tell 3,Intuition,1
-965,Show and Tell,Show and Tell 3,Impulse,1
-966,Show and Tell,Show and Tell 3,Preordain,2
-967,Show and Tell,Show and Tell 3,Daze,2
-968,Show and Tell,Show and Tell 3,Flooded Strand,4
-969,Show and Tell,Show and Tell 3,Island,5
-970,Storm,Storm 1,Badlands,1
-971,Storm,Storm 1,Bayou,1
-972,Storm,Storm 1,Bloodstained Mire,4
-973,Storm,Storm 1,Polluted Delta,4
-974,Storm,Storm 1,Underground Sea,1
-975,Storm,Storm 1,Volcanic Island,1
-976,Storm,Storm 1,Snow-Covered Swamp,1
-977,Storm,Storm 1,Burning Wish,4
-978,Storm,Storm 1,Rite of Flame,3
-979,Storm,Storm 1,Chain of Vapor,1
-980,Storm,Storm 1,Brainstorm,4
-981,Storm,Storm 1,Ponder,4
-982,Storm,Storm 1,Echo of Eons,1
-983,Storm,Storm 1,Dark Ritual,4
-984,Storm,Storm 1,Ad Nauseam,1
-985,Storm,Storm 1,Veil of Summer,4
-986,Storm,Storm 1,Chrome Mox,3
-987,Storm,Storm 1,Lion's Eye Diamond,4
-988,Storm,Storm 1,Lotus Petal,4
-989,Storm,Storm 1,Defense Grid,2
-990,Storm,Storm 1,Mox Opal,4
-991,Storm,Storm 1,Wishclaw Talisman,4
-992,Storm,Storm 2,Volcanic Island,1
-993,Storm,Storm 2,Underground Sea,2
-994,Storm,Storm 2,Tropical Island,1
-995,Storm,Storm 2,Snow-Covered Swamp,1
-996,Storm,Storm 2,Snow-Covered Island,1
-997,Storm,Storm 2,Scalding Tarn,2
-998,Storm,Storm 2,Polluted Delta,4
-999,Storm,Storm 2,Bloodstained Mire,2
-1000,Storm,Storm 2,Bayou,1
-1001,Storm,Storm 2,Wishclaw Talisman,1
-1002,Storm,Storm 2,Thoughtseize,4
-1003,Storm,Storm 2,Tendrils of Agony,1
-1004,Storm,Storm 2,Preordain,4
-1005,Storm,Storm 2,Ponder,4
-1006,Storm,Storm 2,Past in Flames,1
-1007,Storm,Storm 2,Lotus Petal,4
-1008,Storm,Storm 2,Lion's Eye Diamond,4
-1009,Storm,Storm 2,Infernal Tutor,4
-1010,Storm,Storm 2,Empty the Warrens,1
-1011,Storm,Storm 2,Duress,4
-1012,Storm,Storm 2,Dark Ritual,4
-1013,Storm,Storm 2,Cabal Ritual,4
-1014,Storm,Storm 2,Brainstorm,4
-1015,Storm,Storm 2,Ad Nauseam,1
-1016,Storm,Storm 3,Swamp,1
-1017,Storm,Storm 3,Island,1
-1018,Storm,Storm 3,Underground Sea,2
-1019,Storm,Storm 3,Volcanic Island,1
-1020,Storm,Storm 3,Bayou,1
-1021,Storm,Storm 3,Tropical Island,1
-1022,Storm,Storm 3,Polluted Delta,4
-1023,Storm,Storm 3,Verdant Catacombs,1
-1024,Storm,Storm 3,Bloodstained Mire,1
-1025,Storm,Storm 3,Misty Rainforest,2
-1026,Storm,Storm 3,Dark Ritual,4
-1027,Storm,Storm 3,Cabal Ritual,4
-1028,Storm,Storm 3,Infernal Tutor,4
-1029,Storm,Storm 3,Thoughtseize,4
-1030,Storm,Storm 3,Duress,4
-1031,Storm,Storm 3,Brainstorm,4
-1032,Storm,Storm 3,Ponder,4
-1033,Storm,Storm 3,Lotus Petal,4
-1034,Storm,Storm 3,Lion's Eye Diamond,4
-1035,Storm,Storm 3,Preordain,4
-1036,Storm,Storm 3,Ad Nauseam,1
-1037,Storm,Storm 3,Tendrils of Agony,1
-1038,Storm,Storm 3,Past in Flames,2
-1039,Storm,Storm 3,Wishclaw Talisman,1
-1040,Dark Depths,Dark Depths 1,Abrupt Decay,3
-1041,Dark Depths,Dark Depths 1,Assassin's Trophy,1
-1042,Dark Depths,Dark Depths 1,Crop Rotation,4
-1043,Dark Depths,Dark Depths 1,Dark Confidant,4
-1044,Dark Depths,Dark Depths 1,Duress,2
-1045,Dark Depths,Dark Depths 1,Elvish Reclaimer,4
-1046,Dark Depths,Dark Depths 1,Elvish Spirit Guide,2
-1047,Dark Depths,Dark Depths 1,Mox Diamond,3
-1048,Dark Depths,Dark Depths 1,Once Upon a Time,4
-1049,Dark Depths,Dark Depths 1,Thoughtseize,4
-1050,Dark Depths,Dark Depths 1,Vampire Hexmage,4
-1051,Dark Depths,Dark Depths 1,Bayou,2
-1052,Dark Depths,Dark Depths 1,Bojuka Bog,1
-1053,Dark Depths,Dark Depths 1,Dark Depths,4
-1054,Dark Depths,Dark Depths 1,Forest,1
-1055,Dark Depths,Dark Depths 1,Karakas,1
-1056,Dark Depths,Dark Depths 1,Sejiri Steppe,1
-1057,Dark Depths,Dark Depths 1,Swamp,1
-1058,Dark Depths,Dark Depths 1,Thespian's Stage,4
-1059,Dark Depths,Dark Depths 1,"Urborg, Tomb of Yawgmoth",4
-1060,Dark Depths,Dark Depths 1,Verdant Catacombs,4
-1061,Dark Depths,Dark Depths 1,Wasteland,2
-1062,Dark Depths,Dark Depths 2,Thespian's Stage,8
-1063,Dark Depths,Dark Depths 2,Elvish Reclaimer,4
-1064,Dark Depths,Dark Depths 2,Dark Confidant,3
-1065,Dark Depths,Dark Depths 2,Vampire Hexmage,4
-1066,Dark Depths,Dark Depths 2,Sylvan Safekeeper,1
-1067,Dark Depths,Dark Depths 2,Mox Diamond,4
-1068,Dark Depths,Dark Depths 2,Crop Rotation,4
-1069,Dark Depths,Dark Depths 2,Thoughtseize,4
-1070,Dark Depths,Dark Depths 2,Inquisition of Kozilek,2
-1071,Dark Depths,Dark Depths 2,Duress,1
-1072,Dark Depths,Dark Depths 2,Abrupt Decay,3
-1073,Dark Depths,Dark Depths 2,Dark Depths,4
-1074,Dark Depths,Dark Depths 2,"Urborg, Tomb of Yawgmoth",4
-1075,Dark Depths,Dark Depths 2,Verdant Catacombs,4
-1076,Dark Depths,Dark Depths 2,Bayou,2
-1077,Dark Depths,Dark Depths 2,Snow-Covered Swamp,1
-1078,Dark Depths,Dark Depths 2,Snow-Covered Forest,1
-1079,Dark Depths,Dark Depths 2,Nurturing Peatland,1
-1080,Dark Depths,Dark Depths 2,Wasteland,1
-1081,Dark Depths,Dark Depths 2,Ghost Quarter,1
-1082,Dark Depths,Dark Depths 2,Karakas,1
-1083,Dark Depths,Dark Depths 2,Bojuka Bog,1
-1084,Dark Depths,Dark Depths 2,Sejiri Steppe,1
-1085,Dark Depths,Dark Depths 3,Snow-Covered Swamp,1
-1086,Dark Depths,Dark Depths 3,Snow-Covered Forest,1
-1087,Dark Depths,Dark Depths 3,Karakas,1
-1088,Dark Depths,Dark Depths 3,Bojuka Bog,1
-1089,Dark Depths,Dark Depths 3,Sejiri Steppe,1
-1090,Dark Depths,Dark Depths 3,Wasteland,2
-1091,Dark Depths,Dark Depths 3,Verdant Catacombs,4
-1092,Dark Depths,Dark Depths 3,"Urborg, Tomb of Yawgmoth",4
-1093,Dark Depths,Dark Depths 3,Thespian's Stage,4
-1094,Dark Depths,Dark Depths 3,Dark Depths,4
-1095,Dark Depths,Dark Depths 3,Bayou,2
-1096,Dark Depths,Dark Depths 3,Abrupt Decay,4
-1097,Dark Depths,Dark Depths 3,Mox Diamond,3
-1098,Dark Depths,Dark Depths 3,Vampire Hexmage,4
-1099,Dark Depths,Dark Depths 3,Dark Confidant,3
-1100,Dark Depths,Dark Depths 3,Thoughtseize,4
-1101,Dark Depths,Dark Depths 3,Duress,3
-1102,Dark Depths,Dark Depths 3,Sylvan Safekeeper,2
-1103,Dark Depths,Dark Depths 3,Crop Rotation,4
-1104,Dark Depths,Dark Depths 3,Once Upon a Time,4
-1105,Dark Depths,Dark Depths 3,Elvish Reclaimer,4
-1106,Hogaak,Hogaak 1,Bloodghast,4
-1107,Hogaak,Hogaak 1,Carrion Feeder,3
-1108,Hogaak,Hogaak 1,Gravecrawler,2
-1109,Hogaak,Hogaak 1,Hedron Crab,4
-1110,Hogaak,Hogaak 1,"Hogaak, Arisen Necropolis",4
-1111,Hogaak,Hogaak 1,Stitcher's Supplier,4
-1112,Hogaak,Hogaak 1,Vengevine,4
-1113,Hogaak,Hogaak 1,Cabal Therapy,3
-1114,Hogaak,Hogaak 1,Careful Study,4
-1115,Hogaak,Hogaak 1,Once Upon a Time,2
-1116,Hogaak,Hogaak 1,Altar of Dementia,4
-1117,Hogaak,Hogaak 1,Bridge from Below,4
-1118,Hogaak,Hogaak 1,Bayou,3
-1119,Hogaak,Hogaak 1,Marsh Flats,2
-1120,Hogaak,Hogaak 1,Polluted Delta,4
-1121,Hogaak,Hogaak 1,Swamp,2
-1122,Hogaak,Hogaak 1,Underground Sea,3
-1123,Hogaak,Hogaak 1,Verdant Catacombs,4
-1124,Hogaak,Hogaak 2,Once Upon a Time,2
-1125,Hogaak,Hogaak 2,Careful Study,4
-1126,Hogaak,Hogaak 2,Cabal Therapy,3
-1127,Hogaak,Hogaak 2,Vengevine,4
-1128,Hogaak,Hogaak 2,Stitcher's Supplier,4
-1129,Hogaak,Hogaak 2,"Hogaak, Arisen Necropolis",4
-1130,Hogaak,Hogaak 2,Hedron Crab,4
-1131,Hogaak,Hogaak 2,Gravecrawler,4
-1132,Hogaak,Hogaak 2,Bloodghast,4
-1133,Hogaak,Hogaak 2,Verdant Catacombs,4
-1134,Hogaak,Hogaak 2,Underground Sea,3
-1135,Hogaak,Hogaak 2,Swamp,1
-1136,Hogaak,Hogaak 2,Polluted Delta,1
-1137,Hogaak,Hogaak 2,Misty Rainforest,4
-1138,Hogaak,Hogaak 2,Marsh Flats,1
-1139,Hogaak,Hogaak 2,Dryad Arbor,1
-1140,Hogaak,Hogaak 2,Bloodstained Mire,1
-1141,Hogaak,Hogaak 2,Bayou,3
-1142,Hogaak,Hogaak 2,Bridge from Below,4
-1143,Hogaak,Hogaak 2,Altar of Dementia,4
-1144,Hogaak,Hogaak 3,Bloodghast,4
-1145,Hogaak,Hogaak 3,Carrion Feeder,3
-1146,Hogaak,Hogaak 3,Gravecrawler,3
-1147,Hogaak,Hogaak 3,Hedron Crab,4
-1148,Hogaak,Hogaak 3,"Hogaak, Arisen Necropolis",4
-1149,Hogaak,Hogaak 3,Stitcher's Supplier,4
-1150,Hogaak,Hogaak 3,Vengevine,4
-1151,Hogaak,Hogaak 3,Cabal Therapy,3
-1152,Hogaak,Hogaak 3,Careful Study,4
-1153,Hogaak,Hogaak 3,Altar of Dementia,4
-1154,Hogaak,Hogaak 3,Bridge from Below,4
-1155,Hogaak,Hogaak 3,Bayou,3
-1156,Hogaak,Hogaak 3,Bloodstained Mire,3
-1157,Hogaak,Hogaak 3,Marsh Flats,2
-1158,Hogaak,Hogaak 3,Polluted Delta,3
-1159,Hogaak,Hogaak 3,Swamp,2
-1160,Hogaak,Hogaak 3,Underground Sea,3
-1161,Hogaak,Hogaak 3,Verdant Catacombs,3
-1162,Reanimator,Reanimator 1,Ashen Rider,1
-1163,Reanimator,Reanimator 1,Chancellor of the Annex,4
-1164,Reanimator,Reanimator 1,Griselbrand,4
-1165,Reanimator,Reanimator 1,Tidespout Tyrant,1
-1166,Reanimator,Reanimator 1,Cabal Therapy,2
-1167,Reanimator,Reanimator 1,Exhume,4
-1168,Reanimator,Reanimator 1,Faithless Looting,4
-1169,Reanimator,Reanimator 1,Reanimate,4
-1170,Reanimator,Reanimator 1,Thoughtseize,2
-1171,Reanimator,Reanimator 1,Unmask,4
-1172,Reanimator,Reanimator 1,Dark Ritual,4
-1173,Reanimator,Reanimator 1,Entomb,4
-1174,Reanimator,Reanimator 1,Lotus Petal,4
-1175,Reanimator,Reanimator 1,Animate Dead,4
-1176,Reanimator,Reanimator 1,Badlands,2
-1177,Reanimator,Reanimator 1,Bayou,1
-1178,Reanimator,Reanimator 1,Bloodstained Mire,2
-1179,Reanimator,Reanimator 1,Marsh Flats,2
-1180,Reanimator,Reanimator 1,Polluted Delta,2
-1181,Reanimator,Reanimator 1,Scrubland,1
-1182,Reanimator,Reanimator 1,Swamp,2
-1183,Reanimator,Reanimator 1,Verdant Catacombs,2
-1184,Reanimator,Reanimator 2,Ashen Rider,1
-1185,Reanimator,Reanimator 2,Animate Dead,4
-1186,Reanimator,Reanimator 2,Cabal Therapy,1
-1187,Reanimator,Reanimator 2,Chancellor of the Annex,4
-1188,Reanimator,Reanimator 2,Dark Ritual,4
-1189,Reanimator,Reanimator 2,"Elesh Norn, Grand Cenobite",1
-1190,Reanimator,Reanimator 2,Entomb,4
-1191,Reanimator,Reanimator 2,Exhume,4
-1192,Reanimator,Reanimator 2,Faithless Looting,4
-1193,Reanimator,Reanimator 2,Griselbrand,4
-1194,Reanimator,Reanimator 2,Lotus Petal,4
-1195,Reanimator,Reanimator 2,Reanimate,4
-1196,Reanimator,Reanimator 2,Thoughtseize,3
-1197,Reanimator,Reanimator 2,Unmask,4
-1198,Reanimator,Reanimator 2,Badlands,2
-1199,Reanimator,Reanimator 2,Bayou,1
-1200,Reanimator,Reanimator 2,Bloodstained Mire,4
-1201,Reanimator,Reanimator 2,Polluted Delta,4
-1202,Reanimator,Reanimator 2,Swamp,3
-1203,Elves,Elves 1,Dryad Arbor,2
-1204,Elves,Elves 1,Bayou,2
-1205,Elves,Elves 1,Savannah,1
-1206,Elves,Elves 1,Gaea's Cradle,4
-1207,Elves,Elves 1,Misty Rainforest,2
-1208,Elves,Elves 1,Verdant Catacombs,2
-1209,Elves,Elves 1,Wooded Foothills,2
-1210,Elves,Elves 1,Windswept Heath,2
-1211,Elves,Elves 1,Snow-Covered Forest,2
-1212,Elves,Elves 1,Llanowar Elves,1
-1213,Elves,Elves 1,Fyndhorn Elves,1
-1214,Elves,Elves 1,Birchlore Rangers,2
-1215,Elves,Elves 1,Quirion Ranger,4
-1216,Elves,Elves 1,Heritage Druid,3
-1217,Elves,Elves 1,Nettle Sentinel,3
-1218,Elves,Elves 1,Elvish Reclaimer,3
-1219,Elves,Elves 1,Wirewood Symbiote,4
-1220,Elves,Elves 1,Elvish Visionary,4
-1221,Elves,Elves 1,Wildborn Preserver,1
-1222,Elves,Elves 1,Scavenging Ooze,1
-1223,Elves,Elves 1,Reclamation Sage,1
-1224,Elves,Elves 1,Craterhoof Behemoth,1
-1225,Elves,Elves 1,Archon of Valor's Reach,1
-1226,Elves,Elves 1,Glimpse of Nature,4
-1227,Elves,Elves 1,Green Sun's Zenith,4
-1228,Elves,Elves 1,Natural Order,3
-1229,Elves,Elves 1,Crop Rotation,1
-1230,Elves,Elves 2,Sylvan Library,1
-1231,Elves,Elves 2,Archon of Valor's Reach,1
-1232,Elves,Elves 2,Fyndhorn Elves,1
-1233,Elves,Elves 2,Scavenging Ooze,1
-1234,Elves,Elves 2,Elvish Mystic,1
-1235,Elves,Elves 2,Natural Order,3
-1236,Elves,Elves 2,Glimpse of Nature,4
-1237,Elves,Elves 2,Green Sun's Zenith,4
-1238,Elves,Elves 2,Quirion Ranger,4
-1239,Elves,Elves 2,Wirewood Symbiote,4
-1240,Elves,Elves 2,Heritage Druid,3
-1241,Elves,Elves 2,Llanowar Elves,1
-1242,Elves,Elves 2,Nettle Sentinel,4
-1243,Elves,Elves 2,Elvish Visionary,4
-1244,Elves,Elves 2,Birchlore Rangers,2
-1245,Elves,Elves 2,Reclamation Sage,1
-1246,Elves,Elves 2,Craterhoof Behemoth,1
-1247,Elves,Elves 2,Dryad Arbor,2
-1248,Elves,Elves 2,Forest,2
-1249,Elves,Elves 2,Bayou,2
-1250,Elves,Elves 2,Gaea's Cradle,4
-1251,Elves,Elves 2,Windswept Heath,2
-1252,Elves,Elves 2,Wooded Foothills,2
-1253,Elves,Elves 2,Misty Rainforest,2
-1254,Elves,Elves 2,Savannah,2
-1255,Elves,Elves 2,Pendelhaven,1
-1256,Elves,Elves 2,Verdant Catacombs,2
-1257,Dredge,Dredge 1,Once Upon a Time,3
-1258,Dredge,Dredge 1,Dread Return,4
-1259,Dredge,Dredge 1,Cabal Therapy,4
-1260,Dredge,Dredge 1,Bridge from Below,4
-1261,Dredge,Dredge 1,Whirlpool Rider,2
-1262,Dredge,Dredge 1,Street Wraith,4
-1263,Dredge,Dredge 1,Stinkweed Imp,4
-1264,Dredge,Dredge 1,Shambling Shell,4
-1265,Dredge,Dredge 1,Prized Amalgam,4
-1266,Dredge,Dredge 1,Phantasmagorian,4
-1267,Dredge,Dredge 1,Nether Shadow,4
-1268,Dredge,Dredge 1,Narcomoeba,4
-1269,Dredge,Dredge 1,Ichorid,4
-1270,Dredge,Dredge 1,Golgari Thug,3
-1271,Dredge,Dredge 1,Golgari Grave-Troll,4
-1272,Dredge,Dredge 1,Flayer of the Hatebound,1
-1273,Dredge,Dredge 1,Chancellor of the Annex,3
-1274,Painter,Painter 1,Wishclaw Talisman,1
-1275,Painter,Painter 1,Lotus Petal,2
-1276,Painter,Painter 1,"Daretti, Ingenious Iconoclast",2
-1277,Painter,Painter 1,Ensnaring Bridge,2
-1278,Painter,Painter 1,"Karn, the Great Creator",3
-1279,Painter,Painter 1,Grindstone,3
-1280,Painter,Painter 1,Red Elemental Blast,3
-1281,Painter,Painter 1,Pyroblast,4
-1282,Painter,Painter 1,Blood Moon,4
-1283,Painter,Painter 1,Arcum's Astrolabe,4
-1284,Painter,Painter 1,Goblin Welder,3
-1285,Painter,Painter 1,Painter's Servant,3
-1286,Painter,Painter 1,Goblin Engineer,4
-1287,Painter,Painter 1,Wooded Foothills,2
-1288,Painter,Painter 1,Scalding Tarn,2
-1289,Painter,Painter 1,Badlands,2
-1290,Painter,Painter 1,Bloodstained Mire,2
-1291,Painter,Painter 1,City of Traitors,3
-1292,Painter,Painter 1,Ancient Tomb,4
-1293,Painter,Painter 1,Snow-Covered Mountain,5
-1294,Painter,Painter 1,Nihil Spellbomb,1
-1295,Painter,Painter 1,"Chandra, Torch of Defiance",1
-1296,Food Griffin,Food Griffin 1,Hydroid Krasis,1
-1297,Food Griffin,Food Griffin 1,Ice-Fang Coatl,3
-1298,Food Griffin,Food Griffin 1,"Oko, Thief of Crowns",2
-1299,Food Griffin,Food Griffin 1,"Teferi, Time Raveler",2
-1300,Food Griffin,Food Griffin 1,Brainstorm,4
-1301,Food Griffin,Food Griffin 1,Eternal Scourge,1
-1302,Food Griffin,Food Griffin 1,Food Chain,4
-1303,Food Griffin,Food Griffin 1,Force of Will,4
-1304,Food Griffin,Food Griffin 1,Gilded Goose,3
-1305,Food Griffin,Food Griffin 1,Manipulate Fate,3
-1306,Food Griffin,Food Griffin 1,Misthollow Griffin,3
-1307,Food Griffin,Food Griffin 1,Ponder,3
-1308,Food Griffin,Food Griffin 1,Recruiter of the Guard,2
-1309,Food Griffin,Food Griffin 1,Swords to Plowshares,2
-1310,Food Griffin,Food Griffin 1,Walking Ballista,2
-1311,Food Griffin,Food Griffin 1,Watcher for Tomorrow,1
-1312,Food Griffin,Food Griffin 1,Flooded Strand,2
-1313,Food Griffin,Food Griffin 1,Karakas,1
-1314,Food Griffin,Food Griffin 1,Misty Rainforest,3
-1315,Food Griffin,Food Griffin 1,Prismatic Vista,4
-1316,Food Griffin,Food Griffin 1,Savannah,1
-1317,Food Griffin,Food Griffin 1,Snow-Covered Forest,2
-1318,Food Griffin,Food Griffin 1,Snow-Covered Island,4
-1319,Food Griffin,Food Griffin 1,Snow-Covered Plains,1
-1320,Food Griffin,Food Griffin 1,Tropical Island,1
-1321,Food Griffin,Food Griffin 1,Tundra,1
+0,Canadian Threshold,Canadian Threshold 1,Volcanic Island,3
+1,Canadian Threshold,Canadian Threshold 1,Wasteland,4
+2,Canadian Threshold,Canadian Threshold 1,Scalding Tarn,2
+3,Canadian Threshold,Canadian Threshold 1,Tropical Island,3
+4,Canadian Threshold,Canadian Threshold 1,Misty Rainforest,2
+5,Canadian Threshold,Canadian Threshold 1,Polluted Delta,2
+6,Canadian Threshold,Canadian Threshold 1,Spell Snare,1
+7,Canadian Threshold,Canadian Threshold 1,Flooded Strand,3
+8,Canadian Threshold,Canadian Threshold 1,Lightning Bolt,4
+9,Canadian Threshold,Canadian Threshold 1,Spell Pierce,1
+10,Canadian Threshold,Canadian Threshold 1,Force of Negation,2
+11,Canadian Threshold,Canadian Threshold 1,Force of Will,4
+12,Canadian Threshold,Canadian Threshold 1,Brainstorm,4
+13,Canadian Threshold,Canadian Threshold 1,Daze,4
+14,Canadian Threshold,Canadian Threshold 1,Ponder,4
+15,Canadian Threshold,Canadian Threshold 1,Preordain,2
+16,Canadian Threshold,Canadian Threshold 1,Tarmogoyf,2
+17,Canadian Threshold,Canadian Threshold 1,Chain Lightning,1
+18,Canadian Threshold,Canadian Threshold 1,Dreadhorde Arcanist,3
+19,Canadian Threshold,Canadian Threshold 1,Hooting Mandrills,2
+20,Canadian Threshold,Canadian Threshold 1,"Oko, Thief of Crowns",3
+21,Canadian Threshold,Canadian Threshold 1,Delver of Secrets,4
+22,Canadian Threshold,Canadian Threshold 2,"Oko, Thief of Crowns",3
+23,Canadian Threshold,Canadian Threshold 2,Delver of Secrets,4
+24,Canadian Threshold,Canadian Threshold 2,Dreadhorde Arcanist,4
+25,Canadian Threshold,Canadian Threshold 2,Hooting Mandrills,1
+26,Canadian Threshold,Canadian Threshold 2,Tarmogoyf,2
+27,Canadian Threshold,Canadian Threshold 2,Chain Lightning,1
+28,Canadian Threshold,Canadian Threshold 2,Ponder,4
+29,Canadian Threshold,Canadian Threshold 2,Preordain,2
+30,Canadian Threshold,Canadian Threshold 2,Brainstorm,4
+31,Canadian Threshold,Canadian Threshold 2,Daze,4
+32,Canadian Threshold,Canadian Threshold 2,Force of Negation,2
+33,Canadian Threshold,Canadian Threshold 2,Force of Will,4
+34,Canadian Threshold,Canadian Threshold 2,Lightning Bolt,4
+35,Canadian Threshold,Canadian Threshold 2,Spell Pierce,2
+36,Canadian Threshold,Canadian Threshold 2,Vapor Snag,1
+37,Canadian Threshold,Canadian Threshold 2,Flooded Strand,2
+38,Canadian Threshold,Canadian Threshold 2,Misty Rainforest,2
+39,Canadian Threshold,Canadian Threshold 2,Polluted Delta,3
+40,Canadian Threshold,Canadian Threshold 2,Scalding Tarn,1
+41,Canadian Threshold,Canadian Threshold 2,Tropical Island,3
+42,Canadian Threshold,Canadian Threshold 2,Volcanic Island,3
+43,Canadian Threshold,Canadian Threshold 2,Wasteland,4
+44,Canadian Threshold,Canadian Threshold 3,Brazen Borrower,1
+45,Canadian Threshold,Canadian Threshold 3,Dreadhorde Arcanist,2
+46,Canadian Threshold,Canadian Threshold 3,Young Pyromancer,2
+47,Canadian Threshold,Canadian Threshold 3,Tarmogoyf,3
+48,Canadian Threshold,Canadian Threshold 3,Delver of Secrets,4
+49,Canadian Threshold,Canadian Threshold 3,Force of Negation,1
+50,Canadian Threshold,Canadian Threshold 3,Become Immense,1
+51,Canadian Threshold,Canadian Threshold 3,Spell Snare,2
+52,Canadian Threshold,Canadian Threshold 3,Lightning Bolt,4
+53,Canadian Threshold,Canadian Threshold 3,Brainstorm,4
+54,Canadian Threshold,Canadian Threshold 3,Daze,4
+55,Canadian Threshold,Canadian Threshold 3,Force of Will,4
+56,Canadian Threshold,Canadian Threshold 3,Chain Lightning,1
+57,Canadian Threshold,Canadian Threshold 3,Preordain,1
+58,Canadian Threshold,Canadian Threshold 3,Ponder,4
+59,Canadian Threshold,Canadian Threshold 3,"Oko, Thief of Crowns",3
+60,Canadian Threshold,Canadian Threshold 3,Polluted Delta,2
+61,Canadian Threshold,Canadian Threshold 3,Wooded Foothills,2
+62,Canadian Threshold,Canadian Threshold 3,Scalding Tarn,2
+63,Canadian Threshold,Canadian Threshold 3,Tropical Island,3
+64,Canadian Threshold,Canadian Threshold 3,Volcanic Island,3
+65,Canadian Threshold,Canadian Threshold 3,Flooded Strand,3
+66,Canadian Threshold,Canadian Threshold 3,Wasteland,4
+67,Canadian Threshold,Canadian Threshold 4,Force of Negation,2
+68,Canadian Threshold,Canadian Threshold 4,Spell Pierce,2
+69,Canadian Threshold,Canadian Threshold 4,Spell Snare,1
+70,Canadian Threshold,Canadian Threshold 4,Wasteland,4
+71,Canadian Threshold,Canadian Threshold 4,Misty Rainforest,3
+72,Canadian Threshold,Canadian Threshold 4,Scalding Tarn,3
+73,Canadian Threshold,Canadian Threshold 4,Tropical Island,3
+74,Canadian Threshold,Canadian Threshold 4,Volcanic Island,3
+75,Canadian Threshold,Canadian Threshold 4,Polluted Delta,2
+76,Canadian Threshold,Canadian Threshold 4,Flooded Strand,1
+77,Canadian Threshold,Canadian Threshold 4,"Oko, Thief of Crowns",2
+78,Canadian Threshold,Canadian Threshold 4,Delver of Secrets,4
+79,Canadian Threshold,Canadian Threshold 4,Dreadhorde Arcanist,3
+80,Canadian Threshold,Canadian Threshold 4,Tarmogoyf,3
+81,Canadian Threshold,Canadian Threshold 4,Hooting Mandrills,1
+82,Canadian Threshold,Canadian Threshold 4,"Klothys, God of Destiny",1
+83,Canadian Threshold,Canadian Threshold 4,Ponder,4
+84,Canadian Threshold,Canadian Threshold 4,Chain Lightning,1
+85,Canadian Threshold,Canadian Threshold 4,Preordain,1
+86,Canadian Threshold,Canadian Threshold 4,Brainstorm,4
+87,Canadian Threshold,Canadian Threshold 4,Daze,4
+88,Canadian Threshold,Canadian Threshold 4,Force of Will,4
+89,Canadian Threshold,Canadian Threshold 4,Lightning Bolt,4
+90,Canadian Threshold,Canadian Threshold 5,"Oko, Thief of Crowns",3
+91,Canadian Threshold,Canadian Threshold 5,Delver of Secrets,4
+92,Canadian Threshold,Canadian Threshold 5,Dreadhorde Arcanist,3
+93,Canadian Threshold,Canadian Threshold 5,Hooting Mandrills,2
+94,Canadian Threshold,Canadian Threshold 5,Tarmogoyf,3
+95,Canadian Threshold,Canadian Threshold 5,Chain Lightning,1
+96,Canadian Threshold,Canadian Threshold 5,Ponder,4
+97,Canadian Threshold,Canadian Threshold 5,Preordain,1
+98,Canadian Threshold,Canadian Threshold 5,Brainstorm,4
+99,Canadian Threshold,Canadian Threshold 5,Daze,4
+100,Canadian Threshold,Canadian Threshold 5,Force of Negation,2
+101,Canadian Threshold,Canadian Threshold 5,Force of Will,4
+102,Canadian Threshold,Canadian Threshold 5,Lightning Bolt,4
+103,Canadian Threshold,Canadian Threshold 5,Spell Pierce,2
+104,Canadian Threshold,Canadian Threshold 5,Flooded Strand,1
+105,Canadian Threshold,Canadian Threshold 5,Misty Rainforest,3
+106,Canadian Threshold,Canadian Threshold 5,Polluted Delta,2
+107,Canadian Threshold,Canadian Threshold 5,Wasteland,4
+108,Canadian Threshold,Canadian Threshold 5,Volcanic Island,3
+109,Canadian Threshold,Canadian Threshold 5,Tropical Island,3
+110,Canadian Threshold,Canadian Threshold 5,Scalding Tarn,3
+111,Canadian Threshold,Canadian Threshold 6,Brainstorm,4
+112,Canadian Threshold,Canadian Threshold 6,Preordain,1
+113,Canadian Threshold,Canadian Threshold 6,Chain Lightning,1
+114,Canadian Threshold,Canadian Threshold 6,Ponder,4
+115,Canadian Threshold,Canadian Threshold 6,"Oko, Thief of Crowns",2
+116,Canadian Threshold,Canadian Threshold 6,Flooded Strand,1
+117,Canadian Threshold,Canadian Threshold 6,Polluted Delta,2
+118,Canadian Threshold,Canadian Threshold 6,Scalding Tarn,3
+119,Canadian Threshold,Canadian Threshold 6,Volcanic Island,3
+120,Canadian Threshold,Canadian Threshold 6,Tropical Island,3
+121,Canadian Threshold,Canadian Threshold 6,Misty Rainforest,3
+122,Canadian Threshold,Canadian Threshold 6,Wasteland,4
+123,Canadian Threshold,Canadian Threshold 6,"Klothys, God of Destiny",1
+124,Canadian Threshold,Canadian Threshold 6,Hooting Mandrills,1
+125,Canadian Threshold,Canadian Threshold 6,Dreadhorde Arcanist,3
+126,Canadian Threshold,Canadian Threshold 6,Tarmogoyf,3
+127,Canadian Threshold,Canadian Threshold 6,Delver of Secrets,4
+128,Canadian Threshold,Canadian Threshold 6,Spell Snare,1
+129,Canadian Threshold,Canadian Threshold 6,Spell Pierce,2
+130,Canadian Threshold,Canadian Threshold 6,Force of Negation,2
+131,Canadian Threshold,Canadian Threshold 6,Daze,4
+132,Canadian Threshold,Canadian Threshold 6,Force of Will,4
+133,Canadian Threshold,Canadian Threshold 6,Lightning Bolt,4
+134,Canadian Threshold,Canadian Threshold 7,Chain Lightning,1
+135,Canadian Threshold,Canadian Threshold 7,Tarmogoyf,2
+136,Canadian Threshold,Canadian Threshold 7,Hooting Mandrills,2
+137,Canadian Threshold,Canadian Threshold 7,Dreadhorde Arcanist,3
+138,Canadian Threshold,Canadian Threshold 7,Delver of Secrets,4
+139,Canadian Threshold,Canadian Threshold 7,"Oko, Thief of Crowns",3
+140,Canadian Threshold,Canadian Threshold 7,Ponder,4
+141,Canadian Threshold,Canadian Threshold 7,Preordain,2
+142,Canadian Threshold,Canadian Threshold 7,Brainstorm,4
+143,Canadian Threshold,Canadian Threshold 7,Daze,4
+144,Canadian Threshold,Canadian Threshold 7,Force of Negation,2
+145,Canadian Threshold,Canadian Threshold 7,Force of Will,4
+146,Canadian Threshold,Canadian Threshold 7,Lightning Bolt,4
+147,Canadian Threshold,Canadian Threshold 7,Spell Pierce,2
+148,Canadian Threshold,Canadian Threshold 7,Flooded Strand,2
+149,Canadian Threshold,Canadian Threshold 7,Misty Rainforest,2
+150,Canadian Threshold,Canadian Threshold 7,Polluted Delta,2
+151,Canadian Threshold,Canadian Threshold 7,Scalding Tarn,2
+152,Canadian Threshold,Canadian Threshold 7,Tropical Island,3
+153,Canadian Threshold,Canadian Threshold 7,Volcanic Island,3
+154,Canadian Threshold,Canadian Threshold 7,Wasteland,4
+155,Canadian Threshold,Canadian Threshold 7,Wooded Foothills,1
+156,Canadian Threshold,Canadian Threshold 8,Misty Rainforest,2
+157,Canadian Threshold,Canadian Threshold 8,Flooded Strand,2
+158,Canadian Threshold,Canadian Threshold 8,Polluted Delta,1
+159,Canadian Threshold,Canadian Threshold 8,"Oko, Thief of Crowns",3
+160,Canadian Threshold,Canadian Threshold 8,Ponder,4
+161,Canadian Threshold,Canadian Threshold 8,Chain Lightning,1
+162,Canadian Threshold,Canadian Threshold 8,Preordain,1
+163,Canadian Threshold,Canadian Threshold 8,Daze,4
+164,Canadian Threshold,Canadian Threshold 8,Brainstorm,4
+165,Canadian Threshold,Canadian Threshold 8,Lightning Bolt,4
+166,Canadian Threshold,Canadian Threshold 8,Force of Will,4
+167,Canadian Threshold,Canadian Threshold 8,Force of Negation,2
+168,Canadian Threshold,Canadian Threshold 8,Spell Snare,1
+169,Canadian Threshold,Canadian Threshold 8,Spell Pierce,1
+170,Canadian Threshold,Canadian Threshold 8,Delver of Secrets,4
+171,Canadian Threshold,Canadian Threshold 8,Tarmogoyf,3
+172,Canadian Threshold,Canadian Threshold 8,Dreadhorde Arcanist,3
+173,Canadian Threshold,Canadian Threshold 8,Hooting Mandrills,2
+174,Canadian Threshold,Canadian Threshold 8,Scalding Tarn,2
+175,Canadian Threshold,Canadian Threshold 8,Wooded Foothills,2
+176,Canadian Threshold,Canadian Threshold 8,Wasteland,4
+177,Canadian Threshold,Canadian Threshold 8,Volcanic Island,3
+178,Canadian Threshold,Canadian Threshold 8,Tropical Island,3
+179,Canadian Threshold,Canadian Threshold 9,Wasteland,4
+180,Canadian Threshold,Canadian Threshold 9,Volcanic Island,3
+181,Canadian Threshold,Canadian Threshold 9,Tropical Island,3
+182,Canadian Threshold,Canadian Threshold 9,Scalding Tarn,3
+183,Canadian Threshold,Canadian Threshold 9,Polluted Delta,2
+184,Canadian Threshold,Canadian Threshold 9,Misty Rainforest,3
+185,Canadian Threshold,Canadian Threshold 9,Flooded Strand,1
+186,Canadian Threshold,Canadian Threshold 9,Spell Pierce,2
+187,Canadian Threshold,Canadian Threshold 9,Lightning Bolt,4
+188,Canadian Threshold,Canadian Threshold 9,Force of Will,4
+189,Canadian Threshold,Canadian Threshold 9,Force of Negation,2
+190,Canadian Threshold,Canadian Threshold 9,Daze,4
+191,Canadian Threshold,Canadian Threshold 9,Brainstorm,4
+192,Canadian Threshold,Canadian Threshold 9,Preordain,1
+193,Canadian Threshold,Canadian Threshold 9,Ponder,4
+194,Canadian Threshold,Canadian Threshold 9,Chain Lightning,1
+195,Canadian Threshold,Canadian Threshold 9,Tarmogoyf,3
+196,Canadian Threshold,Canadian Threshold 9,Hooting Mandrills,2
+197,Canadian Threshold,Canadian Threshold 9,Dreadhorde Arcanist,3
+198,Canadian Threshold,Canadian Threshold 9,Delver of Secrets,4
+199,Canadian Threshold,Canadian Threshold 9,"Oko, Thief of Crowns",3
+200,Canadian Threshold,Canadian Threshold 10,Wasteland,4
+201,Canadian Threshold,Canadian Threshold 10,Volcanic Island,3
+202,Canadian Threshold,Canadian Threshold 10,Tropical Island,3
+203,Canadian Threshold,Canadian Threshold 10,Scalding Tarn,2
+204,Canadian Threshold,Canadian Threshold 10,Polluted Delta,2
+205,Canadian Threshold,Canadian Threshold 10,Misty Rainforest,2
+206,Canadian Threshold,Canadian Threshold 10,Flooded Strand,3
+207,Canadian Threshold,Canadian Threshold 10,Spell Snare,2
+208,Canadian Threshold,Canadian Threshold 10,Lightning Bolt,4
+209,Canadian Threshold,Canadian Threshold 10,Force of Will,4
+210,Canadian Threshold,Canadian Threshold 10,Force of Negation,2
+211,Canadian Threshold,Canadian Threshold 10,Daze,4
+212,Canadian Threshold,Canadian Threshold 10,Brainstorm,4
+213,Canadian Threshold,Canadian Threshold 10,Preordain,2
+214,Canadian Threshold,Canadian Threshold 10,Ponder,4
+215,Canadian Threshold,Canadian Threshold 10,Chain Lightning,1
+216,Canadian Threshold,Canadian Threshold 10,Tarmogoyf,2
+217,Canadian Threshold,Canadian Threshold 10,Hooting Mandrills,2
+218,Canadian Threshold,Canadian Threshold 10,Dreadhorde Arcanist,3
+219,Canadian Threshold,Canadian Threshold 10,Delver of Secrets,4
+220,Canadian Threshold,Canadian Threshold 10,"Oko, Thief of Crowns",3
+221,Canadian Threshold,Canadian Threshold 11,Wasteland,4
+222,Canadian Threshold,Canadian Threshold 11,Volcanic Island,3
+223,Canadian Threshold,Canadian Threshold 11,Tropical Island,3
+224,Canadian Threshold,Canadian Threshold 11,Polluted Delta,4
+225,Canadian Threshold,Canadian Threshold 11,Misty Rainforest,1
+226,Canadian Threshold,Canadian Threshold 11,Flooded Strand,4
+227,Canadian Threshold,Canadian Threshold 11,Stifle,3
+228,Canadian Threshold,Canadian Threshold 11,Lightning Bolt,4
+229,Canadian Threshold,Canadian Threshold 11,Force of Will,4
+230,Canadian Threshold,Canadian Threshold 11,Force of Negation,2
+231,Canadian Threshold,Canadian Threshold 11,Daze,4
+232,Canadian Threshold,Canadian Threshold 11,Brainstorm,4
+233,Canadian Threshold,Canadian Threshold 11,Preordain,1
+234,Canadian Threshold,Canadian Threshold 11,Ponder,4
+235,Canadian Threshold,Canadian Threshold 11,Chain Lightning,1
+236,Canadian Threshold,Canadian Threshold 11,Tarmogoyf,4
+237,Canadian Threshold,Canadian Threshold 11,Hooting Mandrills,2
+238,Canadian Threshold,Canadian Threshold 11,Dreadhorde Arcanist,2
+239,Canadian Threshold,Canadian Threshold 11,Delver of Secrets,4
+240,Canadian Threshold,Canadian Threshold 11,"Oko, Thief of Crowns",2
+241,Goblins,Goblins 1,Gempalm Incinerator,1
+242,Goblins,Goblins 1,Skirk Prospector,2
+243,Goblins,Goblins 1,Pashalik Mons,1
+244,Goblins,Goblins 1,Goblin Chainwhirler,1
+245,Goblins,Goblins 1,Goblin Cratermaker,2
+246,Goblins,Goblins 1,Goblin Piledriver,2
+247,Goblins,Goblins 1,"Muxus, Goblin Grandee",2
+248,Goblins,Goblins 1,Sling-Gang Lieutenant,2
+249,Goblins,Goblins 1,Goblin Ringleader,3
+250,Goblins,Goblins 1,Munitions Expert,3
+251,Goblins,Goblins 1,Mogg War Marshal,3
+252,Goblins,Goblins 1,Goblin Warchief,3
+253,Goblins,Goblins 1,Goblin Matron,4
+254,Goblins,Goblins 1,Goblin Lackey,4
+255,Goblins,Goblins 1,Aether Vial,4
+256,Goblins,Goblins 1,Karakas,1
+257,Goblins,Goblins 1,Wooded Foothills,2
+258,Goblins,Goblins 1,Badlands,2
+259,Goblins,Goblins 1,Rishadan Port,3
+260,Goblins,Goblins 1,Wasteland,4
+261,Goblins,Goblins 1,Mountain,4
+262,Goblins,Goblins 1,Cavern of Souls,4
+263,Goblins,Goblins 1,Bloodstained Mire,4
+264,Goblins,Goblins 2,Scalding Tarn,1
+265,Goblins,Goblins 2,Badlands,2
+266,Goblins,Goblins 2,Bloodstained Mire,3
+267,Goblins,Goblins 2,Rishadan Port,3
+268,Goblins,Goblins 2,Wasteland,4
+269,Goblins,Goblins 2,Cavern of Souls,4
+270,Goblins,Goblins 2,Mountain,4
+271,Goblins,Goblins 2,Pashalik Mons,1
+272,Goblins,Goblins 2,Goblin Chainwhirler,1
+273,Goblins,Goblins 2,Sling-Gang Lieutenant,2
+274,Goblins,Goblins 2,Skirk Prospector,2
+275,Goblins,Goblins 2,Goblin Piledriver,2
+276,Goblins,Goblins 2,"Muxus, Goblin Grandee",2
+277,Goblins,Goblins 2,Gempalm Incinerator,2
+278,Goblins,Goblins 2,Goblin Cratermaker,2
+279,Goblins,Goblins 2,Goblin Warchief,2
+280,Goblins,Goblins 2,Goblin Ringleader,3
+281,Goblins,Goblins 2,Mogg War Marshal,3
+282,Goblins,Goblins 2,Munitions Expert,3
+283,Goblins,Goblins 2,Goblin Matron,4
+284,Goblins,Goblins 2,Goblin Lackey,4
+285,Goblins,Goblins 2,Aether Vial,4
+286,Goblins,Goblins 2,Wooded Foothills,1
+287,Goblins,Goblins 2,Karakas,1
+288,Goblins,Goblins 2,Arid Mesa,1
+289,Goblins,Goblins 3,Pashalik Mons,1
+290,Goblins,Goblins 3,Skirk Prospector,2
+291,Goblins,Goblins 3,Sling-Gang Lieutenant,2
+292,Goblins,Goblins 3,Stingscourger,1
+293,Goblins,Goblins 3,Aether Vial,4
+294,Goblins,Goblins 3,Arid Mesa,3
+295,Goblins,Goblins 3,Badlands,3
+296,Goblins,Goblins 3,Bloodstained Mire,3
+297,Goblins,Goblins 3,Cavern of Souls,4
+298,Goblins,Goblins 3,Karakas,1
+299,Goblins,Goblins 3,Mountain,3
+300,Goblins,Goblins 3,Rishadan Port,3
+301,Goblins,Goblins 3,Wasteland,4
+302,Goblins,Goblins 3,"Muxus, Goblin Grandee",2
+303,Goblins,Goblins 3,Gempalm Incinerator,2
+304,Goblins,Goblins 3,Goblin Chainwhirler,1
+305,Goblins,Goblins 3,Goblin Cratermaker,2
+306,Goblins,Goblins 3,Goblin Lackey,4
+307,Goblins,Goblins 3,Goblin Matron,4
+308,Goblins,Goblins 3,Goblin Piledriver,1
+309,Goblins,Goblins 3,Goblin Ringleader,3
+310,Goblins,Goblins 3,Goblin Warchief,2
+311,Goblins,Goblins 3,Mogg War Marshal,3
+312,Goblins,Goblins 3,Munitions Expert,3
+313,Goblins,Goblins 4,Karakas,1
+314,Goblins,Goblins 4,Rishadan Port,3
+315,Goblins,Goblins 4,Bloodstained Mire,3
+316,Goblins,Goblins 4,Arid Mesa,3
+317,Goblins,Goblins 4,Mountain,3
+318,Goblins,Goblins 4,Badlands,3
+319,Goblins,Goblins 4,Cavern of Souls,4
+320,Goblins,Goblins 4,Wasteland,4
+321,Goblins,Goblins 4,Aether Vial,4
+322,Goblins,Goblins 4,Pashalik Mons,1
+323,Goblins,Goblins 4,Goblin Chainwhirler,1
+324,Goblins,Goblins 4,Gempalm Incinerator,2
+325,Goblins,Goblins 4,Sling-Gang Lieutenant,2
+326,Goblins,Goblins 4,"Muxus, Goblin Grandee",2
+327,Goblins,Goblins 4,Goblin Ringleader,2
+328,Goblins,Goblins 4,Goblin Warchief,2
+329,Goblins,Goblins 4,Goblin Piledriver,2
+330,Goblins,Goblins 4,Goblin Cratermaker,2
+331,Goblins,Goblins 4,Skirk Prospector,2
+332,Goblins,Goblins 4,Munitions Expert,3
+333,Goblins,Goblins 4,Mogg War Marshal,3
+334,Goblins,Goblins 4,Goblin Matron,4
+335,Goblins,Goblins 4,Goblin Lackey,4
+336,Goblins,Goblins 5,Goblin Chainwhirler,1
+337,Goblins,Goblins 5,Pashalik Mons,1
+338,Goblins,Goblins 5,Gempalm Incinerator,2
+339,Goblins,Goblins 5,Sling-Gang Lieutenant,2
+340,Goblins,Goblins 5,"Muxus, Goblin Grandee",2
+341,Goblins,Goblins 5,Goblin Ringleader,2
+342,Goblins,Goblins 5,Goblin Cratermaker,2
+343,Goblins,Goblins 5,Goblin Warchief,2
+344,Goblins,Goblins 5,Goblin Piledriver,2
+345,Goblins,Goblins 5,Skirk Prospector,2
+346,Goblins,Goblins 5,Mogg War Marshal,3
+347,Goblins,Goblins 5,Munitions Expert,3
+348,Goblins,Goblins 5,Goblin Lackey,4
+349,Goblins,Goblins 5,Rishadan Port,3
+350,Goblins,Goblins 5,Cavern of Souls,4
+351,Goblins,Goblins 5,Wasteland,4
+352,Goblins,Goblins 5,Goblin Matron,4
+353,Goblins,Goblins 5,Aether Vial,4
+354,Goblins,Goblins 5,Karakas,1
+355,Goblins,Goblins 5,Bloodstained Mire,3
+356,Goblins,Goblins 5,Arid Mesa,3
+357,Goblins,Goblins 5,Mountain,3
+358,Goblins,Goblins 5,Badlands,3
+359,Goblins,Goblins 6,Pashalik Mons,1
+360,Goblins,Goblins 6,"Muxus, Goblin Grandee",2
+361,Goblins,Goblins 6,Munitions Expert,3
+362,Goblins,Goblins 6,"Kiki-Jiki, Mirror Breaker",1
+363,Goblins,Goblins 6,Goblin Warchief,2
+364,Goblins,Goblins 6,Goblin Ringleader,2
+365,Goblins,Goblins 6,Goblin Piledriver,1
+366,Goblins,Goblins 6,Goblin Matron,4
+367,Goblins,Goblins 6,Goblin Lackey,4
+368,Goblins,Goblins 6,Goblin Cratermaker,3
+369,Goblins,Goblins 6,Goblin Chainwhirler,1
+370,Goblins,Goblins 6,Gempalm Incinerator,1
+371,Goblins,Goblins 6,Wasteland,4
+372,Goblins,Goblins 6,Swamp,1
+373,Goblins,Goblins 6,Rishadan Port,1
+374,Goblins,Goblins 6,Mountain,5
+375,Goblins,Goblins 6,Karakas,1
+376,Goblins,Goblins 6,Cavern of Souls,4
+377,Goblins,Goblins 6,Bloodstained Mire,4
+378,Goblins,Goblins 6,Badlands,2
+379,Goblins,Goblins 6,Arid Mesa,1
+380,Goblins,Goblins 6,Aether Vial,4
+381,Goblins,Goblins 6,Sling-Gang Lieutenant,2
+382,Goblins,Goblins 6,Skirk Prospector,1
+383,Goblins,Goblins 6,Conspicuous Snoop,4
+384,Goblins,Goblins 6,Boggart Harbinger,2
+385,Ninja,Ninja 1,Swamp,2
+386,Ninja,Ninja 1,Underground Sea,2
+387,Ninja,Ninja 1,Prismatic Vista,4
+388,Ninja,Ninja 1,Polluted Delta,4
+389,Ninja,Ninja 1,Island,4
+390,Ninja,Ninja 1,Flooded Strand,2
+391,Ninja,Ninja 1,Retrofitter Foundry,3
+392,Ninja,Ninja 1,Murderous Cut,1
+393,Ninja,Ninja 1,Force of Will,4
+394,Ninja,Ninja 1,Fatal Push,1
+395,Ninja,Ninja 1,Drown in the Loch,1
+396,Ninja,Ninja 1,Daze,3
+397,Ninja,Ninja 1,Brainstorm,4
+398,Ninja,Ninja 1,Thoughtseize,3
+399,Ninja,Ninja 1,Ponder,4
+400,Ninja,Ninja 1,"Yuriko, the Tiger's Shadow",4
+401,Ninja,Ninja 1,Ornithopter,4
+402,Ninja,Ninja 1,Ingenious Infiltrator,4
+403,Ninja,Ninja 1,Baleful Strix,2
+404,Ninja,Ninja 1,Changeling Outcast,4
+405,Ninja,Ninja 2,Underground Sea,3
+406,Ninja,Ninja 2,Swamp,2
+407,Ninja,Ninja 2,Prismatic Vista,4
+408,Ninja,Ninja 2,Polluted Delta,4
+409,Ninja,Ninja 2,Misty Rainforest,2
+410,Ninja,Ninja 2,Island,3
+411,Ninja,Ninja 2,Retrofitter Foundry,4
+412,Ninja,Ninja 2,Force of Will,4
+413,Ninja,Ninja 2,Fatal Push,2
+414,Ninja,Ninja 2,Daze,4
+415,Ninja,Ninja 2,Brainstorm,4
+416,Ninja,Ninja 2,"Yuriko, the Tiger's Shadow",4
+417,Ninja,Ninja 2,Ornithopter,4
+418,Ninja,Ninja 2,Ninja of the Deep Hours,4
+419,Ninja,Ninja 2,Mothdust Changeling,4
+420,Ninja,Ninja 2,Ingenious Infiltrator,4
+421,Ninja,Ninja 2,Changeling Outcast,4
+422,Ninja,Ninja 3,Changeling Outcast,4
+423,Ninja,Ninja 3,Brazen Borrower,2
+424,Ninja,Ninja 3,Baleful Strix,2
+425,Ninja,Ninja 3,Underground Sea,2
+426,Ninja,Ninja 3,Snow-Covered Swamp,2
+427,Ninja,Ninja 3,Snow-Covered Island,4
+428,Ninja,Ninja 3,Prismatic Vista,4
+429,Ninja,Ninja 3,Polluted Delta,4
+430,Ninja,Ninja 3,Marsh Flats,1
+431,Ninja,Ninja 3,Flooded Strand,1
+432,Ninja,Ninja 3,Retrofitter Foundry,4
+433,Ninja,Ninja 3,Murderous Cut,1
+434,Ninja,Ninja 3,Force of Will,3
+435,Ninja,Ninja 3,Force of Negation,1
+436,Ninja,Ninja 3,Fatal Push,3
+437,Ninja,Ninja 3,Daze,3
+438,Ninja,Ninja 3,Brainstorm,4
+439,Ninja,Ninja 3,Ponder,4
+440,Ninja,Ninja 3,"Yuriko, the Tiger's Shadow",3
+441,Ninja,Ninja 3,Ornithopter,4
+442,Ninja,Ninja 3,Ingenious Infiltrator,4
+443,Ninja,Ninja 4,Changeling Outcast,4
+444,Ninja,Ninja 4,Ingenious Infiltrator,4
+445,Ninja,Ninja 4,Ornithopter,4
+446,Ninja,Ninja 4,"Yuriko, the Tiger's Shadow",3
+447,Ninja,Ninja 4,Baleful Strix,2
+448,Ninja,Ninja 4,Underground Sea,1
+449,Ninja,Ninja 4,Flooded Strand,2
+450,Ninja,Ninja 4,Swamp,3
+451,Ninja,Ninja 4,Prismatic Vista,4
+452,Ninja,Ninja 4,Polluted Delta,4
+453,Ninja,Ninja 4,Island,4
+454,Ninja,Ninja 4,Drown in the Loch,2
+455,Ninja,Ninja 4,Daze,2
+456,Ninja,Ninja 4,Fatal Push,3
+457,Ninja,Ninja 4,Force of Will,4
+458,Ninja,Ninja 4,Brainstorm,4
+459,Ninja,Ninja 4,Ponder,4
+460,Ninja,Ninja 4,Retrofitter Foundry,4
+461,Ninja,Ninja 4,Brazen Borrower,2
+462,Ninja,Ninja 5,Polluted Delta,4
+463,Ninja,Ninja 5,Murderous Cut,1
+464,Ninja,Ninja 5,Force of Will,4
+465,Ninja,Ninja 5,Fatal Push,3
+466,Ninja,Ninja 5,Underground Sea,2
+467,Ninja,Ninja 5,Snow-Covered Swamp,4
+468,Ninja,Ninja 5,Snow-Covered Island,4
+469,Ninja,Ninja 5,Prismatic Vista,4
+470,Ninja,Ninja 5,Daze,4
+471,Ninja,Ninja 5,Brainstorm,4
+472,Ninja,Ninja 5,Thoughtseize,4
+473,Ninja,Ninja 5,"Yuriko, the Tiger's Shadow",3
+474,Ninja,Ninja 5,Spellstutter Sprite,4
+475,Ninja,Ninja 5,Faerie Seer,4
+476,Ninja,Ninja 5,Ingenious Infiltrator,4
+477,Ninja,Ninja 5,Ninja of the Deep Hours,3
+478,Ninja,Ninja 5,Ornithopter,4
+479,Ninja,Ninja 6,Polluted Delta,4
+480,Ninja,Ninja 6,Island,4
+481,Ninja,Ninja 6,Prismatic Vista,4
+482,Ninja,Ninja 6,Swamp,3
+483,Ninja,Ninja 6,Flooded Strand,2
+484,Ninja,Ninja 6,Underground Sea,1
+485,Ninja,Ninja 6,Ponder,4
+486,Ninja,Ninja 6,Force of Will,4
+487,Ninja,Ninja 6,Brainstorm,4
+488,Ninja,Ninja 6,Fatal Push,3
+489,Ninja,Ninja 6,Daze,2
+490,Ninja,Ninja 6,Baleful Strix,2
+491,Ninja,Ninja 6,Brazen Borrower,2
+492,Ninja,Ninja 6,"Yuriko, the Tiger's Shadow",3
+493,Ninja,Ninja 6,Changeling Outcast,4
+494,Ninja,Ninja 6,Ingenious Infiltrator,4
+495,Ninja,Ninja 6,Ornithopter,4
+496,Ninja,Ninja 6,Retrofitter Foundry,4
+497,Ninja,Ninja 6,Drown in the Loch,2
+498,UR Delver,UR Delver 1,Polluted Delta,1
+499,UR Delver,UR Delver 1,Mountain,1
+500,UR Delver,UR Delver 1,Misty Rainforest,1
+501,UR Delver,UR Delver 1,Bloodstained Mire,1
+502,UR Delver,UR Delver 1,Island,1
+503,UR Delver,UR Delver 1,Vapor Snag,1
+504,UR Delver,UR Delver 1,Force of Will,4
+505,UR Delver,UR Delver 1,Lightning Bolt,4
+506,UR Delver,UR Delver 1,Daze,4
+507,UR Delver,UR Delver 1,Force of Negation,2
+508,UR Delver,UR Delver 1,Brainstorm,4
+509,UR Delver,UR Delver 1,Ponder,4
+510,UR Delver,UR Delver 1,Preordain,4
+511,UR Delver,UR Delver 1,Chain Lightning,1
+512,UR Delver,UR Delver 1,True-Name Nemesis,2
+513,UR Delver,UR Delver 1,Young Pyromancer,3
+514,UR Delver,UR Delver 1,Delver of Secrets,4
+515,UR Delver,UR Delver 1,Dreadhorde Arcanist,4
+516,UR Delver,UR Delver 1,Brazen Borrower,1
+517,UR Delver,UR Delver 1,Wooded Foothills,1
+518,UR Delver,UR Delver 1,Wasteland,4
+519,UR Delver,UR Delver 1,Volcanic Island,3
+520,UR Delver,UR Delver 1,Snow-Covered Island,1
+521,UR Delver,UR Delver 1,Scalding Tarn,4
+522,UR Delver,UR Delver 2,Spell Pierce,2
+523,UR Delver,UR Delver 2,Force of Negation,2
+524,UR Delver,UR Delver 2,Force of Will,4
+525,UR Delver,UR Delver 2,Daze,4
+526,UR Delver,UR Delver 2,Vapor Snag,1
+527,UR Delver,UR Delver 2,Chain Lightning,1
+528,UR Delver,UR Delver 2,Lightning Bolt,4
+529,UR Delver,UR Delver 2,Preordain,2
+530,UR Delver,UR Delver 2,Ponder,4
+531,UR Delver,UR Delver 2,Brainstorm,4
+532,UR Delver,UR Delver 2,"Oko, Thief of Crowns",3
+533,UR Delver,UR Delver 2,Hooting Mandrills,2
+534,UR Delver,UR Delver 2,Dreadhorde Arcanist,4
+535,UR Delver,UR Delver 2,Delver of Secrets,4
+536,UR Delver,UR Delver 2,Snow-Covered Island,1
+537,UR Delver,UR Delver 2,Wasteland,4
+538,UR Delver,UR Delver 2,Tropical Island,3
+539,UR Delver,UR Delver 2,Volcanic Island,3
+540,UR Delver,UR Delver 2,Flooded Strand,4
+541,UR Delver,UR Delver 2,Misty Rainforest,4
+542,UR Delver,UR Delver 3,Polluted Delta,4
+543,UR Delver,UR Delver 3,Wasteland,4
+544,UR Delver,UR Delver 3,Misty Rainforest,4
+545,UR Delver,UR Delver 3,Tropical Island,3
+546,UR Delver,UR Delver 3,Volcanic Island,3
+547,UR Delver,UR Delver 3,Scalding Tarn,1
+548,UR Delver,UR Delver 3,"Oko, Thief of Crowns",3
+549,UR Delver,UR Delver 3,Ponder,4
+550,UR Delver,UR Delver 3,Preordain,3
+551,UR Delver,UR Delver 3,Chain Lightning,1
+552,UR Delver,UR Delver 3,Lightning Bolt,4
+553,UR Delver,UR Delver 3,Force of Will,4
+554,UR Delver,UR Delver 3,Daze,4
+555,UR Delver,UR Delver 3,Brainstorm,4
+556,UR Delver,UR Delver 3,Spell Pierce,2
+557,UR Delver,UR Delver 3,Force of Negation,2
+558,UR Delver,UR Delver 3,Delver of Secrets,4
+559,UR Delver,UR Delver 3,Dreadhorde Arcanist,4
+560,UR Delver,UR Delver 3,Hooting Mandrills,2
+561,UR Delver,UR Delver 4,Wasteland,4
+562,UR Delver,UR Delver 4,Volcanic Island,3
+563,UR Delver,UR Delver 4,Tropical Island,3
+564,UR Delver,UR Delver 4,Snow-Covered Island,1
+565,UR Delver,UR Delver 4,Scalding Tarn,2
+566,UR Delver,UR Delver 4,Polluted Delta,2
+567,UR Delver,UR Delver 4,Misty Rainforest,2
+568,UR Delver,UR Delver 4,Flooded Strand,2
+569,UR Delver,UR Delver 4,Vapor Snag,1
+570,UR Delver,UR Delver 4,Spell Pierce,2
+571,UR Delver,UR Delver 4,Lightning Bolt,4
+572,UR Delver,UR Delver 4,Force of Will,4
+573,UR Delver,UR Delver 4,Force of Negation,2
+574,UR Delver,UR Delver 4,Daze,4
+575,UR Delver,UR Delver 4,Brainstorm,4
+576,UR Delver,UR Delver 4,Preordain,2
+577,UR Delver,UR Delver 4,Ponder,4
+578,UR Delver,UR Delver 4,Chain Lightning,1
+579,UR Delver,UR Delver 4,Hooting Mandrills,2
+580,UR Delver,UR Delver 4,Dreadhorde Arcanist,4
+581,UR Delver,UR Delver 4,Delver of Secrets,4
+582,UR Delver,UR Delver 4,"Oko, Thief of Crowns",3
+583,UR Delver,UR Delver 5,Flooded Strand,4
+584,UR Delver,UR Delver 5,Wasteland,4
+585,UR Delver,UR Delver 5,Scalding Tarn,4
+586,UR Delver,UR Delver 5,Volcanic Island,3
+587,UR Delver,UR Delver 5,Snow-Covered Island,2
+588,UR Delver,UR Delver 5,Snow-Covered Mountain,1
+589,UR Delver,UR Delver 5,Ponder,4
+590,UR Delver,UR Delver 5,Preordain,2
+591,UR Delver,UR Delver 5,Chain Lightning,1
+592,UR Delver,UR Delver 5,Brainstorm,4
+593,UR Delver,UR Delver 5,Force of Will,4
+594,UR Delver,UR Delver 5,Lightning Bolt,4
+595,UR Delver,UR Delver 5,Daze,4
+596,UR Delver,UR Delver 5,Force of Negation,2
+597,UR Delver,UR Delver 5,Spell Pierce,2
+598,UR Delver,UR Delver 5,Vapor Snag,1
+599,UR Delver,UR Delver 5,Delver of Secrets,4
+600,UR Delver,UR Delver 5,Young Pyromancer,4
+601,UR Delver,UR Delver 5,Dreadhorde Arcanist,4
+602,UR Delver,UR Delver 5,Brazen Borrower,2
+603,Eldrazi Aggro,Eldrazi Aggro 1,Endbringer,1
+604,Eldrazi Aggro,Eldrazi Aggro 1,Eldrazi Displacer,3
+605,Eldrazi Aggro,Eldrazi Aggro 1,Thought-Knot Seer,4
+606,Eldrazi Aggro,Eldrazi Aggro 1,Matter Reshaper,4
+607,Eldrazi Aggro,Eldrazi Aggro 1,Eldrazi Mimic,4
+608,Eldrazi Aggro,Eldrazi Aggro 1,Endless One,4
+609,Eldrazi Aggro,Eldrazi Aggro 1,Reality Smasher,4
+610,Eldrazi Aggro,Eldrazi Aggro 1,Lotus Petal,3
+611,Eldrazi Aggro,Eldrazi Aggro 1,Chalice of the Void,4
+612,Eldrazi Aggro,Eldrazi Aggro 1,Once Upon a Time,4
+613,Eldrazi Aggro,Eldrazi Aggro 1,Plains,1
+614,Eldrazi Aggro,Eldrazi Aggro 1,Karakas,2
+615,Eldrazi Aggro,Eldrazi Aggro 1,Blast Zone,2
+616,Eldrazi Aggro,Eldrazi Aggro 1,Wasteland,2
+617,Eldrazi Aggro,Eldrazi Aggro 1,Eye of Ugin,3
+618,Eldrazi Aggro,Eldrazi Aggro 1,Brushland,3
+619,Eldrazi Aggro,Eldrazi Aggro 1,Cavern of Souls,4
+620,Eldrazi Aggro,Eldrazi Aggro 1,Eldrazi Temple,4
+621,Eldrazi Aggro,Eldrazi Aggro 1,Ancient Tomb,4
+622,Eldrazi Aggro,Eldrazi Aggro 2,Cavern of Souls,4
+623,Eldrazi Aggro,Eldrazi Aggro 2,Ancient Tomb,4
+624,Eldrazi Aggro,Eldrazi Aggro 2,Eldrazi Temple,4
+625,Eldrazi Aggro,Eldrazi Aggro 2,Wasteland,4
+626,Eldrazi Aggro,Eldrazi Aggro 2,Brushland,3
+627,Eldrazi Aggro,Eldrazi Aggro 2,Savannah,2
+628,Eldrazi Aggro,Eldrazi Aggro 2,Snow-Covered Plains,2
+629,Eldrazi Aggro,Eldrazi Aggro 2,Karakas,2
+630,Eldrazi Aggro,Eldrazi Aggro 2,Once Upon a Time,4
+631,Eldrazi Aggro,Eldrazi Aggro 2,Mox Diamond,4
+632,Eldrazi Aggro,Eldrazi Aggro 2,Chalice of the Void,4
+633,Eldrazi Aggro,Eldrazi Aggro 2,Eldrazi Displacer,4
+634,Eldrazi Aggro,Eldrazi Aggro 2,Thought-Knot Seer,4
+635,Eldrazi Aggro,Eldrazi Aggro 2,"Thalia, Guardian of Thraben",4
+636,Eldrazi Aggro,Eldrazi Aggro 2,Reality Smasher,4
+637,Eldrazi Aggro,Eldrazi Aggro 2,Walking Ballista,3
+638,Eldrazi Aggro,Eldrazi Aggro 2,Palace Jailer,2
+639,Eldrazi Aggro,Eldrazi Aggro 2,"Thalia, Heretic Cathar",2
+640,Eldrazi Aggro,Eldrazi Aggro 3,Cavern of Souls,4
+641,Eldrazi Aggro,Eldrazi Aggro 3,Wasteland,4
+642,Eldrazi Aggro,Eldrazi Aggro 3,Ancient Tomb,4
+643,Eldrazi Aggro,Eldrazi Aggro 3,Eldrazi Temple,4
+644,Eldrazi Aggro,Eldrazi Aggro 3,Eye of Ugin,3
+645,Eldrazi Aggro,Eldrazi Aggro 3,Mishra's Factory,3
+646,Eldrazi Aggro,Eldrazi Aggro 3,City of Traitors,2
+647,Eldrazi Aggro,Eldrazi Aggro 3,Karakas,1
+648,Eldrazi Aggro,Eldrazi Aggro 3,Once Upon a Time,3
+649,Eldrazi Aggro,Eldrazi Aggro 3,Dismember,2
+650,Eldrazi Aggro,Eldrazi Aggro 3,Chalice of the Void,4
+651,Eldrazi Aggro,Eldrazi Aggro 3,Umezawa's Jitte,1
+652,Eldrazi Aggro,Eldrazi Aggro 3,Reality Smasher,4
+653,Eldrazi Aggro,Eldrazi Aggro 3,Thought-Knot Seer,4
+654,Eldrazi Aggro,Eldrazi Aggro 3,Matter Reshaper,4
+655,Eldrazi Aggro,Eldrazi Aggro 3,Eldrazi Mimic,4
+656,Eldrazi Aggro,Eldrazi Aggro 3,Endless One,4
+657,Eldrazi Aggro,Eldrazi Aggro 3,Elvish Spirit Guide,3
+658,Eldrazi Aggro,Eldrazi Aggro 3,Walking Ballista,2
+659,Death's Shadow,Death's Shadow 1,Underground Sea,1
+660,Death's Shadow,Death's Shadow 1,Verdant Catacombs,2
+661,Death's Shadow,Death's Shadow 1,Watery Grave,3
+662,Death's Shadow,Death's Shadow 1,Misty Rainforest,3
+663,Death's Shadow,Death's Shadow 1,Wasteland,4
+664,Death's Shadow,Death's Shadow 1,Polluted Delta,3
+665,Death's Shadow,Death's Shadow 1,Gurmag Angler,2
+666,Death's Shadow,Death's Shadow 1,Street Wraith,3
+667,Death's Shadow,Death's Shadow 1,Overgrown Tomb,1
+668,Death's Shadow,Death's Shadow 1,"Oko, Thief of Crowns",1
+669,Death's Shadow,Death's Shadow 1,Ponder,4
+670,Death's Shadow,Death's Shadow 1,Thoughtseize,2
+671,Death's Shadow,Death's Shadow 1,Reanimate,1
+672,Death's Shadow,Death's Shadow 1,Daze,4
+673,Death's Shadow,Death's Shadow 1,Brainstorm,4
+674,Death's Shadow,Death's Shadow 1,Force of Will,4
+675,Death's Shadow,Death's Shadow 1,Stifle,3
+676,Death's Shadow,Death's Shadow 1,Berserk,2
+677,Death's Shadow,Death's Shadow 1,Dismember,2
+678,Death's Shadow,Death's Shadow 1,Fatal Push,1
+679,Death's Shadow,Death's Shadow 1,Spell Pierce,1
+680,Death's Shadow,Death's Shadow 1,Death's Shadow,4
+681,Death's Shadow,Death's Shadow 1,Delver of Secrets,4
+682,Death's Shadow,Death's Shadow 1,Breeding Pool,1
+683,Death's Shadow,Death's Shadow 2,Flooded Strand,4
+684,Death's Shadow,Death's Shadow 2,Wasteland,4
+685,Death's Shadow,Death's Shadow 2,Watery Grave,3
+686,Death's Shadow,Death's Shadow 2,Misty Rainforest,3
+687,Death's Shadow,Death's Shadow 2,Polluted Delta,2
+688,Death's Shadow,Death's Shadow 2,Underground Sea,2
+689,Death's Shadow,Death's Shadow 2,Thoughtseize,4
+690,Death's Shadow,Death's Shadow 2,Ponder,4
+691,Death's Shadow,Death's Shadow 2,Reanimate,2
+692,Death's Shadow,Death's Shadow 2,Brainstorm,4
+693,Death's Shadow,Death's Shadow 2,Stifle,4
+694,Death's Shadow,Death's Shadow 2,Force of Will,4
+695,Death's Shadow,Death's Shadow 2,Daze,4
+696,Death's Shadow,Death's Shadow 2,Force of Negation,2
+697,Death's Shadow,Death's Shadow 2,Drown in the Loch,1
+698,Death's Shadow,Death's Shadow 2,Street Wraith,4
+699,Death's Shadow,Death's Shadow 2,Death's Shadow,4
+700,Death's Shadow,Death's Shadow 2,Gurmag Angler,3
+701,Death's Shadow,Death's Shadow 2,Snapcaster Mage,2
+702,Burn,Burn 1,Volcanic Fallout,3
+703,Burn,Burn 1,Pyrostatic Pillar,3
+704,Burn,Burn 1,Price of Progress,4
+705,Burn,Burn 1,Chain Lightning,4
+706,Burn,Burn 1,Lightning Bolt,4
+707,Burn,Burn 1,Fireblast,4
+708,Burn,Burn 1,Rift Bolt,4
+709,Burn,Burn 1,Grim Lavamancer,3
+710,Burn,Burn 1,Hellspark Elemental,4
+711,Burn,Burn 1,Vexing Devil,4
+712,Burn,Burn 1,Eidolon of the Great Revel,4
+713,Burn,Burn 1,Wooded Foothills,3
+714,Burn,Burn 1,Bloodstained Mire,4
+715,Burn,Burn 1,Mountain,12
+716,Burn,Burn 2,Rift Bolt,4
+717,Burn,Burn 2,Lava Spike,4
+718,Burn,Burn 2,Exquisite Firecraft,4
+719,Burn,Burn 2,Chain Lightning,4
+720,Burn,Burn 2,Monastery Swiftspear,4
+721,Burn,Burn 2,Goblin Guide,4
+722,Burn,Burn 2,Eidolon of the Great Revel,4
+723,Burn,Burn 2,Fireblast,4
+724,Burn,Burn 2,Lightning Bolt,4
+725,Burn,Burn 2,Price of Progress,4
+726,Burn,Burn 2,Mountain,20
+727,Arclight Phoenix,Arclight Phoenix 1,Fireblast,3
+728,Arclight Phoenix,Arclight Phoenix 1,Manamorphose,4
+729,Arclight Phoenix,Arclight Phoenix 1,Entomb,4
+730,Arclight Phoenix,Arclight Phoenix 1,Lightning Bolt,4
+731,Arclight Phoenix,Arclight Phoenix 1,Lava Dart,4
+732,Arclight Phoenix,Arclight Phoenix 1,Light Up the Stage,4
+733,Arclight Phoenix,Arclight Phoenix 1,Chain Lightning,4
+734,Arclight Phoenix,Arclight Phoenix 1,Faithless Looting,4
+735,Arclight Phoenix,Arclight Phoenix 1,Bedlam Reveler,3
+736,Arclight Phoenix,Arclight Phoenix 1,Arclight Phoenix,4
+737,Arclight Phoenix,Arclight Phoenix 1,Monastery Swiftspear,4
+738,Arclight Phoenix,Arclight Phoenix 1,Badlands,2
+739,Arclight Phoenix,Arclight Phoenix 1,Bloodstained Mire,4
+740,Arclight Phoenix,Arclight Phoenix 1,Wooded Foothills,4
+741,Arclight Phoenix,Arclight Phoenix 1,Mountain,8
+742,Arclight Phoenix,Arclight Phoenix 2,Preordain,2
+743,Arclight Phoenix,Arclight Phoenix 2,Lightning Bolt,2
+744,Arclight Phoenix,Arclight Phoenix 2,Buried Alive,4
+745,Arclight Phoenix,Arclight Phoenix 2,Ponder,4
+746,Arclight Phoenix,Arclight Phoenix 2,Thoughtseize,4
+747,Arclight Phoenix,Arclight Phoenix 2,Force of Will,4
+748,Arclight Phoenix,Arclight Phoenix 2,Daze,4
+749,Arclight Phoenix,Arclight Phoenix 2,Brainstorm,4
+750,Arclight Phoenix,Arclight Phoenix 2,Dark Ritual,4
+751,Arclight Phoenix,Arclight Phoenix 2,Dreadhorde Arcanist,2
+752,Arclight Phoenix,Arclight Phoenix 2,Sprite Dragon,2
+753,Arclight Phoenix,Arclight Phoenix 2,Arclight Phoenix,4
+754,Arclight Phoenix,Arclight Phoenix 2,Delver of Secrets,4
+755,Arclight Phoenix,Arclight Phoenix 2,Snow-Covered Swamp,1
+756,Arclight Phoenix,Arclight Phoenix 2,Snow-Covered Island,1
+757,Arclight Phoenix,Arclight Phoenix 2,Volcanic Island,1
+758,Arclight Phoenix,Arclight Phoenix 2,Badlands,1
+759,Arclight Phoenix,Arclight Phoenix 2,Scalding Tarn,2
+760,Arclight Phoenix,Arclight Phoenix 2,Bloodstained Mire,3
+761,Arclight Phoenix,Arclight Phoenix 2,Underground Sea,3
+762,Arclight Phoenix,Arclight Phoenix 2,Polluted Delta,4
+763,Death & Taxes,Death & Taxes 1,Snow-Covered Plains,6
+764,Death & Taxes,Death & Taxes 1,Rishadan Port,4
+765,Death & Taxes,Death & Taxes 1,Plains,4
+766,Death & Taxes,Death & Taxes 1,Wasteland,4
+767,Death & Taxes,Death & Taxes 1,Karakas,3
+768,Death & Taxes,Death & Taxes 1,Sanctum Prelate,1
+769,Death & Taxes,Death & Taxes 1,Spirit of the Labyrinth,1
+770,Death & Taxes,Death & Taxes 1,Palace Jailer,1
+771,Death & Taxes,Death & Taxes 1,"Thalia, Heretic Cathar",1
+772,Death & Taxes,Death & Taxes 1,Recruiter of the Guard,2
+773,Death & Taxes,Death & Taxes 1,Phyrexian Revoker,3
+774,Death & Taxes,Death & Taxes 1,Stoneforge Mystic,4
+775,Death & Taxes,Death & Taxes 1,"Thalia, Guardian of Thraben",4
+776,Death & Taxes,Death & Taxes 1,Flickerwisp,4
+777,Death & Taxes,Death & Taxes 1,Mother of Runes,4
+778,Death & Taxes,Death & Taxes 1,Umezawa's Jitte,1
+779,Death & Taxes,Death & Taxes 1,Sword of Fire and Ice,1
+780,Death & Taxes,Death & Taxes 1,Batterskull,1
+781,Death & Taxes,Death & Taxes 1,Aether Vial,4
+782,Death & Taxes,Death & Taxes 1,Swords to Plowshares,4
+783,Death & Taxes,Death & Taxes 1,Flagstones of Trokair,1
+784,Death & Taxes,Death & Taxes 1,Ancient Tomb,2
+785,Death & Taxes,Death & Taxes 2,Swords to Plowshares,4
+786,Death & Taxes,Death & Taxes 2,Umezawa's Jitte,1
+787,Death & Taxes,Death & Taxes 2,Sword of Fire and Ice,1
+788,Death & Taxes,Death & Taxes 2,Batterskull,1
+789,Death & Taxes,Death & Taxes 2,Aether Vial,4
+790,Death & Taxes,Death & Taxes 2,Mother of Runes,4
+791,Death & Taxes,Death & Taxes 2,"Thalia, Guardian of Thraben",4
+792,Death & Taxes,Death & Taxes 2,Stoneforge Mystic,4
+793,Death & Taxes,Death & Taxes 2,Recruiter of the Guard,2
+794,Death & Taxes,Death & Taxes 2,Mirran Crusader,2
+795,Death & Taxes,Death & Taxes 2,Sanctum Prelate,2
+796,Death & Taxes,Death & Taxes 2,Flickerwisp,4
+797,Death & Taxes,Death & Taxes 2,Rishadan Port,4
+798,Death & Taxes,Death & Taxes 2,Wasteland,4
+799,Death & Taxes,Death & Taxes 2,Karakas,3
+800,Death & Taxes,Death & Taxes 2,Plains,16
+801,Esper Vial,Esper Vial 1,"Teferi, Time Raveler",1
+802,Esper Vial,Esper Vial 1,Swords to Plowshares,3
+803,Esper Vial,Esper Vial 1,Force of Will,4
+804,Esper Vial,Esper Vial 1,Aether Vial,4
+805,Esper Vial,Esper Vial 1,Brainstorm,4
+806,Esper Vial,Esper Vial 1,"Venser, Shaper Savant",1
+807,Esper Vial,Esper Vial 1,Peacekeeper,1
+808,Esper Vial,Esper Vial 1,Palace Jailer,1
+809,Esper Vial,Esper Vial 1,Mother of Runes,1
+810,Esper Vial,Esper Vial 1,Flickerwisp,1
+811,Esper Vial,Esper Vial 1,"Barrin, Tolarian Archmage",1
+812,Esper Vial,Esper Vial 1,Spellseeker,1
+813,Esper Vial,Esper Vial 1,Plague Engineer,1
+814,Esper Vial,Esper Vial 1,Soulherder,2
+815,Esper Vial,Esper Vial 1,Charming Prince,2
+816,Esper Vial,Esper Vial 1,Baleful Strix,4
+817,Esper Vial,Esper Vial 1,Meddling Mage,4
+818,Esper Vial,Esper Vial 1,Recruiter of the Guard,4
+819,Esper Vial,Esper Vial 1,Marsh Flats,1
+820,Esper Vial,Esper Vial 1,Karakas,1
+821,Esper Vial,Esper Vial 1,Snow-Covered Swamp,1
+822,Esper Vial,Esper Vial 1,Snow-Covered Plains,1
+823,Esper Vial,Esper Vial 1,Underground Sea,1
+824,Esper Vial,Esper Vial 1,Scrubland,1
+825,Esper Vial,Esper Vial 1,Snow-Covered Island,1
+826,Esper Vial,Esper Vial 1,Tundra,3
+827,Esper Vial,Esper Vial 1,Wasteland,3
+828,Esper Vial,Esper Vial 1,Polluted Delta,3
+829,Esper Vial,Esper Vial 1,Flooded Strand,4
+830,Esper Vial,Esper Vial 2,"Teferi, Time Raveler",1
+831,Esper Vial,Esper Vial 2,Swords to Plowshares,3
+832,Esper Vial,Esper Vial 2,Brainstorm,4
+833,Esper Vial,Esper Vial 2,Force of Will,4
+834,Esper Vial,Esper Vial 2,Baleful Strix,4
+835,Esper Vial,Esper Vial 2,Meddling Mage,4
+836,Esper Vial,Esper Vial 2,Snow-Covered Plains,1
+837,Esper Vial,Esper Vial 2,Scrubland,1
+838,Esper Vial,Esper Vial 2,Marsh Flats,1
+839,Esper Vial,Esper Vial 2,Karakas,1
+840,Esper Vial,Esper Vial 2,Snow-Covered Island,1
+841,Esper Vial,Esper Vial 2,Snow-Covered Swamp,1
+842,Esper Vial,Esper Vial 2,Underground Sea,1
+843,Esper Vial,Esper Vial 2,Wasteland,3
+844,Esper Vial,Esper Vial 2,Polluted Delta,3
+845,Esper Vial,Esper Vial 2,Tundra,3
+846,Esper Vial,Esper Vial 2,Aether Vial,4
+847,Esper Vial,Esper Vial 2,"Venser, Shaper Savant",1
+848,Esper Vial,Esper Vial 2,Spellseeker,1
+849,Esper Vial,Esper Vial 2,Plague Engineer,1
+850,Esper Vial,Esper Vial 2,Peacekeeper,1
+851,Esper Vial,Esper Vial 2,Palace Jailer,1
+852,Esper Vial,Esper Vial 2,Mother of Runes,1
+853,Esper Vial,Esper Vial 2,"Barrin, Tolarian Archmage",1
+854,Esper Vial,Esper Vial 2,Flickerwisp,1
+855,Esper Vial,Esper Vial 2,Charming Prince,2
+856,Esper Vial,Esper Vial 2,Soulherder,2
+857,Esper Vial,Esper Vial 2,Recruiter of the Guard,4
+858,Esper Vial,Esper Vial 2,Flooded Strand,4
+859,Bant Aggro,Bant Aggro 1,"Oko, Thief of Crowns",3
+860,Bant Aggro,Bant Aggro 1,"Teferi, Time Raveler",3
+861,Bant Aggro,Bant Aggro 1,Archon of Valor's Reach,1
+862,Bant Aggro,Bant Aggro 1,Birds of Paradise,4
+863,Bant Aggro,Bant Aggro 1,Knight of the Reliquary,1
+864,Bant Aggro,Bant Aggro 1,Windswept Heath,4
+865,Bant Aggro,Bant Aggro 1,Verdant Catacombs,4
+866,Bant Aggro,Bant Aggro 1,Tropical Island,2
+867,Bant Aggro,Bant Aggro 1,Snow-Covered Plains,1
+868,Bant Aggro,Bant Aggro 1,Snow-Covered Island,1
+869,Bant Aggro,Bant Aggro 1,Snow-Covered Forest,1
+870,Bant Aggro,Bant Aggro 1,Savannah,2
+871,Bant Aggro,Bant Aggro 1,Misty Rainforest,4
+872,Bant Aggro,Bant Aggro 1,Karakas,1
+873,Bant Aggro,Bant Aggro 1,Gaea's Cradle,1
+874,Bant Aggro,Bant Aggro 1,Dryad Arbor,2
+875,Bant Aggro,Bant Aggro 1,Sylvan Library,1
+876,Bant Aggro,Bant Aggro 1,Swords to Plowshares,4
+877,Bant Aggro,Bant Aggro 1,Brainstorm,4
+878,Bant Aggro,Bant Aggro 1,Natural Order,4
+879,Bant Aggro,Bant Aggro 1,Green Sun's Zenith,4
+880,Bant Aggro,Bant Aggro 1,"Uro, Titan of Nature's Wrath",2
+881,Bant Aggro,Bant Aggro 1,Tireless Tracker,1
+882,Bant Aggro,Bant Aggro 1,Progenitus,1
+883,Bant Aggro,Bant Aggro 1,Noble Hierarch,4
+884,Patriot Aggro,Patriot Aggro 1,Preordain,2
+885,Patriot Aggro,Patriot Aggro 1,"Jace, the Mind Sculptor",2
+886,Patriot Aggro,Patriot Aggro 1,Force of Negation,2
+887,Patriot Aggro,Patriot Aggro 1,Brainstorm,4
+888,Patriot Aggro,Patriot Aggro 1,Ponder,4
+889,Patriot Aggro,Patriot Aggro 1,Force of Will,4
+890,Patriot Aggro,Patriot Aggro 1,Daze,4
+891,Patriot Aggro,Patriot Aggro 1,Swords to Plowshares,4
+892,Patriot Aggro,Patriot Aggro 1,Lightning Bolt,4
+893,Patriot Aggro,Patriot Aggro 1,Snapcaster Mage,3
+894,Patriot Aggro,Patriot Aggro 1,True-Name Nemesis,3
+895,Patriot Aggro,Patriot Aggro 1,Dreadhorde Arcanist,4
+896,Patriot Aggro,Patriot Aggro 1,Island,2
+897,Patriot Aggro,Patriot Aggro 1,Volcanic Island,3
+898,Patriot Aggro,Patriot Aggro 1,Tundra,3
+899,Patriot Aggro,Patriot Aggro 1,Wasteland,4
+900,Patriot Aggro,Patriot Aggro 1,Flooded Strand,4
+901,Patriot Aggro,Patriot Aggro 1,Scalding Tarn,4
+902,Delver (Other),Delver (Other) 1,Wasteland,4
+903,Delver (Other),Delver (Other) 1,Umezawa's Jitte,1
+904,Delver (Other),Delver (Other) 1,True-Name Nemesis,3
+905,Delver (Other),Delver (Other) 1,Stormwing Entity,3
+906,Delver (Other),Delver (Other) 1,Snap,2
+907,Delver (Other),Delver (Other) 1,Scalding Tarn,3
+908,Delver (Other),Delver (Other) 1,Preordain,3
+909,Delver (Other),Delver (Other) 1,Ponder,4
+910,Delver (Other),Delver (Other) 1,Polluted Delta,3
+911,Delver (Other),Delver (Other) 1,Misty Rainforest,2
+912,Delver (Other),Delver (Other) 1,Island,6
+913,Delver (Other),Delver (Other) 1,Gut Shot,3
+914,Delver (Other),Delver (Other) 1,Force of Will,4
+915,Delver (Other),Delver (Other) 1,Force of Negation,2
+916,Delver (Other),Delver (Other) 1,Ethereal Forager,3
+917,Delver (Other),Delver (Other) 1,Delver of Secrets,4
+918,Delver (Other),Delver (Other) 1,Daze,4
+919,Delver (Other),Delver (Other) 1,Brazen Borrower,2
+920,Delver (Other),Delver (Other) 1,Brainstorm,4
+921,Bant Control,Bant Control 1,"Jace, the Mind Sculptor",1
+922,Bant Control,Bant Control 1,"Oko, Thief of Crowns",3
+923,Bant Control,Bant Control 1,"Teferi, Time Raveler",1
+924,Bant Control,Bant Control 1,Ice-Fang Coatl,3
+925,Bant Control,Bant Control 1,Snapcaster Mage,3
+926,Bant Control,Bant Control 1,"Uro, Titan of Nature's Wrath",2
+927,Bant Control,Bant Control 1,Entreat the Angels,1
+928,Bant Control,Bant Control 1,Ponder,4
+929,Bant Control,Bant Control 1,Terminus,3
+930,Bant Control,Bant Control 1,Brainstorm,4
+931,Bant Control,Bant Control 1,Dovin's Veto,1
+932,Bant Control,Bant Control 1,Force of Negation,2
+933,Bant Control,Bant Control 1,Force of Will,4
+934,Bant Control,Bant Control 1,Swords to Plowshares,4
+935,Bant Control,Bant Control 1,Arcum's Astrolabe,4
+936,Bant Control,Bant Control 1,Flooded Strand,4
+937,Bant Control,Bant Control 1,Misty Rainforest,4
+938,Bant Control,Bant Control 1,Mystic Sanctuary,2
+939,Bant Control,Bant Control 1,Polluted Delta,1
+940,Bant Control,Bant Control 1,Snow-Covered Forest,1
+941,Bant Control,Bant Control 1,Snow-Covered Island,4
+942,Bant Control,Bant Control 1,Snow-Covered Plains,1
+943,Bant Control,Bant Control 1,Tropical Island,1
+944,Bant Control,Bant Control 1,Tundra,1
+945,Bant Control,Bant Control 1,Volcanic Island,1
+946,Bant Control,Bant Control 2,"Jace, the Mind Sculptor",1
+947,Bant Control,Bant Control 2,Council's Judgment,1
+948,Bant Control,Bant Control 2,Entreat the Angels,1
+949,Bant Control,Bant Control 2,Force of Negation,1
+950,Bant Control,Bant Control 2,Dovin's Veto,2
+951,Bant Control,Bant Control 2,Terminus,3
+952,Bant Control,Bant Control 2,"Oko, Thief of Crowns",3
+953,Bant Control,Bant Control 2,Ponder,4
+954,Bant Control,Bant Control 2,Brainstorm,4
+955,Bant Control,Bant Control 2,Force of Will,4
+956,Bant Control,Bant Control 2,Swords to Plowshares,4
+957,Bant Control,Bant Control 2,Arcum's Astrolabe,4
+958,Bant Control,Bant Control 2,"Uro, Titan of Nature's Wrath",2
+959,Bant Control,Bant Control 2,Ice-Fang Coatl,3
+960,Bant Control,Bant Control 2,Snapcaster Mage,3
+961,Bant Control,Bant Control 2,Tropical Island,1
+962,Bant Control,Bant Control 2,Snow-Covered Plains,1
+963,Bant Control,Bant Control 2,Snow-Covered Forest,1
+964,Bant Control,Bant Control 2,Polluted Delta,1
+965,Bant Control,Bant Control 2,Karakas,1
+966,Bant Control,Bant Control 2,Tundra,1
+967,Bant Control,Bant Control 2,Mystic Sanctuary,2
+968,Bant Control,Bant Control 2,Misty Rainforest,4
+969,Bant Control,Bant Control 2,Snow-Covered Island,4
+970,Bant Control,Bant Control 2,Flooded Strand,4
+971,Bant Control,Bant Control 3,Windswept Heath,1
+972,Bant Control,Bant Control 3,Tundra,1
+973,Bant Control,Bant Control 3,Snow-Covered Plains,2
+974,Bant Control,Bant Control 3,Snow-Covered Island,4
+975,Bant Control,Bant Control 3,Snow-Covered Forest,2
+976,Bant Control,Bant Control 3,Prismatic Vista,3
+977,Bant Control,Bant Control 3,Misty Rainforest,1
+978,Bant Control,Bant Control 3,Karakas,1
+979,Bant Control,Bant Control 3,Flooded Strand,4
+980,Bant Control,Bant Control 3,Breeding Pool,1
+981,Bant Control,Bant Control 3,Veil of Summer,1
+982,Bant Control,Bant Control 3,Terminus,3
+983,Bant Control,Bant Control 3,Swords to Plowshares,4
+984,Bant Control,Bant Control 3,Spell Pierce,1
+985,Bant Control,Bant Control 3,Snapcaster Mage,3
+986,Bant Control,Bant Control 3,Ponder,4
+987,Bant Control,Bant Control 3,"Narset, Parter of Veils",1
+988,Bant Control,Bant Control 3,"Jace, the Mind Sculptor",2
+989,Bant Control,Bant Control 3,Force of Will,4
+990,Bant Control,Bant Control 3,Force of Negation,1
+991,Bant Control,Bant Control 3,Brainstorm,4
+992,Bant Control,Bant Control 3,Back to Basics,1
+993,Bant Control,Bant Control 3,Arcum's Astrolabe,4
+994,Bant Control,Bant Control 3,"Uro, Titan of Nature's Wrath",1
+995,Bant Control,Bant Control 3,"Oko, Thief of Crowns",3
+996,Bant Control,Bant Control 3,Ice-Fang Coatl,3
+997,Bant Control,Bant Control 4,Force of Negation,1
+998,Bant Control,Bant Control 4,"Jace, the Mind Sculptor",1
+999,Bant Control,Bant Control 4,Council's Judgment,1
+1000,Bant Control,Bant Control 4,Entreat the Angels,1
+1001,Bant Control,Bant Control 4,Dovin's Veto,2
+1002,Bant Control,Bant Control 4,Terminus,3
+1003,Bant Control,Bant Control 4,"Oko, Thief of Crowns",3
+1004,Bant Control,Bant Control 4,Swords to Plowshares,4
+1005,Bant Control,Bant Control 4,Force of Will,4
+1006,Bant Control,Bant Control 4,Arcum's Astrolabe,4
+1007,Bant Control,Bant Control 4,Ponder,4
+1008,Bant Control,Bant Control 4,Brainstorm,4
+1009,Bant Control,Bant Control 4,"Uro, Titan of Nature's Wrath",2
+1010,Bant Control,Bant Control 4,Snapcaster Mage,3
+1011,Bant Control,Bant Control 4,Ice-Fang Coatl,3
+1012,Bant Control,Bant Control 4,Polluted Delta,1
+1013,Bant Control,Bant Control 4,Snow-Covered Forest,1
+1014,Bant Control,Bant Control 4,Tundra,1
+1015,Bant Control,Bant Control 4,Tropical Island,1
+1016,Bant Control,Bant Control 4,Mystic Sanctuary,2
+1017,Bant Control,Bant Control 4,Snow-Covered Plains,2
+1018,Bant Control,Bant Control 4,Flooded Strand,4
+1019,Bant Control,Bant Control 4,Misty Rainforest,4
+1020,Bant Control,Bant Control 4,Snow-Covered Island,4
+1021,Bant Control,Bant Control 5,Counterspell,1
+1022,Bant Control,Bant Control 5,"Narset, Parter of Veils",1
+1023,Bant Control,Bant Control 5,Pyroblast,1
+1024,Bant Control,Bant Control 5,Spell Snare,1
+1025,Bant Control,Bant Control 5,Veil of Summer,1
+1026,Bant Control,Bant Control 5,Force of Negation,2
+1027,Bant Control,Bant Control 5,Terminus,2
+1028,Bant Control,Bant Control 5,"Jace, the Mind Sculptor",2
+1029,Bant Control,Bant Control 5,"Oko, Thief of Crowns",3
+1030,Bant Control,Bant Control 5,Arcum's Astrolabe,4
+1031,Bant Control,Bant Control 5,Swords to Plowshares,4
+1032,Bant Control,Bant Control 5,Force of Will,4
+1033,Bant Control,Bant Control 5,Brainstorm,4
+1034,Bant Control,Bant Control 5,Ponder,4
+1035,Bant Control,Bant Control 5,"Uro, Titan of Nature's Wrath",1
+1036,Bant Control,Bant Control 5,Snapcaster Mage,1
+1037,Bant Control,Bant Control 5,Ice-Fang Coatl,4
+1038,Bant Control,Bant Control 5,Snow-Covered Forest,1
+1039,Bant Control,Bant Control 5,Volcanic Island,1
+1040,Bant Control,Bant Control 5,Tundra,1
+1041,Bant Control,Bant Control 5,Tropical Island,1
+1042,Bant Control,Bant Control 5,Snow-Covered Plains,1
+1043,Bant Control,Bant Control 5,Polluted Delta,1
+1044,Bant Control,Bant Control 5,Mystic Sanctuary,2
+1045,Bant Control,Bant Control 5,Snow-Covered Island,4
+1046,Bant Control,Bant Control 5,Misty Rainforest,4
+1047,Bant Control,Bant Control 5,Flooded Strand,4
+1048,4c Control,4c Control 1,Toxic Deluge,1
+1049,4c Control,4c Control 1,Fatal Push,1
+1050,4c Control,4c Control 1,Lightning Bolt,1
+1051,4c Control,4c Control 1,Pyroblast,1
+1052,4c Control,4c Control 1,Force of Negation,2
+1053,4c Control,4c Control 1,Cling to Dust,3
+1054,4c Control,4c Control 1,Drown in the Loch,3
+1055,4c Control,4c Control 1,Punishing Fire,3
+1056,4c Control,4c Control 1,Ponder,4
+1057,4c Control,4c Control 1,Assassin's Trophy,4
+1058,4c Control,4c Control 1,Brainstorm,4
+1059,4c Control,4c Control 1,Force of Will,4
+1060,4c Control,4c Control 1,Arcum's Astrolabe,4
+1061,4c Control,4c Control 1,Dack Fayden,4
+1062,4c Control,4c Control 1,"Leovold, Emissary of Trest",1
+1063,4c Control,4c Control 1,Snapcaster Mage,1
+1064,4c Control,4c Control 1,Baleful Strix,1
+1065,4c Control,4c Control 1,Ice-Fang Coatl,4
+1066,4c Control,4c Control 1,"Uro, Titan of Nature's Wrath",4
+1067,4c Control,4c Control 1,Karakas,1
+1068,4c Control,4c Control 1,Badlands,1
+1069,4c Control,4c Control 1,Bayou,1
+1070,4c Control,4c Control 1,Underground Sea,1
+1071,4c Control,4c Control 1,Waterlogged Grove,1
+1072,4c Control,4c Control 1,Snow-Covered Swamp,1
+1073,4c Control,4c Control 1,Verdant Catacombs,1
+1074,4c Control,4c Control 1,Snow-Covered Forest,2
+1075,4c Control,4c Control 1,Tropical Island,2
+1076,4c Control,4c Control 1,Volcanic Island,2
+1077,4c Control,4c Control 1,Snow-Covered Island,3
+1078,4c Control,4c Control 1,Scalding Tarn,3
+1079,4c Control,4c Control 1,Misty Rainforest,3
+1080,4c Control,4c Control 1,Grove of the Burnwillows,4
+1081,4c Control,4c Control 1,Polluted Delta,4
+1082,4c Control,4c Control 2,Pyroblast,1
+1083,4c Control,4c Control 2,Lightning Bolt,1
+1084,4c Control,4c Control 2,Fatal Push,1
+1085,4c Control,4c Control 2,Toxic Deluge,1
+1086,4c Control,4c Control 2,Force of Negation,2
+1087,4c Control,4c Control 2,Punishing Fire,3
+1088,4c Control,4c Control 2,Cling to Dust,3
+1089,4c Control,4c Control 2,Drown in the Loch,3
+1090,4c Control,4c Control 2,Assassin's Trophy,4
+1091,4c Control,4c Control 2,Arcum's Astrolabe,4
+1092,4c Control,4c Control 2,Brainstorm,4
+1093,4c Control,4c Control 2,Ponder,4
+1094,4c Control,4c Control 2,Force of Will,4
+1095,4c Control,4c Control 2,Dack Fayden,4
+1096,4c Control,4c Control 2,Snapcaster Mage,1
+1097,4c Control,4c Control 2,Baleful Strix,1
+1098,4c Control,4c Control 2,"Leovold, Emissary of Trest",1
+1099,4c Control,4c Control 2,Ice-Fang Coatl,4
+1100,4c Control,4c Control 2,"Uro, Titan of Nature's Wrath",4
+1101,4c Control,4c Control 2,Verdant Catacombs,1
+1102,4c Control,4c Control 2,Underground Sea,1
+1103,4c Control,4c Control 2,Snow-Covered Swamp,1
+1104,4c Control,4c Control 2,Karakas,1
+1105,4c Control,4c Control 2,Bayou,1
+1106,4c Control,4c Control 2,Badlands,1
+1107,4c Control,4c Control 2,Waterlogged Grove,1
+1108,4c Control,4c Control 2,Volcanic Island,2
+1109,4c Control,4c Control 2,Tropical Island,2
+1110,4c Control,4c Control 2,Snow-Covered Forest,2
+1111,4c Control,4c Control 2,Misty Rainforest,3
+1112,4c Control,4c Control 2,Scalding Tarn,3
+1113,4c Control,4c Control 2,Snow-Covered Island,3
+1114,4c Control,4c Control 2,Polluted Delta,4
+1115,4c Control,4c Control 2,Grove of the Burnwillows,4
+1116,4c Control,4c Control 3,"Jace, the Mind Sculptor",1
+1117,4c Control,4c Control 3,Dead of Winter,1
+1118,4c Control,4c Control 3,"Oko, Thief of Crowns",2
+1119,4c Control,4c Control 3,Sylvan Library,2
+1120,4c Control,4c Control 3,Force of Negation,2
+1121,4c Control,4c Control 3,Abrupt Decay,3
+1122,4c Control,4c Control 3,Arcum's Astrolabe,4
+1123,4c Control,4c Control 3,Swords to Plowshares,4
+1124,4c Control,4c Control 3,Ponder,4
+1125,4c Control,4c Control 3,Brainstorm,4
+1126,4c Control,4c Control 3,Force of Will,4
+1127,4c Control,4c Control 3,Plague Engineer,1
+1128,4c Control,4c Control 3,"Uro, Titan of Nature's Wrath",3
+1129,4c Control,4c Control 3,Ice-Fang Coatl,4
+1130,4c Control,4c Control 3,Karakas,1
+1131,4c Control,4c Control 3,Flooded Strand,1
+1132,4c Control,4c Control 3,Underground Sea,1
+1133,4c Control,4c Control 3,Tundra,1
+1134,4c Control,4c Control 3,Snow-Covered Swamp,1
+1135,4c Control,4c Control 3,Snow-Covered Plains,1
+1136,4c Control,4c Control 3,Tropical Island,1
+1137,4c Control,4c Control 3,Polluted Delta,2
+1138,4c Control,4c Control 3,Snow-Covered Forest,2
+1139,4c Control,4c Control 3,Snow-Covered Island,3
+1140,4c Control,4c Control 3,Prismatic Vista,3
+1141,4c Control,4c Control 3,Misty Rainforest,4
+1142,4c Control,4c Control 4,Veil of Summer,1
+1143,4c Control,4c Control 4,Dead of Winter,1
+1144,4c Control,4c Control 4,Sylvan Library,2
+1145,4c Control,4c Control 4,Force of Negation,2
+1146,4c Control,4c Control 4,"Oko, Thief of Crowns",3
+1147,4c Control,4c Control 4,Abrupt Decay,3
+1148,4c Control,4c Control 4,Brainstorm,4
+1149,4c Control,4c Control 4,Force of Will,4
+1150,4c Control,4c Control 4,Arcum's Astrolabe,4
+1151,4c Control,4c Control 4,Ponder,4
+1152,4c Control,4c Control 4,Swords to Plowshares,4
+1153,4c Control,4c Control 4,"Uro, Titan of Nature's Wrath",3
+1154,4c Control,4c Control 4,Ice-Fang Coatl,4
+1155,4c Control,4c Control 4,Flooded Strand,1
+1156,4c Control,4c Control 4,Tundra,1
+1157,4c Control,4c Control 4,Tropical Island,1
+1158,4c Control,4c Control 4,Volcanic Island,1
+1159,4c Control,4c Control 4,Snow-Covered Swamp,1
+1160,4c Control,4c Control 4,Snow-Covered Plains,1
+1161,4c Control,4c Control 4,Underground Sea,1
+1162,4c Control,4c Control 4,Polluted Delta,2
+1163,4c Control,4c Control 4,Snow-Covered Forest,2
+1164,4c Control,4c Control 4,Prismatic Vista,3
+1165,4c Control,4c Control 4,Snow-Covered Island,3
+1166,4c Control,4c Control 4,Misty Rainforest,4
+1167,Lands,Lands 1,Taiga,2
+1168,Lands,Lands 1,Maze of Ith,2
+1169,Lands,Lands 1,Bayou,2
+1170,Lands,Lands 1,Bojuka Bog,1
+1171,Lands,Lands 1,Blast Zone,1
+1172,Lands,Lands 1,Field of the Dead,1
+1173,Lands,Lands 1,Forest,1
+1174,Lands,Lands 1,Ghost Quarter,1
+1175,Lands,Lands 1,Wasteland,4
+1176,Lands,Lands 1,Thespian's Stage,4
+1177,Lands,Lands 1,Rishadan Port,3
+1178,Lands,Lands 1,Grove of the Burnwillows,3
+1179,Lands,Lands 1,Dark Depths,3
+1180,Lands,Lands 1,Karakas,1
+1181,Lands,Lands 1,Wooded Foothills,1
+1182,Lands,Lands 1,Nurturing Peatland,1
+1183,Lands,Lands 1,The Tabernacle at Pendrell Vale,1
+1184,Lands,Lands 1,Verdant Catacombs,1
+1185,Lands,Lands 1,Windswept Heath,1
+1186,Lands,Lands 1,Exploration,4
+1187,Lands,Lands 1,Sylvan Library,3
+1188,Lands,Lands 1,Life from the Loam,4
+1189,Lands,Lands 1,Gamble,2
+1190,Lands,Lands 1,Crop Rotation,4
+1191,Lands,Lands 1,Abrupt Decay,3
+1192,Lands,Lands 1,Punishing Fire,2
+1193,Lands,Lands 1,Mox Diamond,4
+1194,Lands,Lands 2,Elvish Reclaimer,2
+1195,Lands,Lands 2,"Klothys, God of Destiny",1
+1196,Lands,Lands 2,Mox Diamond,4
+1197,Lands,Lands 2,Exploration,4
+1198,Lands,Lands 2,Sylvan Library,2
+1199,Lands,Lands 2,Life from the Loam,4
+1200,Lands,Lands 2,Gamble,2
+1201,Lands,Lands 2,Crop Rotation,4
+1202,Lands,Lands 2,Punishing Fire,2
+1203,Lands,Lands 2,Grove of the Burnwillows,4
+1204,Lands,Lands 2,Thespian's Stage,4
+1205,Lands,Lands 2,Barbarian Ring,1
+1206,Lands,Lands 2,Horizon Canopy,1
+1207,Lands,Lands 2,Wooded Foothills,1
+1208,Lands,Lands 2,Forest,1
+1209,Lands,Lands 2,Tranquil Thicket,1
+1210,Lands,Lands 2,Glacial Chasm,1
+1211,Lands,Lands 2,Ancient Tomb,1
+1212,Lands,Lands 2,Bojuka Bog,1
+1213,Lands,Lands 2,Taiga,2
+1214,Lands,Lands 2,Ghost Quarter,2
+1215,Lands,Lands 2,Dark Depths,3
+1216,Lands,Lands 2,Wasteland,4
+1217,Lands,Lands 2,Sheltered Thicket,1
+1218,Lands,Lands 2,Windswept Heath,1
+1219,Lands,Lands 2,The Tabernacle at Pendrell Vale,1
+1220,Lands,Lands 2,Maze of Ith,1
+1221,Lands,Lands 2,Karakas,1
+1222,Lands,Lands 2,Blast Zone,1
+1223,Lands,Lands 2,Field of the Dead,1
+1224,Lands,Lands 2,Rishadan Port,1
+1225,Lands,Lands 3,"Klothys, God of Destiny",1
+1226,Lands,Lands 3,Elvish Reclaimer,2
+1227,Lands,Lands 3,Mox Diamond,4
+1228,Lands,Lands 3,Punishing Fire,2
+1229,Lands,Lands 3,Crop Rotation,4
+1230,Lands,Lands 3,Gamble,2
+1231,Lands,Lands 3,Life from the Loam,4
+1232,Lands,Lands 3,Sylvan Library,2
+1233,Lands,Lands 3,Exploration,4
+1234,Lands,Lands 3,Bojuka Bog,1
+1235,Lands,Lands 3,Sheltered Thicket,1
+1236,Lands,Lands 3,Windswept Heath,1
+1237,Lands,Lands 3,The Tabernacle at Pendrell Vale,1
+1238,Lands,Lands 3,Maze of Ith,1
+1239,Lands,Lands 3,Karakas,1
+1240,Lands,Lands 3,Blast Zone,1
+1241,Lands,Lands 3,Field of the Dead,1
+1242,Lands,Lands 3,Rishadan Port,1
+1243,Lands,Lands 3,Barbarian Ring,1
+1244,Lands,Lands 3,Horizon Canopy,1
+1245,Lands,Lands 3,Wooded Foothills,1
+1246,Lands,Lands 3,Ancient Tomb,1
+1247,Lands,Lands 3,Forest,1
+1248,Lands,Lands 3,Tranquil Thicket,1
+1249,Lands,Lands 3,Glacial Chasm,1
+1250,Lands,Lands 3,Ghost Quarter,2
+1251,Lands,Lands 3,Taiga,2
+1252,Lands,Lands 3,Dark Depths,3
+1253,Lands,Lands 3,Grove of the Burnwillows,4
+1254,Lands,Lands 3,Thespian's Stage,4
+1255,Lands,Lands 3,Wasteland,4
+1256,Stoneblade,Stoneblade 1,Karakas,1
+1257,Stoneblade,Stoneblade 1,Underground Sea,1
+1258,Stoneblade,Stoneblade 1,Tropical Island,2
+1259,Stoneblade,Stoneblade 1,Snow-Covered Island,2
+1260,Stoneblade,Stoneblade 1,Polluted Delta,2
+1261,Stoneblade,Stoneblade 1,Windswept Heath,2
+1262,Stoneblade,Stoneblade 1,Flooded Strand,3
+1263,Stoneblade,Stoneblade 1,Scrubland,1
+1264,Stoneblade,Stoneblade 1,Snow-Covered Forest,1
+1265,Stoneblade,Stoneblade 1,Snow-Covered Plains,1
+1266,Stoneblade,Stoneblade 1,Savannah,1
+1267,Stoneblade,Stoneblade 1,Snow-Covered Swamp,1
+1268,Stoneblade,Stoneblade 1,Tundra,1
+1269,Stoneblade,Stoneblade 1,"Oko, Thief of Crowns",3
+1270,Stoneblade,Stoneblade 1,"Jace, the Mind Sculptor",1
+1271,Stoneblade,Stoneblade 1,Ponder,1
+1272,Stoneblade,Stoneblade 1,Force of Will,4
+1273,Stoneblade,Stoneblade 1,Swords to Plowshares,4
+1274,Stoneblade,Stoneblade 1,Brainstorm,4
+1275,Stoneblade,Stoneblade 1,Abrupt Decay,2
+1276,Stoneblade,Stoneblade 1,Force of Negation,1
+1277,Stoneblade,Stoneblade 1,Arcum's Astrolabe,3
+1278,Stoneblade,Stoneblade 1,Batterskull,1
+1279,Stoneblade,Stoneblade 1,Umezawa's Jitte,1
+1280,Stoneblade,Stoneblade 1,Noble Hierarch,4
+1281,Stoneblade,Stoneblade 1,Ice-Fang Coatl,3
+1282,Stoneblade,Stoneblade 1,Stoneforge Mystic,3
+1283,Stoneblade,Stoneblade 1,"Uro, Titan of Nature's Wrath",2
+1284,Stoneblade,Stoneblade 1,True-Name Nemesis,2
+1285,Stoneblade,Stoneblade 1,Knight of the Reliquary,1
+1286,Stoneblade,Stoneblade 1,Gemrazer,1
+1287,Stoneblade,Stoneblade 2,Stoneforge Mystic,4
+1288,Stoneblade,Stoneblade 2,Batterskull,1
+1289,Stoneblade,Stoneblade 2,Engineered Explosives,1
+1290,Stoneblade,Stoneblade 2,Windswept Heath,1
+1291,Stoneblade,Stoneblade 2,Underground Sea,1
+1292,Stoneblade,Stoneblade 2,Tropical Island,1
+1293,Stoneblade,Stoneblade 2,Tundra,1
+1294,Stoneblade,Stoneblade 2,Misty Rainforest,1
+1295,Stoneblade,Stoneblade 2,Karakas,1
+1296,Stoneblade,Stoneblade 2,"Oko, Thief of Crowns",2
+1297,Stoneblade,Stoneblade 2,Dead of Winter,1
+1298,Stoneblade,Stoneblade 2,Brainstorm,4
+1299,Stoneblade,Stoneblade 2,Force of Will,3
+1300,Stoneblade,Stoneblade 2,Swords to Plowshares,3
+1301,Stoneblade,Stoneblade 2,Abrupt Decay,2
+1302,Stoneblade,Stoneblade 2,Assassin's Trophy,1
+1303,Stoneblade,Stoneblade 2,Thopter Foundry,4
+1304,Stoneblade,Stoneblade 2,Arcum's Astrolabe,4
+1305,Stoneblade,Stoneblade 2,Sword of the Meek,1
+1306,Stoneblade,Stoneblade 2,Retrofitter Foundry,1
+1307,Stoneblade,Stoneblade 2,Ice-Fang Coatl,3
+1308,Stoneblade,Stoneblade 2,"Urza, Lord High Artificer",3
+1309,Stoneblade,Stoneblade 2,Prismatic Vista,4
+1310,Stoneblade,Stoneblade 2,Snow-Covered Island,3
+1311,Stoneblade,Stoneblade 2,Snow-Covered Plains,2
+1312,Stoneblade,Stoneblade 2,Snow-Covered Swamp,2
+1313,Stoneblade,Stoneblade 2,Snow-Covered Forest,2
+1314,Stoneblade,Stoneblade 2,Academy Ruins,1
+1315,Stoneblade,Stoneblade 2,Flooded Strand,1
+1316,Stoneblade,Stoneblade 2,Polluted Delta,1
+1317,Nic Fit ,Nic Fit  1,Swamp,1
+1318,Nic Fit ,Nic Fit  1,Snow-Covered Swamp,1
+1319,Nic Fit ,Nic Fit  1,Snow-Covered Plains,1
+1320,Nic Fit ,Nic Fit  1,Scrubland,1
+1321,Nic Fit ,Nic Fit  1,Savannah,1
+1322,Nic Fit ,Nic Fit  1,Karakas,1
+1323,Nic Fit ,Nic Fit  1,Forest,1
+1324,Nic Fit ,Nic Fit  1,Field of the Dead,1
+1325,Nic Fit ,Nic Fit  1,Cavern of Souls,1
+1326,Nic Fit ,Nic Fit  1,Bojuka Bog,1
+1327,Nic Fit ,Nic Fit  1,Bayou,1
+1328,Nic Fit ,Nic Fit  1,Snow-Covered Forest,2
+1329,Nic Fit ,Nic Fit  1,Phyrexian Tower,2
+1330,Nic Fit ,Nic Fit  1,Windswept Heath,3
+1331,Nic Fit ,Nic Fit  1,Verdant Catacombs,4
+1332,Nic Fit ,Nic Fit  1,Once Upon a Time,3
+1333,Nic Fit ,Nic Fit  1,Crop Rotation,4
+1334,Nic Fit ,Nic Fit  1,Thoughtseize,3
+1335,Nic Fit ,Nic Fit  1,Living Wish,4
+1336,Nic Fit ,Nic Fit  1,Cabal Therapy,4
+1337,Nic Fit ,Nic Fit  1,Overwhelming Splendor,1
+1338,Nic Fit ,Nic Fit  1,Omniscience,1
+1339,Nic Fit ,Nic Fit  1,Curse of Exhaustion,1
+1340,Nic Fit ,Nic Fit  1,Curse of Death's Hold,1
+1341,Nic Fit ,Nic Fit  1,Curse of Misfortunes,3
+1342,Nic Fit ,Nic Fit  1,Recruiter of the Guard,1
+1343,Nic Fit ,Nic Fit  1,Arena Rector,2
+1344,Nic Fit ,Nic Fit  1,Academy Rector,3
+1345,Nic Fit ,Nic Fit  1,Veteran Explorer,4
+1346,Nic Fit ,Nic Fit  1,"Vraska, Golgari Queen",1
+1347,Nic Fit ,Nic Fit  1,"Ugin, the Spirit Dragon",2
+1348,Nic Fit ,Nic Fit  2,Verdant Catacombs,4
+1349,Nic Fit ,Nic Fit  2,Windswept Heath,3
+1350,Nic Fit ,Nic Fit  2,Phyrexian Tower,2
+1351,Nic Fit ,Nic Fit  2,Snow-Covered Forest,2
+1352,Nic Fit ,Nic Fit  2,Field of the Dead,1
+1353,Nic Fit ,Nic Fit  2,Karakas,1
+1354,Nic Fit ,Nic Fit  2,Forest,1
+1355,Nic Fit ,Nic Fit  2,Bayou,1
+1356,Nic Fit ,Nic Fit  2,Bojuka Bog,1
+1357,Nic Fit ,Nic Fit  2,Cavern of Souls,1
+1358,Nic Fit ,Nic Fit  2,Swamp,1
+1359,Nic Fit ,Nic Fit  2,Snow-Covered Swamp,1
+1360,Nic Fit ,Nic Fit  2,Snow-Covered Plains,1
+1361,Nic Fit ,Nic Fit  2,Scrubland,1
+1362,Nic Fit ,Nic Fit  2,Savannah,1
+1363,Nic Fit ,Nic Fit  2,"Ugin, the Spirit Dragon",2
+1364,Nic Fit ,Nic Fit  2,"Vraska, Golgari Queen",1
+1365,Nic Fit ,Nic Fit  2,Curse of Misfortunes,3
+1366,Nic Fit ,Nic Fit  2,Overwhelming Splendor,1
+1367,Nic Fit ,Nic Fit  2,Omniscience,1
+1368,Nic Fit ,Nic Fit  2,Curse of Death's Hold,1
+1369,Nic Fit ,Nic Fit  2,Curse of Exhaustion,1
+1370,Nic Fit ,Nic Fit  2,Living Wish,4
+1371,Nic Fit ,Nic Fit  2,Cabal Therapy,4
+1372,Nic Fit ,Nic Fit  2,Thoughtseize,3
+1373,Nic Fit ,Nic Fit  2,Crop Rotation,4
+1374,Nic Fit ,Nic Fit  2,Once Upon a Time,3
+1375,Nic Fit ,Nic Fit  2,Veteran Explorer,4
+1376,Nic Fit ,Nic Fit  2,Academy Rector,3
+1377,Nic Fit ,Nic Fit  2,Arena Rector,2
+1378,Nic Fit ,Nic Fit  2,Recruiter of the Guard,1
+1379,Artifacts Blue,Artifacts Blue 1,Defense Grid,1
+1380,Artifacts Blue,Artifacts Blue 1,Mishra's Bauble,1
+1381,Artifacts Blue,Artifacts Blue 1,Lion's Eye Diamond,3
+1382,Artifacts Blue,Artifacts Blue 1,Echo of Eons,4
+1383,Artifacts Blue,Artifacts Blue 1,Chalice of the Void,4
+1384,Artifacts Blue,Artifacts Blue 1,"Karn, the Great Creator",4
+1385,Artifacts Blue,Artifacts Blue 1,Lotus Petal,4
+1386,Artifacts Blue,Artifacts Blue 1,Mox Opal,4
+1387,Artifacts Blue,Artifacts Blue 1,Urza's Bauble,4
+1388,Artifacts Blue,Artifacts Blue 1,"Narset, Parter of Veils",4
+1389,Artifacts Blue,Artifacts Blue 1,"Sai, Master Thopterist",2
+1390,Artifacts Blue,Artifacts Blue 1,"Urza, Lord High Artificer",4
+1391,Artifacts Blue,Artifacts Blue 1,"Emry, Lurker of the Loch",4
+1392,Artifacts Blue,Artifacts Blue 1,City of Traitors,2
+1393,Artifacts Blue,Artifacts Blue 1,Island,3
+1394,Artifacts Blue,Artifacts Blue 1,Ancient Tomb,4
+1395,Artifacts Blue,Artifacts Blue 1,Seat of the Synod,4
+1396,Artifacts Blue,Artifacts Blue 1,Snow-Covered Island,4
+1397,Artifacts Blue,Artifacts Blue 2,"Teferi, Time Raveler",1
+1398,Artifacts Blue,Artifacts Blue 2,Sevinne's Reclamation,1
+1399,Artifacts Blue,Artifacts Blue 2,Intuition,1
+1400,Artifacts Blue,Artifacts Blue 2,Prophetic Prism,2
+1401,Artifacts Blue,Artifacts Blue 2,Mox Amber,2
+1402,Artifacts Blue,Artifacts Blue 2,"Oko, Thief of Crowns",3
+1403,Artifacts Blue,Artifacts Blue 2,Basalt Monolith,3
+1404,Artifacts Blue,Artifacts Blue 2,Mox Opal,3
+1405,Artifacts Blue,Artifacts Blue 2,"Karn, the Great Creator",4
+1406,Artifacts Blue,Artifacts Blue 2,Lotus Petal,4
+1407,Artifacts Blue,Artifacts Blue 2,Mishra's Bauble,4
+1408,Artifacts Blue,Artifacts Blue 2,Chalice of the Void,4
+1409,Artifacts Blue,Artifacts Blue 2,Walking Ballista,1
+1410,Artifacts Blue,Artifacts Blue 2,"Uro, Titan of Nature's Wrath",1
+1411,Artifacts Blue,Artifacts Blue 2,"Urza, Lord High Artificer",2
+1412,Artifacts Blue,Artifacts Blue 2,"Emry, Lurker of the Loch",3
+1413,Artifacts Blue,Artifacts Blue 2,"Kinnan, Bonder Prodigy",3
+1414,Artifacts Blue,Artifacts Blue 2,Snow-Covered Forest,1
+1415,Artifacts Blue,Artifacts Blue 2,Tropical Island,1
+1416,Artifacts Blue,Artifacts Blue 2,Tundra,1
+1417,Artifacts Blue,Artifacts Blue 2,Karakas,1
+1418,Artifacts Blue,Artifacts Blue 2,Snow-Covered Island,2
+1419,Artifacts Blue,Artifacts Blue 2,Flooded Strand,2
+1420,Artifacts Blue,Artifacts Blue 2,Cavern of Souls,2
+1421,Artifacts Blue,Artifacts Blue 2,Misty Rainforest,4
+1422,Artifacts Blue,Artifacts Blue 2,Ancient Tomb,4
+1423,Dreadstill,Dreadstill 1,Force of Will,4
+1424,Dreadstill,Dreadstill 1,Brainstorm,4
+1425,Dreadstill,Dreadstill 1,"Jace, Vryn's Prodigy",1
+1426,Dreadstill,Dreadstill 1,Phyrexian Dreadnought,3
+1427,Dreadstill,Dreadstill 1,Tundra,1
+1428,Dreadstill,Dreadstill 1,Karakas,1
+1429,Dreadstill,Dreadstill 1,Snow-Covered Plains,2
+1430,Dreadstill,Dreadstill 1,Wasteland,3
+1431,Dreadstill,Dreadstill 1,Snow-Covered Island,3
+1432,Dreadstill,Dreadstill 1,Mishra's Factory,3
+1433,Dreadstill,Dreadstill 1,Prismatic Vista,4
+1434,Dreadstill,Dreadstill 1,Flooded Strand,4
+1435,Dreadstill,Dreadstill 1,Search for Azcanta,1
+1436,Dreadstill,Dreadstill 1,Scroll of Fate,1
+1437,Dreadstill,Dreadstill 1,Sevinne's Reclamation,1
+1438,Dreadstill,Dreadstill 1,Enlightened Tutor,1
+1439,Dreadstill,Dreadstill 1,Arcum's Astrolabe,1
+1440,Dreadstill,Dreadstill 1,Spell Snare,1
+1441,Dreadstill,Dreadstill 1,"Karn, the Great Creator",2
+1442,Dreadstill,Dreadstill 1,Supreme Verdict,2
+1443,Dreadstill,Dreadstill 1,Force of Negation,2
+1444,Dreadstill,Dreadstill 1,Standstill,2
+1445,Dreadstill,Dreadstill 1,Shark Typhoon,2
+1446,Dreadstill,Dreadstill 1,"Teferi, Time Raveler",3
+1447,Dreadstill,Dreadstill 1,Swords to Plowshares,4
+1448,Dreadstill,Dreadstill 1,Stifle,4
+1449,BUG Midrange,BUG Midrange 1,Sylvan Library,1
+1450,BUG Midrange,BUG Midrange 1,Force of Negation,2
+1451,BUG Midrange,BUG Midrange 1,"Oko, Thief of Crowns",3
+1452,BUG Midrange,BUG Midrange 1,Force of Will,4
+1453,BUG Midrange,BUG Midrange 1,Green Sun's Zenith,4
+1454,BUG Midrange,BUG Midrange 1,Ponder,4
+1455,BUG Midrange,BUG Midrange 1,Abrupt Decay,4
+1456,BUG Midrange,BUG Midrange 1,Brainstorm,4
+1457,BUG Midrange,BUG Midrange 1,Swords to Plowshares,4
+1458,BUG Midrange,BUG Midrange 1,Arcum's Astrolabe,4
+1459,BUG Midrange,BUG Midrange 1,Gilded Goose,1
+1460,BUG Midrange,BUG Midrange 1,"Klothys, God of Destiny",1
+1461,BUG Midrange,BUG Midrange 1,Plague Engineer,1
+1462,BUG Midrange,BUG Midrange 1,Questing Beast,1
+1463,BUG Midrange,BUG Midrange 1,Ramunap Excavator,1
+1464,BUG Midrange,BUG Midrange 1,"Uro, Titan of Nature's Wrath",1
+1465,BUG Midrange,BUG Midrange 1,Scavenging Ooze,1
+1466,BUG Midrange,BUG Midrange 1,Baleful Strix,2
+1467,BUG Midrange,BUG Midrange 1,"Leovold, Emissary of Trest",2
+1468,BUG Midrange,BUG Midrange 1,Noble Hierarch,3
+1469,BUG Midrange,BUG Midrange 1,Ice-Fang Coatl,4
+1470,BUG Midrange,BUG Midrange 1,Verdant Catacombs,1
+1471,BUG Midrange,BUG Midrange 1,Underground Sea,1
+1472,BUG Midrange,BUG Midrange 1,Tundra,1
+1473,BUG Midrange,BUG Midrange 1,Snow-Covered Swamp,1
+1474,BUG Midrange,BUG Midrange 1,Snow-Covered Plains,1
+1475,BUG Midrange,BUG Midrange 1,Karakas,1
+1476,BUG Midrange,BUG Midrange 1,Bayou,1
+1477,BUG Midrange,BUG Midrange 1,Flooded Strand,1
+1478,BUG Midrange,BUG Midrange 1,Dryad Arbor,1
+1479,BUG Midrange,BUG Midrange 1,Snow-Covered Island,2
+1480,BUG Midrange,BUG Midrange 1,Wasteland,2
+1481,BUG Midrange,BUG Midrange 1,Tropical Island,2
+1482,BUG Midrange,BUG Midrange 1,Prismatic Vista,3
+1483,BUG Midrange,BUG Midrange 1,Snow-Covered Forest,3
+1484,BUG Midrange,BUG Midrange 1,Polluted Delta,3
+1485,BUG Midrange,BUG Midrange 1,Misty Rainforest,4
+1486,Grixis Control,Grixis Control 1,Volcanic Island,2
+1487,Grixis Control,Grixis Control 1,Underground Sea,2
+1488,Grixis Control,Grixis Control 1,Swamp,2
+1489,Grixis Control,Grixis Control 1,Scalding Tarn,3
+1490,Grixis Control,Grixis Control 1,Polluted Delta,4
+1491,Grixis Control,Grixis Control 1,Island,2
+1492,Grixis Control,Grixis Control 1,Bloodstained Mire,3
+1493,Grixis Control,Grixis Control 1,Badlands,2
+1494,Grixis Control,Grixis Control 1,Lightning Bolt,3
+1495,Grixis Control,Grixis Control 1,Kolaghan's Command,3
+1496,Grixis Control,Grixis Control 1,Force of Will,4
+1497,Grixis Control,Grixis Control 1,Fatal Push,1
+1498,Grixis Control,Grixis Control 1,Drown in the Loch,2
+1499,Grixis Control,Grixis Control 1,Brainstorm,4
+1500,Grixis Control,Grixis Control 1,Thoughtseize,2
+1501,Grixis Control,Grixis Control 1,Ponder,4
+1502,Grixis Control,Grixis Control 1,Hymn to Tourach,3
+1503,Grixis Control,Grixis Control 1,Angrath's Rampage,2
+1504,Grixis Control,Grixis Control 1,Snapcaster Mage,3
+1505,Grixis Control,Grixis Control 1,Plague Engineer,1
+1506,Grixis Control,Grixis Control 1,Gurmag Angler,2
+1507,Grixis Control,Grixis Control 1,Baleful Strix,3
+1508,Grixis Control,Grixis Control 1,"Narset, Parter of Veils",2
+1509,Grixis Control,Grixis Control 1,"Liliana, the Last Hope",1
+1510,Other - Control,Other - Control 1,Helm of Obedience,1
+1511,Other - Control,Other - Control 1,Cruel Reality,1
+1512,Other - Control,Other - Control 1,Curse of Death's Hold,1
+1513,Other - Control,Other - Control 1,Curse of Fool's Wisdom,1
+1514,Other - Control,Other - Control 1,Overwhelming Splendor,1
+1515,Other - Control,Other - Control 1,Leyline of the Void,4
+1516,Other - Control,Other - Control 1,Curse of Misfortunes,4
+1517,Other - Control,Other - Control 1,Trinisphere,4
+1518,Other - Control,Other - Control 1,Chrome Mox,4
+1519,Other - Control,Other - Control 1,Chalice of the Void,4
+1520,Other - Control,Other - Control 1,Eliminate,4
+1521,Other - Control,Other - Control 1,Dark Ritual,4
+1522,Other - Control,Other - Control 1,"Karn, the Great Creator",4
+1523,Other - Control,Other - Control 1,Murderous Rider,2
+1524,Other - Control,Other - Control 1,Castle Locthwain,2
+1525,Other - Control,Other - Control 1,"Urborg, Tomb of Yawgmoth",2
+1526,Other - Control,Other - Control 1,City of Traitors,4
+1527,Other - Control,Other - Control 1,Ancient Tomb,4
+1528,Other - Control,Other - Control 1,Snow-Covered Swamp,9
+1529,Dark Depths,Dark Depths 1,Wooded Foothills,1
+1530,Dark Depths,Dark Depths 1,Verdant Catacombs,4
+1531,Dark Depths,Dark Depths 1,Wasteland,1
+1532,Dark Depths,Dark Depths 1,Thespian's Stage,4
+1533,Dark Depths,Dark Depths 1,"Urborg, Tomb of Yawgmoth",3
+1534,Dark Depths,Dark Depths 1,Snow-Covered Swamp,1
+1535,Dark Depths,Dark Depths 1,Sejiri Steppe,1
+1536,Dark Depths,Dark Depths 1,Snow-Covered Forest,1
+1537,Dark Depths,Dark Depths 1,Ghost Quarter,1
+1538,Dark Depths,Dark Depths 1,Nurturing Peatland,1
+1539,Dark Depths,Dark Depths 1,Bojuka Bog,1
+1540,Dark Depths,Dark Depths 1,Dark Depths,4
+1541,Dark Depths,Dark Depths 1,Pithing Needle,2
+1542,Dark Depths,Dark Depths 1,Sylvan Library,1
+1543,Dark Depths,Dark Depths 1,Bayou,3
+1544,Dark Depths,Dark Depths 1,Crop Rotation,4
+1545,Dark Depths,Dark Depths 1,Once Upon a Time,4
+1546,Dark Depths,Dark Depths 1,Inquisition of Kozilek,3
+1547,Dark Depths,Dark Depths 1,Thoughtseize,4
+1548,Dark Depths,Dark Depths 1,Elvish Spirit Guide,4
+1549,Dark Depths,Dark Depths 1,Vampire Hexmage,4
+1550,Dark Depths,Dark Depths 1,Dark Confidant,4
+1551,Dark Depths,Dark Depths 1,Elvish Reclaimer,4
+1552,Dark Depths,Dark Depths 2,Elvish Reclaimer,1
+1553,Dark Depths,Dark Depths 2,Elvish Spirit Guide,4
+1554,Dark Depths,Dark Depths 2,Vampire Hexmage,4
+1555,Dark Depths,Dark Depths 2,Duress,2
+1556,Dark Depths,Dark Depths 2,Inquisition of Kozilek,2
+1557,Dark Depths,Dark Depths 2,Sylvan Scrying,4
+1558,Dark Depths,Dark Depths 2,Thoughtseize,4
+1559,Dark Depths,Dark Depths 2,Crop Rotation,4
+1560,Dark Depths,Dark Depths 2,Lotus Petal,4
+1561,Dark Depths,Dark Depths 2,Pithing Needle,4
+1562,Dark Depths,Dark Depths 2,Bayou,2
+1563,Dark Depths,Dark Depths 2,Bojuka Bog,1
+1564,Dark Depths,Dark Depths 2,Dark Depths,4
+1565,Dark Depths,Dark Depths 2,Ghost Quarter,1
+1566,Dark Depths,Dark Depths 2,Karakas,1
+1567,Dark Depths,Dark Depths 2,Sejiri Steppe,1
+1568,Dark Depths,Dark Depths 2,Snow-Covered Forest,1
+1569,Dark Depths,Dark Depths 2,Snow-Covered Swamp,1
+1570,Dark Depths,Dark Depths 2,Thespian's Stage,4
+1571,Dark Depths,Dark Depths 2,"Urborg, Tomb of Yawgmoth",4
+1572,Dark Depths,Dark Depths 2,Verdant Catacombs,4
+1573,Dark Depths,Dark Depths 2,Not of This World,3
+1574,Dark Depths,Dark Depths 3,Verdant Catacombs,4
+1575,Dark Depths,Dark Depths 3,Thespian's Stage,4
+1576,Dark Depths,Dark Depths 3,"Urborg, Tomb of Yawgmoth",4
+1577,Dark Depths,Dark Depths 3,Dark Depths,4
+1578,Dark Depths,Dark Depths 3,Bayou,2
+1579,Dark Depths,Dark Depths 3,Ghost Quarter,1
+1580,Dark Depths,Dark Depths 3,Crop Rotation,4
+1581,Dark Depths,Dark Depths 3,Inquisition of Kozilek,1
+1582,Dark Depths,Dark Depths 3,Duress,3
+1583,Dark Depths,Dark Depths 3,Thoughtseize,4
+1584,Dark Depths,Dark Depths 3,Sylvan Scrying,4
+1585,Dark Depths,Dark Depths 3,Snow-Covered Forest,1
+1586,Dark Depths,Dark Depths 3,Snow-Covered Swamp,1
+1587,Dark Depths,Dark Depths 3,Karakas,1
+1588,Dark Depths,Dark Depths 3,Bojuka Bog,1
+1589,Dark Depths,Dark Depths 3,Sejiri Steppe,1
+1590,Dark Depths,Dark Depths 3,Not of This World,3
+1591,Dark Depths,Dark Depths 3,Pithing Needle,4
+1592,Dark Depths,Dark Depths 3,Lotus Petal,4
+1593,Dark Depths,Dark Depths 3,Elvish Spirit Guide,4
+1594,Dark Depths,Dark Depths 3,Vampire Hexmage,4
+1595,Dark Depths,Dark Depths 3,Elvish Reclaimer,1
+1596,Dark Depths,Dark Depths 4,Swamp,1
+1597,Dark Depths,Dark Depths 4,Sejiri Steppe,1
+1598,Dark Depths,Dark Depths 4,Karakas,1
+1599,Dark Depths,Dark Depths 4,Ghost Quarter,1
+1600,Dark Depths,Dark Depths 4,Forest,1
+1601,Dark Depths,Dark Depths 4,Bojuka Bog,1
+1602,Dark Depths,Dark Depths 4,Bayou,2
+1603,Dark Depths,Dark Depths 4,Verdant Catacombs,4
+1604,Dark Depths,Dark Depths 4,"Urborg, Tomb of Yawgmoth",4
+1605,Dark Depths,Dark Depths 4,Thespian's Stage,4
+1606,Dark Depths,Dark Depths 4,Dark Depths,4
+1607,Dark Depths,Dark Depths 4,Not of This World,3
+1608,Dark Depths,Dark Depths 4,Crop Rotation,4
+1609,Dark Depths,Dark Depths 4,Inquisition of Kozilek,2
+1610,Dark Depths,Dark Depths 4,Duress,2
+1611,Dark Depths,Dark Depths 4,Thoughtseize,4
+1612,Dark Depths,Dark Depths 4,Sylvan Scrying,4
+1613,Dark Depths,Dark Depths 4,Pithing Needle,4
+1614,Dark Depths,Dark Depths 4,Lotus Petal,4
+1615,Dark Depths,Dark Depths 4,Elvish Reclaimer,1
+1616,Dark Depths,Dark Depths 4,Vampire Hexmage,4
+1617,Dark Depths,Dark Depths 4,Elvish Spirit Guide,4
+1618,Dark Depths,Dark Depths 5,Thespian's Stage,4
+1619,Dark Depths,Dark Depths 5,"Urborg, Tomb of Yawgmoth",4
+1620,Dark Depths,Dark Depths 5,Verdant Catacombs,4
+1621,Dark Depths,Dark Depths 5,Dark Depths,4
+1622,Dark Depths,Dark Depths 5,Bayou,2
+1623,Dark Depths,Dark Depths 5,Sejiri Steppe,1
+1624,Dark Depths,Dark Depths 5,Bojuka Bog,1
+1625,Dark Depths,Dark Depths 5,Forest,1
+1626,Dark Depths,Dark Depths 5,Ghost Quarter,1
+1627,Dark Depths,Dark Depths 5,Karakas,1
+1628,Dark Depths,Dark Depths 5,Swamp,1
+1629,Dark Depths,Dark Depths 5,Sylvan Scrying,4
+1630,Dark Depths,Dark Depths 5,Thoughtseize,4
+1631,Dark Depths,Dark Depths 5,Inquisition of Kozilek,2
+1632,Dark Depths,Dark Depths 5,Duress,2
+1633,Dark Depths,Dark Depths 5,Crop Rotation,4
+1634,Dark Depths,Dark Depths 5,Not of This World,3
+1635,Dark Depths,Dark Depths 5,Pithing Needle,4
+1636,Dark Depths,Dark Depths 5,Lotus Petal,4
+1637,Dark Depths,Dark Depths 5,Vampire Hexmage,4
+1638,Dark Depths,Dark Depths 5,Elvish Spirit Guide,4
+1639,Dark Depths,Dark Depths 5,Elvish Reclaimer,1
+1640,Dark Depths,Dark Depths 6,Elvish Reclaimer,4
+1641,Dark Depths,Dark Depths 6,Stitcher's Supplier,4
+1642,Dark Depths,Dark Depths 6,"Hogaak, Arisen Necropolis",4
+1643,Dark Depths,Dark Depths 6,Vampire Hexmage,4
+1644,Dark Depths,Dark Depths 6,Mox Diamond,3
+1645,Dark Depths,Dark Depths 6,Crop Rotation,3
+1646,Dark Depths,Dark Depths 6,Cabal Therapy,4
+1647,Dark Depths,Dark Depths 6,Thoughtseize,4
+1648,Dark Depths,Dark Depths 6,Bojuka Bog,1
+1649,Dark Depths,Dark Depths 6,Ghost Quarter,1
+1650,Dark Depths,Dark Depths 6,Forest,1
+1651,Dark Depths,Dark Depths 6,Khalni Garden,1
+1652,Dark Depths,Dark Depths 6,Swamp,1
+1653,Dark Depths,Dark Depths 6,Dryad Arbor,1
+1654,Dark Depths,Dark Depths 6,Sejiri Steppe,1
+1655,Dark Depths,Dark Depths 6,Karakas,1
+1656,Dark Depths,Dark Depths 6,Nurturing Peatland,2
+1657,Dark Depths,Dark Depths 6,Bayou,2
+1658,Dark Depths,Dark Depths 6,"Urborg, Tomb of Yawgmoth",3
+1659,Dark Depths,Dark Depths 6,Verdant Catacombs,4
+1660,Dark Depths,Dark Depths 6,Thespian's Stage,4
+1661,Dark Depths,Dark Depths 6,Dark Depths,4
+1662,Dark Depths,Dark Depths 6,Satyr Wayfinder,3
+1663,Dark Depths,Dark Depths 7,Not of This World,3
+1664,Dark Depths,Dark Depths 7,Verdant Catacombs,4
+1665,Dark Depths,Dark Depths 7,"Urborg, Tomb of Yawgmoth",4
+1666,Dark Depths,Dark Depths 7,Thespian's Stage,4
+1667,Dark Depths,Dark Depths 7,Sylvan Scrying,4
+1668,Dark Depths,Dark Depths 7,Inquisition of Kozilek,2
+1669,Dark Depths,Dark Depths 7,Duress,2
+1670,Dark Depths,Dark Depths 7,Vampire Hexmage,4
+1671,Dark Depths,Dark Depths 7,Snow-Covered Swamp,1
+1672,Dark Depths,Dark Depths 7,Snow-Covered Forest,1
+1673,Dark Depths,Dark Depths 7,Sejiri Steppe,1
+1674,Dark Depths,Dark Depths 7,Karakas,1
+1675,Dark Depths,Dark Depths 7,Ghost Quarter,1
+1676,Dark Depths,Dark Depths 7,Dark Depths,4
+1677,Dark Depths,Dark Depths 7,Bojuka Bog,1
+1678,Dark Depths,Dark Depths 7,Elvish Spirit Guide,4
+1679,Dark Depths,Dark Depths 7,Elvish Reclaimer,1
+1680,Dark Depths,Dark Depths 7,Bayou,2
+1681,Dark Depths,Dark Depths 7,Pithing Needle,4
+1682,Dark Depths,Dark Depths 7,Lotus Petal,4
+1683,Dark Depths,Dark Depths 7,Crop Rotation,4
+1684,Dark Depths,Dark Depths 7,Thoughtseize,4
+1685,Dark Depths,Dark Depths 8,Misty Rainforest,1
+1686,Dark Depths,Dark Depths 8,Swamp,1
+1687,Dark Depths,Dark Depths 8,Forest,1
+1688,Dark Depths,Dark Depths 8,Blast Zone,1
+1689,Dark Depths,Dark Depths 8,Nurturing Peatland,2
+1690,Dark Depths,Dark Depths 8,Dark Depths,3
+1691,Dark Depths,Dark Depths 8,"Urborg, Tomb of Yawgmoth",3
+1692,Dark Depths,Dark Depths 8,Thespian's Stage,3
+1693,Dark Depths,Dark Depths 8,Bayou,3
+1694,Dark Depths,Dark Depths 8,Verdant Catacombs,3
+1695,Dark Depths,Dark Depths 8,Vampire Hexmage,3
+1696,Dark Depths,Dark Depths 8,Elvish Spirit Guide,3
+1697,Dark Depths,Dark Depths 8,Sorcerous Spyglass,1
+1698,Dark Depths,Dark Depths 8,Pithing Needle,3
+1699,Dark Depths,Dark Depths 8,Lotus Petal,4
+1700,Dark Depths,Dark Depths 8,Not of This World,2
+1701,Dark Depths,Dark Depths 8,Veil of Summer,2
+1702,Dark Depths,Dark Depths 8,Assassin's Trophy,4
+1703,Dark Depths,Dark Depths 8,Crop Rotation,4
+1704,Dark Depths,Dark Depths 8,Thoughtseize,3
+1705,Dark Depths,Dark Depths 8,Inquisition of Kozilek,4
+1706,Dark Depths,Dark Depths 8,Living Wish,4
+1707,Dark Depths,Dark Depths 8,Bojuka Bog,1
+1708,Dark Depths,Dark Depths 8,Sejiri Steppe,1
+1709,Dark Depths,Dark Depths 9,Elvish Reclaimer,1
+1710,Dark Depths,Dark Depths 9,Elvish Spirit Guide,3
+1711,Dark Depths,Dark Depths 9,Vampire Hexmage,4
+1712,Dark Depths,Dark Depths 9,Sylvan Safekeeper,1
+1713,Dark Depths,Dark Depths 9,Duress,1
+1714,Dark Depths,Dark Depths 9,Inquisition of Kozilek,1
+1715,Dark Depths,Dark Depths 9,Sylvan Scrying,4
+1716,Dark Depths,Dark Depths 9,Thoughtseize,3
+1717,Dark Depths,Dark Depths 9,Hymn to Tourach,2
+1718,Dark Depths,Dark Depths 9,Rite of Consumption,1
+1719,Dark Depths,Dark Depths 9,Abrupt Decay,2
+1720,Dark Depths,Dark Depths 9,Golgari Charm,1
+1721,Dark Depths,Dark Depths 9,Assassin's Trophy,1
+1722,Dark Depths,Dark Depths 9,Crop Rotation,4
+1723,Dark Depths,Dark Depths 9,Lotus Petal,3
+1724,Dark Depths,Dark Depths 9,Pithing Needle,1
+1725,Dark Depths,Dark Depths 9,Sorcerous Spyglass,1
+1726,Dark Depths,Dark Depths 9,Surgical Extraction,1
+1727,Dark Depths,Dark Depths 9,Sylvan Library,1
+1728,Dark Depths,Dark Depths 9,Bayou,2
+1729,Dark Depths,Dark Depths 9,Bojuka Bog,1
+1730,Dark Depths,Dark Depths 9,Dark Depths,4
+1731,Dark Depths,Dark Depths 9,Ghost Quarter,1
+1732,Dark Depths,Dark Depths 9,Karakas,1
+1733,Dark Depths,Dark Depths 9,Sejiri Steppe,1
+1734,Dark Depths,Dark Depths 9,Snow-Covered Forest,1
+1735,Dark Depths,Dark Depths 9,Snow-Covered Swamp,2
+1736,Dark Depths,Dark Depths 9,Thespian's Stage,4
+1737,Dark Depths,Dark Depths 9,"Urborg, Tomb of Yawgmoth",4
+1738,Dark Depths,Dark Depths 9,Verdant Catacombs,2
+1739,Dark Depths,Dark Depths 9,Blooming Marsh,2
+1740,Show and Tell,Show and Tell 1,Ponder,4
+1741,Show and Tell,Show and Tell 1,Preordain,4
+1742,Show and Tell,Show and Tell 1,Omniscience,4
+1743,Show and Tell,Show and Tell 1,Tropical Island,1
+1744,Show and Tell,Show and Tell 1,Scalding Tarn,1
+1745,Show and Tell,Show and Tell 1,Snow-Covered Forest,3
+1746,Show and Tell,Show and Tell 1,Prismatic Vista,4
+1747,Show and Tell,Show and Tell 1,Misty Rainforest,4
+1748,Show and Tell,Show and Tell 1,Snow-Covered Island,6
+1749,Show and Tell,Show and Tell 1,Griselbrand,1
+1750,Show and Tell,Show and Tell 1,"Uro, Titan of Nature's Wrath",2
+1751,Show and Tell,Show and Tell 1,Show and Tell,4
+1752,Show and Tell,Show and Tell 1,Eureka,1
+1753,Show and Tell,Show and Tell 1,Force of Will,4
+1754,Show and Tell,Show and Tell 1,Brainstorm,4
+1755,Show and Tell,Show and Tell 1,Cunning Wish,3
+1756,Show and Tell,Show and Tell 1,Veil of Summer,3
+1757,Show and Tell,Show and Tell 1,Intuition,1
+1758,Show and Tell,Show and Tell 1,Ice-Fang Coatl,4
+1759,Show and Tell,Show and Tell 1,"Emrakul, the Aeons Torn",2
+1760,Show and Tell,Show and Tell 2,Tropical Island,2
+1761,Show and Tell,Show and Tell 2,Snow-Covered Island,3
+1762,Show and Tell,Show and Tell 2,Snow-Covered Forest,1
+1763,Show and Tell,Show and Tell 2,Scalding Tarn,1
+1764,Show and Tell,Show and Tell 2,Prismatic Vista,1
+1765,Show and Tell,Show and Tell 2,Polluted Delta,2
+1766,Show and Tell,Show and Tell 2,Mystic Sanctuary,1
+1767,Show and Tell,Show and Tell 2,Misty Rainforest,4
+1768,Show and Tell,Show and Tell 2,Flooded Strand,2
+1769,Show and Tell,Show and Tell 2,City of Traitors,2
+1770,Show and Tell,Show and Tell 2,Sylvan Library,2
+1771,Show and Tell,Show and Tell 2,Omniscience,4
+1772,Show and Tell,Show and Tell 2,Veil of Summer,3
+1773,Show and Tell,Show and Tell 2,Impulse,2
+1774,Show and Tell,Show and Tell 2,Force of Will,4
+1775,Show and Tell,Show and Tell 2,Cunning Wish,3
+1776,Show and Tell,Show and Tell 2,Brainstorm,4
+1777,Show and Tell,Show and Tell 2,Show and Tell,4
+1778,Show and Tell,Show and Tell 2,Preordain,4
+1779,Show and Tell,Show and Tell 2,Ponder,4
+1780,Show and Tell,Show and Tell 2,Drawn from Dreams,2
+1781,Show and Tell,Show and Tell 2,Ice-Fang Coatl,2
+1782,Show and Tell,Show and Tell 2,Griselbrand,1
+1783,Show and Tell,Show and Tell 2,"Emrakul, the Aeons Torn",2
+1784,Show and Tell,Show and Tell 3,Polluted Delta,1
+1785,Show and Tell,Show and Tell 3,Mystic Sanctuary,1
+1786,Show and Tell,Show and Tell 3,Flooded Strand,1
+1787,Show and Tell,Show and Tell 3,City of Traitors,1
+1788,Show and Tell,Show and Tell 3,"Boseiju, Who Shelters All",1
+1789,Show and Tell,Show and Tell 3,Tropical Island,2
+1790,Show and Tell,Show and Tell 3,Snow-Covered Forest,2
+1791,Show and Tell,Show and Tell 3,Prismatic Vista,2
+1792,Show and Tell,Show and Tell 3,Misty Rainforest,4
+1793,Show and Tell,Show and Tell 3,Snow-Covered Island,5
+1794,Show and Tell,Show and Tell 3,Intuition,1
+1795,Show and Tell,Show and Tell 3,Impulse,2
+1796,Show and Tell,Show and Tell 3,Veil of Summer,3
+1797,Show and Tell,Show and Tell 3,Cunning Wish,3
+1798,Show and Tell,Show and Tell 3,Force of Will,4
+1799,Show and Tell,Show and Tell 3,Brainstorm,4
+1800,Show and Tell,Show and Tell 3,Eureka,1
+1801,Show and Tell,Show and Tell 3,Drawn from Dreams,1
+1802,Show and Tell,Show and Tell 3,Preordain,2
+1803,Show and Tell,Show and Tell 3,Show and Tell,4
+1804,Show and Tell,Show and Tell 3,Ponder,4
+1805,Show and Tell,Show and Tell 3,Sylvan Library,1
+1806,Show and Tell,Show and Tell 3,Omniscience,4
+1807,Show and Tell,Show and Tell 3,"Uro, Titan of Nature's Wrath",1
+1808,Show and Tell,Show and Tell 3,Griselbrand,1
+1809,Show and Tell,Show and Tell 3,"Emrakul, the Aeons Torn",2
+1810,Show and Tell,Show and Tell 3,Ice-Fang Coatl,2
+1811,Show and Tell,Show and Tell 4,"Emrakul, the Aeons Torn",4
+1812,Show and Tell,Show and Tell 4,Griselbrand,4
+1813,Show and Tell,Show and Tell 4,Simian Spirit Guide,4
+1814,Show and Tell,Show and Tell 4,Ponder,4
+1815,Show and Tell,Show and Tell 4,Preordain,2
+1816,Show and Tell,Show and Tell 4,Show and Tell,4
+1817,Show and Tell,Show and Tell 4,Brainstorm,4
+1818,Show and Tell,Show and Tell 4,Daze,4
+1819,Show and Tell,Show and Tell 4,Force of Will,4
+1820,Show and Tell,Show and Tell 4,Lotus Petal,4
+1821,Show and Tell,Show and Tell 4,Sneak Attack,4
+1822,Show and Tell,Show and Tell 4,Ancient Tomb,3
+1823,Show and Tell,Show and Tell 4,City of Traitors,3
+1824,Show and Tell,Show and Tell 4,Flooded Strand,1
+1825,Show and Tell,Show and Tell 4,Misty Rainforest,1
+1826,Show and Tell,Show and Tell 4,Polluted Delta,1
+1827,Show and Tell,Show and Tell 4,Scalding Tarn,4
+1828,Show and Tell,Show and Tell 4,Snow-Covered Island,2
+1829,Show and Tell,Show and Tell 4,Snow-Covered Mountain,1
+1830,Show and Tell,Show and Tell 4,Volcanic Island,2
+1831,Show and Tell,Show and Tell 5,Drawn from Dreams,1
+1832,Show and Tell,Show and Tell 5,Eureka,1
+1833,Show and Tell,Show and Tell 5,Snow-Covered Forest,2
+1834,Show and Tell,Show and Tell 5,Tropical Island,2
+1835,Show and Tell,Show and Tell 5,Misty Rainforest,4
+1836,Show and Tell,Show and Tell 5,Snow-Covered Island,5
+1837,Show and Tell,Show and Tell 5,Preordain,2
+1838,Show and Tell,Show and Tell 5,Show and Tell,4
+1839,Show and Tell,Show and Tell 5,Ponder,4
+1840,Show and Tell,Show and Tell 5,Sylvan Library,1
+1841,Show and Tell,Show and Tell 5,Omniscience,4
+1842,Show and Tell,Show and Tell 5,"Boseiju, Who Shelters All",1
+1843,Show and Tell,Show and Tell 5,Mystic Sanctuary,1
+1844,Show and Tell,Show and Tell 5,Polluted Delta,1
+1845,Show and Tell,Show and Tell 5,City of Traitors,1
+1846,Show and Tell,Show and Tell 5,Flooded Strand,1
+1847,Show and Tell,Show and Tell 5,Prismatic Vista,2
+1848,Show and Tell,Show and Tell 5,Veil of Summer,3
+1849,Show and Tell,Show and Tell 5,Cunning Wish,3
+1850,Show and Tell,Show and Tell 5,Impulse,2
+1851,Show and Tell,Show and Tell 5,Intuition,1
+1852,Show and Tell,Show and Tell 5,"Emrakul, the Aeons Torn",2
+1853,Show and Tell,Show and Tell 5,Ice-Fang Coatl,2
+1854,Show and Tell,Show and Tell 5,Griselbrand,1
+1855,Show and Tell,Show and Tell 5,"Uro, Titan of Nature's Wrath",1
+1856,Show and Tell,Show and Tell 5,Force of Will,4
+1857,Show and Tell,Show and Tell 5,Brainstorm,4
+1858,Show and Tell,Show and Tell 6,Scalding Tarn,4
+1859,Show and Tell,Show and Tell 6,Volcanic Island,3
+1860,Show and Tell,Show and Tell 6,Ancient Tomb,3
+1861,Show and Tell,Show and Tell 6,Polluted Delta,3
+1862,Show and Tell,Show and Tell 6,Island,2
+1863,Show and Tell,Show and Tell 6,City of Traitors,2
+1864,Show and Tell,Show and Tell 6,Mountain,1
+1865,Show and Tell,Show and Tell 6,Tropical Island,1
+1866,Show and Tell,Show and Tell 6,Sneak Attack,4
+1867,Show and Tell,Show and Tell 6,Omniscience,2
+1868,Show and Tell,Show and Tell 6,Show and Tell,4
+1869,Show and Tell,Show and Tell 6,Preordain,4
+1870,Show and Tell,Show and Tell 6,Ponder,4
+1871,Show and Tell,Show and Tell 6,Force of Will,4
+1872,Show and Tell,Show and Tell 6,Brainstorm,4
+1873,Show and Tell,Show and Tell 6,Spell Pierce,2
+1874,Show and Tell,Show and Tell 6,Flusterstorm,2
+1875,Show and Tell,Show and Tell 6,Intuition,1
+1876,Show and Tell,Show and Tell 6,Lotus Petal,4
+1877,Show and Tell,Show and Tell 6,"Emrakul, the Aeons Torn",3
+1878,Show and Tell,Show and Tell 6,Griselbrand,3
+1879,Show and Tell,Show and Tell 7,Tropical Island,2
+1880,Show and Tell,Show and Tell 7,Snow-Covered Island,5
+1881,Show and Tell,Show and Tell 7,Snow-Covered Forest,2
+1882,Show and Tell,Show and Tell 7,Prismatic Vista,2
+1883,Show and Tell,Show and Tell 7,Polluted Delta,1
+1884,Show and Tell,Show and Tell 7,Mystic Sanctuary,1
+1885,Show and Tell,Show and Tell 7,Misty Rainforest,4
+1886,Show and Tell,Show and Tell 7,Flooded Strand,1
+1887,Show and Tell,Show and Tell 7,City of Traitors,1
+1888,Show and Tell,Show and Tell 7,"Boseiju, Who Shelters All",1
+1889,Show and Tell,Show and Tell 7,Sylvan Library,1
+1890,Show and Tell,Show and Tell 7,Omniscience,4
+1891,Show and Tell,Show and Tell 7,Veil of Summer,3
+1892,Show and Tell,Show and Tell 7,Intuition,1
+1893,Show and Tell,Show and Tell 7,Impulse,2
+1894,Show and Tell,Show and Tell 7,Force of Will,4
+1895,Show and Tell,Show and Tell 7,Cunning Wish,3
+1896,Show and Tell,Show and Tell 7,Brainstorm,4
+1897,Show and Tell,Show and Tell 7,Show and Tell,4
+1898,Show and Tell,Show and Tell 7,Preordain,2
+1899,Show and Tell,Show and Tell 7,Ponder,4
+1900,Show and Tell,Show and Tell 7,Eureka,1
+1901,Show and Tell,Show and Tell 7,Drawn from Dreams,1
+1902,Show and Tell,Show and Tell 7,"Uro, Titan of Nature's Wrath",1
+1903,Show and Tell,Show and Tell 7,Ice-Fang Coatl,2
+1904,Show and Tell,Show and Tell 7,Griselbrand,1
+1905,Show and Tell,Show and Tell 7,"Emrakul, the Aeons Torn",2
+1906,Cloudpost Ramp,Cloudpost Ramp 1,Vesuva,2
+1907,Cloudpost Ramp,Cloudpost Ramp 1,Thespian's Stage,2
+1908,Cloudpost Ramp,Cloudpost Ramp 1,Maze of Ith,1
+1909,Cloudpost Ramp,Cloudpost Ramp 1,Karakas,1
+1910,Cloudpost Ramp,Cloudpost Ramp 1,Glimmerpost,4
+1911,Cloudpost Ramp,Cloudpost Ramp 1,Glacial Chasm,1
+1912,Cloudpost Ramp,Cloudpost Ramp 1,Forest,8
+1913,Cloudpost Ramp,Cloudpost Ramp 1,Elvish Reclaimer,4
+1914,Cloudpost Ramp,Cloudpost Ramp 1,"Emrakul, the Aeons Torn",1
+1915,Cloudpost Ramp,Cloudpost Ramp 1,"Kozilek, Butcher of Truth",1
+1916,Cloudpost Ramp,Cloudpost Ramp 1,Primeval Titan,3
+1917,Cloudpost Ramp,Cloudpost Ramp 1,Ramunap Excavator,1
+1918,Cloudpost Ramp,Cloudpost Ramp 1,Reclamation Sage,1
+1919,Cloudpost Ramp,Cloudpost Ramp 1,"Ulamog, the Ceaseless Hunger",1
+1920,Cloudpost Ramp,Cloudpost Ramp 1,Green Sun's Zenith,4
+1921,Cloudpost Ramp,Cloudpost Ramp 1,Crop Rotation,4
+1922,Cloudpost Ramp,Cloudpost Ramp 1,Once Upon a Time,4
+1923,Cloudpost Ramp,Cloudpost Ramp 1,Expedition Map,4
+1924,Cloudpost Ramp,Cloudpost Ramp 1,Pithing Needle,4
+1925,Cloudpost Ramp,Cloudpost Ramp 1,Bojuka Bog,1
+1926,Cloudpost Ramp,Cloudpost Ramp 1,Cavern of Souls,1
+1927,Cloudpost Ramp,Cloudpost Ramp 1,Cloudpost,4
+1928,Cloudpost Ramp,Cloudpost Ramp 1,Dark Depths,1
+1929,Cloudpost Ramp,Cloudpost Ramp 1,Eye of Ugin,1
+1930,Cloudpost Ramp,Cloudpost Ramp 1,Allosaurus Shepherd,1
+1931,Cloudpost Ramp,Cloudpost Ramp 2,Karn Liberated,1
+1932,Cloudpost Ramp,Cloudpost Ramp 2,Wasteland,2
+1933,Cloudpost Ramp,Cloudpost Ramp 2,Wastes,1
+1934,Cloudpost Ramp,Cloudpost Ramp 2,"Urborg, Tomb of Yawgmoth",1
+1935,Cloudpost Ramp,Cloudpost Ramp 2,Thespian's Stage,1
+1936,Cloudpost Ramp,Cloudpost Ramp 2,Vesuva,3
+1937,Cloudpost Ramp,Cloudpost Ramp 2,"Ugin, the Spirit Dragon",1
+1938,Cloudpost Ramp,Cloudpost Ramp 2,Glimmerpost,4
+1939,Cloudpost Ramp,Cloudpost Ramp 2,Eye of Ugin,1
+1940,Cloudpost Ramp,Cloudpost Ramp 2,Chalice of the Void,4
+1941,Cloudpost Ramp,Cloudpost Ramp 2,Cloudpost,4
+1942,Cloudpost Ramp,Cloudpost Ramp 2,"Kozilek, Butcher of Truth",1
+1943,Cloudpost Ramp,Cloudpost Ramp 2,Blast Zone,1
+1944,Cloudpost Ramp,Cloudpost Ramp 2,Sorcerous Spyglass,2
+1945,Cloudpost Ramp,Cloudpost Ramp 2,Reality Smasher,4
+1946,Cloudpost Ramp,Cloudpost Ramp 2,Ancient Tomb,4
+1947,Cloudpost Ramp,Cloudpost Ramp 2,Trinisphere,1
+1948,Cloudpost Ramp,Cloudpost Ramp 2,Grim Monolith,4
+1949,Cloudpost Ramp,Cloudpost Ramp 2,Manifold Key,2
+1950,Cloudpost Ramp,Cloudpost Ramp 2,Eldrazi Temple,4
+1951,Cloudpost Ramp,Cloudpost Ramp 2,All Is Dust,2
+1952,Cloudpost Ramp,Cloudpost Ramp 2,Karakas,1
+1953,Cloudpost Ramp,Cloudpost Ramp 2,"Karn, the Great Creator",4
+1954,Cloudpost Ramp,Cloudpost Ramp 2,"Ulamog, the Ceaseless Hunger",2
+1955,Cloudpost Ramp,Cloudpost Ramp 2,Thought-Knot Seer,4
+1956,Cloudpost Ramp,Cloudpost Ramp 2,Walking Ballista,1
+1957,Cloudpost Ramp,Cloudpost Ramp 3,Dark Depths,1
+1958,Cloudpost Ramp,Cloudpost Ramp 3,Maze of Ith,1
+1959,Cloudpost Ramp,Cloudpost Ramp 3,Glacial Chasm,1
+1960,Cloudpost Ramp,Cloudpost Ramp 3,Bojuka Bog,1
+1961,Cloudpost Ramp,Cloudpost Ramp 3,Cavern of Souls,1
+1962,Cloudpost Ramp,Cloudpost Ramp 3,Karakas,1
+1963,Cloudpost Ramp,Cloudpost Ramp 3,Eye of Ugin,1
+1964,Cloudpost Ramp,Cloudpost Ramp 3,Thespian's Stage,2
+1965,Cloudpost Ramp,Cloudpost Ramp 3,Vesuva,2
+1966,Cloudpost Ramp,Cloudpost Ramp 3,Glimmerpost,4
+1967,Cloudpost Ramp,Cloudpost Ramp 3,Cloudpost,4
+1968,Cloudpost Ramp,Cloudpost Ramp 3,Forest,8
+1969,Cloudpost Ramp,Cloudpost Ramp 3,Once Upon a Time,4
+1970,Cloudpost Ramp,Cloudpost Ramp 3,Crop Rotation,4
+1971,Cloudpost Ramp,Cloudpost Ramp 3,Green Sun's Zenith,4
+1972,Cloudpost Ramp,Cloudpost Ramp 3,Pithing Needle,4
+1973,Cloudpost Ramp,Cloudpost Ramp 3,Expedition Map,4
+1974,Cloudpost Ramp,Cloudpost Ramp 3,"Kozilek, Butcher of Truth",1
+1975,Cloudpost Ramp,Cloudpost Ramp 3,"Ulamog, the Ceaseless Hunger",1
+1976,Cloudpost Ramp,Cloudpost Ramp 3,"Emrakul, the Aeons Torn",1
+1977,Cloudpost Ramp,Cloudpost Ramp 3,Reclamation Sage,1
+1978,Cloudpost Ramp,Cloudpost Ramp 3,Ramunap Excavator,1
+1979,Cloudpost Ramp,Cloudpost Ramp 3,Allosaurus Shepherd,1
+1980,Cloudpost Ramp,Cloudpost Ramp 3,Primeval Titan,3
+1981,Cloudpost Ramp,Cloudpost Ramp 3,Elvish Reclaimer,4
+1982,Cloudpost Ramp,Cloudpost Ramp 4,Trinisphere,1
+1983,Cloudpost Ramp,Cloudpost Ramp 4,Ancient Tomb,4
+1984,Cloudpost Ramp,Cloudpost Ramp 4,Blast Zone,1
+1985,Cloudpost Ramp,Cloudpost Ramp 4,Cascading Cataracts,1
+1986,Cloudpost Ramp,Cloudpost Ramp 4,Cloudpost,4
+1987,Cloudpost Ramp,Cloudpost Ramp 4,Eldrazi Temple,4
+1988,Cloudpost Ramp,Cloudpost Ramp 4,Eye of Ugin,1
+1989,Cloudpost Ramp,Cloudpost Ramp 4,Glimmerpost,4
+1990,Cloudpost Ramp,Cloudpost Ramp 4,Karakas,1
+1991,Cloudpost Ramp,Cloudpost Ramp 4,Thespian's Stage,1
+1992,Cloudpost Ramp,Cloudpost Ramp 4,"Urborg, Tomb of Yawgmoth",1
+1993,Cloudpost Ramp,Cloudpost Ramp 4,Vesuva,3
+1994,Cloudpost Ramp,Cloudpost Ramp 4,Wastes,1
+1995,Cloudpost Ramp,Cloudpost Ramp 4,"Karn, the Great Creator",4
+1996,Cloudpost Ramp,Cloudpost Ramp 4,"Ugin, the Spirit Dragon",3
+1997,Cloudpost Ramp,Cloudpost Ramp 4,"Emrakul, the Aeons Torn",1
+1998,Cloudpost Ramp,Cloudpost Ramp 4,"Golos, Tireless Pilgrim",1
+1999,Cloudpost Ramp,Cloudpost Ramp 4,Matter Reshaper,4
+2000,Cloudpost Ramp,Cloudpost Ramp 4,Thought-Knot Seer,4
+2001,Cloudpost Ramp,Cloudpost Ramp 4,"Ulamog, the Ceaseless Hunger",1
+2002,Cloudpost Ramp,Cloudpost Ramp 4,Chalice of the Void,4
+2003,Cloudpost Ramp,Cloudpost Ramp 4,Grim Monolith,4
+2004,Cloudpost Ramp,Cloudpost Ramp 4,Manifold Key,2
+2005,Cloudpost Ramp,Cloudpost Ramp 4,Sorcerous Spyglass,3
+2006,Cloudpost Ramp,Cloudpost Ramp 4,Thran Dynamo,2
+2007,Cloudpost Ramp,Cloudpost Ramp 5,Forest,8
+2008,Cloudpost Ramp,Cloudpost Ramp 5,Cloudpost,4
+2009,Cloudpost Ramp,Cloudpost Ramp 5,Glimmerpost,4
+2010,Cloudpost Ramp,Cloudpost Ramp 5,Thespian's Stage,2
+2011,Cloudpost Ramp,Cloudpost Ramp 5,Vesuva,2
+2012,Cloudpost Ramp,Cloudpost Ramp 5,Eye of Ugin,1
+2013,Cloudpost Ramp,Cloudpost Ramp 5,Karakas,1
+2014,Cloudpost Ramp,Cloudpost Ramp 5,Cavern of Souls,1
+2015,Cloudpost Ramp,Cloudpost Ramp 5,Bojuka Bog,1
+2016,Cloudpost Ramp,Cloudpost Ramp 5,Glacial Chasm,1
+2017,Cloudpost Ramp,Cloudpost Ramp 5,Maze of Ith,1
+2018,Cloudpost Ramp,Cloudpost Ramp 5,Dark Depths,1
+2019,Cloudpost Ramp,Cloudpost Ramp 5,Green Sun's Zenith,4
+2020,Cloudpost Ramp,Cloudpost Ramp 5,Crop Rotation,4
+2021,Cloudpost Ramp,Cloudpost Ramp 5,Once Upon a Time,4
+2022,Cloudpost Ramp,Cloudpost Ramp 5,Expedition Map,4
+2023,Cloudpost Ramp,Cloudpost Ramp 5,Pithing Needle,4
+2024,Cloudpost Ramp,Cloudpost Ramp 5,Elvish Reclaimer,4
+2025,Cloudpost Ramp,Cloudpost Ramp 5,Primeval Titan,3
+2026,Cloudpost Ramp,Cloudpost Ramp 5,"Kozilek, Butcher of Truth",1
+2027,Cloudpost Ramp,Cloudpost Ramp 5,"Ulamog, the Ceaseless Hunger",1
+2028,Cloudpost Ramp,Cloudpost Ramp 5,"Emrakul, the Aeons Torn",1
+2029,Cloudpost Ramp,Cloudpost Ramp 5,Reclamation Sage,1
+2030,Cloudpost Ramp,Cloudpost Ramp 5,Ramunap Excavator,1
+2031,Cloudpost Ramp,Cloudpost Ramp 5,Allosaurus Shepherd,1
+2032,Aluren,Aluren 1,Brazen Borrower,1
+2033,Aluren,Aluren 1,Cauldron Familiar,1
+2034,Aluren,Aluren 1,Eternal Witness,1
+2035,Aluren,Aluren 1,Cavern Harpy,3
+2036,Aluren,Aluren 1,Ice-Fang Coatl,4
+2037,Aluren,Aluren 1,Baleful Strix,1
+2038,Aluren,Aluren 1,"Leovold, Emissary of Trest",2
+2039,Aluren,Aluren 1,Gilded Goose,2
+2040,Aluren,Aluren 1,"Uro, Titan of Nature's Wrath",3
+2041,Aluren,Aluren 1,Misty Rainforest,4
+2042,Aluren,Aluren 1,Snow-Covered Island,4
+2043,Aluren,Aluren 1,Snow-Covered Forest,3
+2044,Aluren,Aluren 1,Prismatic Vista,3
+2045,Aluren,Aluren 1,Polluted Delta,2
+2046,Aluren,Aluren 1,Snow-Covered Swamp,1
+2047,Aluren,Aluren 1,Bayou,1
+2048,Aluren,Aluren 1,Tropical Island,1
+2049,Aluren,Aluren 1,Underground Sea,1
+2050,Aluren,Aluren 1,Dryad Arbor,1
+2051,Aluren,Aluren 1,"Oko, Thief of Crowns",3
+2052,Aluren,Aluren 1,Aluren,3
+2053,Aluren,Aluren 1,Green Sun's Zenith,2
+2054,Aluren,Aluren 1,Ponder,2
+2055,Aluren,Aluren 1,Brainstorm,4
+2056,Aluren,Aluren 1,Force of Will,4
+2057,Aluren,Aluren 1,Echoing Decay,3
+2058,Aluren,Aluren 2,Shardless Agent,1
+2059,Aluren,Aluren 2,Academy Rector,1
+2060,Aluren,Aluren 2,Parasitic Strix,1
+2061,Aluren,Aluren 2,Arctic Merfolk,1
+2062,Aluren,Aluren 2,"Barrin, Tolarian Archmage",1
+2063,Aluren,Aluren 2,Cavern Harpy,1
+2064,Aluren,Aluren 2,Eternal Witness,1
+2065,Aluren,Aluren 2,Veteran Explorer,2
+2066,Aluren,Aluren 2,"Uro, Titan of Nature's Wrath",2
+2067,Aluren,Aluren 2,Recruiter of the Guard,3
+2068,Aluren,Aluren 2,Baleful Strix,4
+2069,Aluren,Aluren 2,Abrupt Decay,3
+2070,Aluren,Aluren 2,Brainstorm,4
+2071,Aluren,Aluren 2,Force of Will,4
+2072,Aluren,Aluren 2,Ponder,2
+2073,Aluren,Aluren 2,Cabal Therapy,4
+2074,Aluren,Aluren 2,Mirri's Guile,1
+2075,Aluren,Aluren 2,Aluren,4
+2076,Aluren,Aluren 2,Bayou,1
+2077,Aluren,Aluren 2,Underground Sea,1
+2078,Aluren,Aluren 2,Savannah,1
+2079,Aluren,Aluren 2,Tropical Island,1
+2080,Aluren,Aluren 2,Tundra,1
+2081,Aluren,Aluren 2,Swamp,1
+2082,Aluren,Aluren 2,Island,2
+2083,Aluren,Aluren 2,Forest,2
+2084,Aluren,Aluren 2,Polluted Delta,2
+2085,Aluren,Aluren 2,Misty Rainforest,4
+2086,Aluren,Aluren 2,Verdant Catacombs,4
+2087,Aluren,Aluren 3,Parasitic Strix,1
+2088,Aluren,Aluren 3,"Leovold, Emissary of Trest",2
+2089,Aluren,Aluren 3,"Uro, Titan of Nature's Wrath",3
+2090,Aluren,Aluren 3,Ice-Fang Coatl,4
+2091,Aluren,Aluren 3,Cavern Harpy,4
+2092,Aluren,Aluren 3,Recruiter of the Guard,4
+2093,Aluren,Aluren 3,Arcum's Astrolabe,4
+2094,Aluren,Aluren 3,Spell Pierce,2
+2095,Aluren,Aluren 3,Flusterstorm,2
+2096,Aluren,Aluren 3,Abrupt Decay,3
+2097,Aluren,Aluren 3,Swords to Plowshares,3
+2098,Aluren,Aluren 3,Brainstorm,4
+2099,Aluren,Aluren 3,Force of Will,4
+2100,Aluren,Aluren 3,Ponder,4
+2101,Aluren,Aluren 3,Sylvan Library,2
+2102,Aluren,Aluren 3,Aluren,4
+2103,Aluren,Aluren 3,"Teferi, Time Raveler",2
+2104,Aluren,Aluren 3,"Oko, Thief of Crowns",2
+2105,Aluren,Aluren 3,Karakas,1
+2106,Aluren,Aluren 3,Underground Sea,1
+2107,Aluren,Aluren 3,Bayou,1
+2108,Aluren,Aluren 3,Snow-Covered Swamp,1
+2109,Aluren,Aluren 3,Snow-Covered Plains,1
+2110,Aluren,Aluren 3,Tropical Island,1
+2111,Aluren,Aluren 3,Tundra,1
+2112,Aluren,Aluren 3,Snow-Covered Forest,2
+2113,Aluren,Aluren 3,Flooded Strand,3
+2114,Aluren,Aluren 3,Snow-Covered Island,3
+2115,Aluren,Aluren 3,Polluted Delta,3
+2116,Aluren,Aluren 3,Misty Rainforest,4
+2117,Aluren,Aluren 3,Prismatic Vista,4
+2118,Aluren,Aluren 4,Misty Rainforest,4
+2119,Aluren,Aluren 4,Snow-Covered Island,4
+2120,Aluren,Aluren 4,Polluted Delta,3
+2121,Aluren,Aluren 4,Prismatic Vista,3
+2122,Aluren,Aluren 4,Tundra,2
+2123,Aluren,Aluren 4,Snow-Covered Forest,2
+2124,Aluren,Aluren 4,Tropical Island,2
+2125,Aluren,Aluren 4,Underground Sea,1
+2126,Aluren,Aluren 4,Snow-Covered Swamp,1
+2127,Aluren,Aluren 4,Flooded Strand,1
+2128,Aluren,Aluren 4,Karakas,1
+2129,Aluren,Aluren 4,Bayou,1
+2130,Aluren,Aluren 4,Verdant Catacombs,1
+2131,Aluren,Aluren 4,Snow-Covered Plains,1
+2132,Aluren,Aluren 4,"Oko, Thief of Crowns",2
+2133,Aluren,Aluren 4,"Teferi, Time Raveler",2
+2134,Aluren,Aluren 4,"Vraska, Golgari Queen",1
+2135,Aluren,Aluren 4,Aluren,4
+2136,Aluren,Aluren 4,Ponder,4
+2137,Aluren,Aluren 4,Force of Will,4
+2138,Aluren,Aluren 4,Brainstorm,4
+2139,Aluren,Aluren 4,Swords to Plowshares,4
+2140,Aluren,Aluren 4,Spell Pierce,2
+2141,Aluren,Aluren 4,Abrupt Decay,2
+2142,Aluren,Aluren 4,Force of Negation,1
+2143,Aluren,Aluren 4,Arcum's Astrolabe,4
+2144,Aluren,Aluren 4,Ice-Fang Coatl,4
+2145,Aluren,Aluren 4,Recruiter of the Guard,4
+2146,Aluren,Aluren 4,"Uro, Titan of Nature's Wrath",3
+2147,Aluren,Aluren 4,Baleful Strix,2
+2148,Aluren,Aluren 4,Cauldron Familiar,1
+2149,Aluren,Aluren 4,Cavern Harpy,1
+2150,Aluren,Aluren 4,"Leovold, Emissary of Trest",1
+2151,Aluren,Aluren 4,Eternal Witness,1
+2152,Aluren,Aluren 4,Plague Engineer,1
+2153,Aluren,Aluren 4,"Barrin, Tolarian Archmage",1
+2154,Storm,Storm 1,Volcanic Island,1
+2155,Storm,Storm 1,Verdant Catacombs,1
+2156,Storm,Storm 1,Underground Sea,1
+2157,Storm,Storm 1,Tropical Island,1
+2158,Storm,Storm 1,Taiga,1
+2159,Storm,Storm 1,Swamp,1
+2160,Storm,Storm 1,Polluted Delta,2
+2161,Storm,Storm 1,Bloodstained Mire,4
+2162,Storm,Storm 1,Badlands,1
+2163,Storm,Storm 1,Wishclaw Talisman,4
+2164,Storm,Storm 1,Mox Opal,4
+2165,Storm,Storm 1,Lotus Petal,4
+2166,Storm,Storm 1,Lion's Eye Diamond,4
+2167,Storm,Storm 1,Chrome Mox,4
+2168,Storm,Storm 1,Veil of Summer,4
+2169,Storm,Storm 1,Dark Ritual,4
+2170,Storm,Storm 1,Chain of Vapor,1
+2171,Storm,Storm 1,Brainstorm,4
+2172,Storm,Storm 1,Ad Nauseam,1
+2173,Storm,Storm 1,Thoughtseize,3
+2174,Storm,Storm 1,Tendrils of Agony,1
+2175,Storm,Storm 1,Ponder,4
+2176,Storm,Storm 1,Echo of Eons,1
+2177,Storm,Storm 1,Burning Wish,4
+2178,Storm,Storm 2,Bloodstained Mire,4
+2179,Storm,Storm 2,Polluted Delta,2
+2180,Storm,Storm 2,Verdant Catacombs,1
+2181,Storm,Storm 2,Swamp,1
+2182,Storm,Storm 2,Badlands,1
+2183,Storm,Storm 2,Taiga,1
+2184,Storm,Storm 2,Volcanic Island,1
+2185,Storm,Storm 2,Tropical Island,1
+2186,Storm,Storm 2,Underground Sea,1
+2187,Storm,Storm 2,Burning Wish,4
+2188,Storm,Storm 2,Ponder,4
+2189,Storm,Storm 2,Thoughtseize,3
+2190,Storm,Storm 2,Echo of Eons,1
+2191,Storm,Storm 2,Tendrils of Agony,1
+2192,Storm,Storm 2,Veil of Summer,4
+2193,Storm,Storm 2,Brainstorm,4
+2194,Storm,Storm 2,Dark Ritual,4
+2195,Storm,Storm 2,Ad Nauseam,1
+2196,Storm,Storm 2,Chain of Vapor,1
+2197,Storm,Storm 2,Lion's Eye Diamond,4
+2198,Storm,Storm 2,Lotus Petal,4
+2199,Storm,Storm 2,Mox Opal,4
+2200,Storm,Storm 2,Chrome Mox,4
+2201,Storm,Storm 2,Wishclaw Talisman,4
+2202,Storm,Storm 3,Burning Wish,4
+2203,Storm,Storm 3,Echo of Eons,1
+2204,Storm,Storm 3,Ponder,4
+2205,Storm,Storm 3,Tendrils of Agony,1
+2206,Storm,Storm 3,Thoughtseize,3
+2207,Storm,Storm 3,Ad Nauseam,1
+2208,Storm,Storm 3,Brainstorm,4
+2209,Storm,Storm 3,Chain of Vapor,1
+2210,Storm,Storm 3,Dark Ritual,4
+2211,Storm,Storm 3,Veil of Summer,4
+2212,Storm,Storm 3,Chrome Mox,4
+2213,Storm,Storm 3,Lion's Eye Diamond,4
+2214,Storm,Storm 3,Lotus Petal,4
+2215,Storm,Storm 3,Mox Opal,4
+2216,Storm,Storm 3,Wishclaw Talisman,4
+2217,Storm,Storm 3,Badlands,1
+2218,Storm,Storm 3,Bloodstained Mire,4
+2219,Storm,Storm 3,Polluted Delta,2
+2220,Storm,Storm 3,Swamp,1
+2221,Storm,Storm 3,Taiga,1
+2222,Storm,Storm 3,Tropical Island,1
+2223,Storm,Storm 3,Underground Sea,1
+2224,Storm,Storm 3,Verdant Catacombs,1
+2225,Storm,Storm 3,Volcanic Island,1
+2226,Elves,Elves 1,Once Upon a Time,3
+2227,Elves,Elves 1,Natural Order,3
+2228,Elves,Elves 1,Green Sun's Zenith,4
+2229,Elves,Elves 1,Glimpse of Nature,4
+2230,Elves,Elves 1,Craterhoof Behemoth,1
+2231,Elves,Elves 1,Archon of Valor's Reach,1
+2232,Elves,Elves 1,Allosaurus Shepherd,1
+2233,Elves,Elves 1,Collector Ouphe,1
+2234,Elves,Elves 1,Birchlore Rangers,3
+2235,Elves,Elves 1,Heritage Druid,3
+2236,Elves,Elves 1,Elvish Visionary,4
+2237,Elves,Elves 1,Wirewood Symbiote,4
+2238,Elves,Elves 1,Quirion Ranger,4
+2239,Elves,Elves 1,Elvish Reclaimer,4
+2240,Elves,Elves 1,Cavern of Souls,1
+2241,Elves,Elves 1,Bojuka Bog,1
+2242,Elves,Elves 1,Wooded Foothills,2
+2243,Elves,Elves 1,Windswept Heath,2
+2244,Elves,Elves 1,Verdant Catacombs,2
+2245,Elves,Elves 1,Snow-Covered Forest,2
+2246,Elves,Elves 1,Misty Rainforest,2
+2247,Elves,Elves 1,Dryad Arbor,2
+2248,Elves,Elves 1,Bayou,2
+2249,Elves,Elves 1,Gaea's Cradle,4
+2250,Elves,Elves 2,Natural Order,3
+2251,Elves,Elves 2,Once Upon a Time,3
+2252,Elves,Elves 2,Green Sun's Zenith,4
+2253,Elves,Elves 2,Glimpse of Nature,4
+2254,Elves,Elves 2,Allosaurus Shepherd,1
+2255,Elves,Elves 2,Archon of Valor's Reach,1
+2256,Elves,Elves 2,Collector Ouphe,1
+2257,Elves,Elves 2,Craterhoof Behemoth,1
+2258,Elves,Elves 2,Heritage Druid,3
+2259,Elves,Elves 2,Birchlore Rangers,3
+2260,Elves,Elves 2,Elvish Visionary,4
+2261,Elves,Elves 2,Wirewood Symbiote,4
+2262,Elves,Elves 2,Quirion Ranger,4
+2263,Elves,Elves 2,Elvish Reclaimer,4
+2264,Elves,Elves 2,Bojuka Bog,1
+2265,Elves,Elves 2,Wooded Foothills,1
+2266,Elves,Elves 2,Cavern of Souls,1
+2267,Elves,Elves 2,Windswept Heath,2
+2268,Elves,Elves 2,Snow-Covered Forest,2
+2269,Elves,Elves 2,Misty Rainforest,2
+2270,Elves,Elves 2,Bayou,2
+2271,Elves,Elves 2,Dryad Arbor,2
+2272,Elves,Elves 2,Verdant Catacombs,3
+2273,Elves,Elves 2,Gaea's Cradle,4
+2274,Elves,Elves 3,Once Upon a Time,3
+2275,Elves,Elves 3,Natural Order,3
+2276,Elves,Elves 3,Glimpse of Nature,4
+2277,Elves,Elves 3,Green Sun's Zenith,4
+2278,Elves,Elves 3,Allosaurus Shepherd,1
+2279,Elves,Elves 3,Collector Ouphe,1
+2280,Elves,Elves 3,Craterhoof Behemoth,1
+2281,Elves,Elves 3,Archon of Valor's Reach,1
+2282,Elves,Elves 3,Birchlore Rangers,3
+2283,Elves,Elves 3,Heritage Druid,3
+2284,Elves,Elves 3,Elvish Reclaimer,4
+2285,Elves,Elves 3,Elvish Visionary,4
+2286,Elves,Elves 3,Quirion Ranger,4
+2287,Elves,Elves 3,Wirewood Symbiote,4
+2288,Elves,Elves 3,Bojuka Bog,1
+2289,Elves,Elves 3,Cavern of Souls,1
+2290,Elves,Elves 3,Wooded Foothills,2
+2291,Elves,Elves 3,Dryad Arbor,2
+2292,Elves,Elves 3,Misty Rainforest,2
+2293,Elves,Elves 3,Snow-Covered Forest,2
+2294,Elves,Elves 3,Bayou,2
+2295,Elves,Elves 3,Windswept Heath,2
+2296,Elves,Elves 3,Verdant Catacombs,2
+2297,Elves,Elves 3,Gaea's Cradle,4
+2298,Hogaak,Hogaak 1,Bloodghast,4
+2299,Hogaak,Hogaak 1,Carrion Feeder,4
+2300,Hogaak,Hogaak 1,Gravecrawler,4
+2301,Hogaak,Hogaak 1,"Hogaak, Arisen Necropolis",4
+2302,Hogaak,Hogaak 1,Putrid Imp,3
+2303,Hogaak,Hogaak 1,Stitcher's Supplier,4
+2304,Hogaak,Hogaak 1,Vengevine,4
+2305,Hogaak,Hogaak 1,Cabal Therapy,2
+2306,Hogaak,Hogaak 1,Faithless Looting,4
+2307,Hogaak,Hogaak 1,Altar of Dementia,4
+2308,Hogaak,Hogaak 1,Bridge from Below,4
+2309,Hogaak,Hogaak 1,Badlands,3
+2310,Hogaak,Hogaak 1,Bayou,3
+2311,Hogaak,Hogaak 1,Bloodstained Mire,3
+2312,Hogaak,Hogaak 1,Marsh Flats,4
+2313,Hogaak,Hogaak 1,Polluted Delta,2
+2314,Hogaak,Hogaak 1,Snow-Covered Swamp,2
+2315,Hogaak,Hogaak 1,Verdant Catacombs,2
+2316,Hogaak,Hogaak 2,Bloodghast,4
+2317,Hogaak,Hogaak 2,Gravecrawler,4
+2318,Hogaak,Hogaak 2,Hedron Crab,4
+2319,Hogaak,Hogaak 2,"Hogaak, Arisen Necropolis",4
+2320,Hogaak,Hogaak 2,Stitcher's Supplier,4
+2321,Hogaak,Hogaak 2,Vengevine,4
+2322,Hogaak,Hogaak 2,Cabal Therapy,3
+2323,Hogaak,Hogaak 2,Careful Study,4
+2324,Hogaak,Hogaak 2,Once Upon a Time,2
+2325,Hogaak,Hogaak 2,Altar of Dementia,4
+2326,Hogaak,Hogaak 2,Bridge from Below,4
+2327,Hogaak,Hogaak 2,Bayou,3
+2328,Hogaak,Hogaak 2,Bloodstained Mire,1
+2329,Hogaak,Hogaak 2,Dryad Arbor,1
+2330,Hogaak,Hogaak 2,Marsh Flats,1
+2331,Hogaak,Hogaak 2,Misty Rainforest,4
+2332,Hogaak,Hogaak 2,Polluted Delta,1
+2333,Hogaak,Hogaak 2,Swamp,1
+2334,Hogaak,Hogaak 2,Underground Sea,3
+2335,Hogaak,Hogaak 2,Verdant Catacombs,4
+2336,Hogaak,Hogaak 3,Bloodghast,4
+2337,Hogaak,Hogaak 3,Gravecrawler,4
+2338,Hogaak,Hogaak 3,Hedron Crab,4
+2339,Hogaak,Hogaak 3,"Hogaak, Arisen Necropolis",4
+2340,Hogaak,Hogaak 3,Stitcher's Supplier,4
+2341,Hogaak,Hogaak 3,Vengevine,4
+2342,Hogaak,Hogaak 3,Cabal Therapy,3
+2343,Hogaak,Hogaak 3,Careful Study,4
+2344,Hogaak,Hogaak 3,Once Upon a Time,2
+2345,Hogaak,Hogaak 3,Altar of Dementia,4
+2346,Hogaak,Hogaak 3,Bridge from Below,4
+2347,Hogaak,Hogaak 3,Bayou,3
+2348,Hogaak,Hogaak 3,Bloodstained Mire,1
+2349,Hogaak,Hogaak 3,Dryad Arbor,1
+2350,Hogaak,Hogaak 3,Marsh Flats,1
+2351,Hogaak,Hogaak 3,Misty Rainforest,4
+2352,Hogaak,Hogaak 3,Polluted Delta,1
+2353,Hogaak,Hogaak 3,Swamp,1
+2354,Hogaak,Hogaak 3,Underground Sea,3
+2355,Hogaak,Hogaak 3,Verdant Catacombs,4
+2356,Reanimator,Reanimator 1,Chancellor of the Annex,4
+2357,Reanimator,Reanimator 1,Children of Korlis,1
+2358,Reanimator,Reanimator 1,Griselbrand,4
+2359,Reanimator,Reanimator 1,Exhume,4
+2360,Reanimator,Reanimator 1,Faithless Looting,4
+2361,Reanimator,Reanimator 1,Reanimate,4
+2362,Reanimator,Reanimator 1,Tendrils of Agony,1
+2363,Reanimator,Reanimator 1,Thoughtseize,3
+2364,Reanimator,Reanimator 1,Unmask,4
+2365,Reanimator,Reanimator 1,Dark Ritual,4
+2366,Reanimator,Reanimator 1,Entomb,4
+2367,Reanimator,Reanimator 1,Chrome Mox,1
+2368,Reanimator,Reanimator 1,Lotus Petal,4
+2369,Reanimator,Reanimator 1,Animate Dead,4
+2370,Reanimator,Reanimator 1,Badlands,2
+2371,Reanimator,Reanimator 1,Bayou,1
+2372,Reanimator,Reanimator 1,Bloodstained Mire,2
+2373,Reanimator,Reanimator 1,Marsh Flats,2
+2374,Reanimator,Reanimator 1,Polluted Delta,2
+2375,Reanimator,Reanimator 1,Scrubland,1
+2376,Reanimator,Reanimator 1,Snow-Covered Swamp,2
+2377,Reanimator,Reanimator 1,Verdant Catacombs,2
+2378,Reanimator,Reanimator 2,Children of Korlis,1
+2379,Reanimator,Reanimator 2,Reanimate,4
+2380,Reanimator,Reanimator 2,Exhume,4
+2381,Reanimator,Reanimator 2,Faithless Looting,4
+2382,Reanimator,Reanimator 2,Animate Dead,4
+2383,Reanimator,Reanimator 2,Bayou,2
+2384,Reanimator,Reanimator 2,Marsh Flats,4
+2385,Reanimator,Reanimator 2,Swamp,2
+2386,Reanimator,Reanimator 2,Badlands,2
+2387,Reanimator,Reanimator 2,Unmask,4
+2388,Reanimator,Reanimator 2,Bloodstained Mire,4
+2389,Reanimator,Reanimator 2,Thoughtseize,3
+2390,Reanimator,Reanimator 2,Tendrils of Agony,1
+2391,Reanimator,Reanimator 2,Dark Ritual,4
+2392,Reanimator,Reanimator 2,Entomb,4
+2393,Reanimator,Reanimator 2,Lotus Petal,4
+2394,Reanimator,Reanimator 2,Chrome Mox,1
+2395,Reanimator,Reanimator 2,Griselbrand,4
+2396,Reanimator,Reanimator 2,Chancellor of the Annex,4
+2397,Food Griffin,Food Griffin 1,Arcum's Astrolabe,3
+2398,Food Griffin,Food Griffin 1,"Teferi, Time Raveler",2
+2399,Food Griffin,Food Griffin 1,"Oko, Thief of Crowns",2
+2400,Food Griffin,Food Griffin 1,Food Chain,4
+2401,Food Griffin,Food Griffin 1,Swords to Plowshares,2
+2402,Food Griffin,Food Griffin 1,Manipulate Fate,3
+2403,Food Griffin,Food Griffin 1,Force of Will,4
+2404,Food Griffin,Food Griffin 1,Brainstorm,4
+2405,Food Griffin,Food Griffin 1,"Uro, Titan of Nature's Wrath",1
+2406,Food Griffin,Food Griffin 1,Walking Ballista,2
+2407,Food Griffin,Food Griffin 1,Recruiter of the Guard,2
+2408,Food Griffin,Food Griffin 1,Noble Hierarch,4
+2409,Food Griffin,Food Griffin 1,Misthollow Griffin,3
+2410,Food Griffin,Food Griffin 1,Ice-Fang Coatl,3
+2411,Food Griffin,Food Griffin 1,Eternal Scourge,1
+2412,Food Griffin,Food Griffin 1,Tundra,1
+2413,Food Griffin,Food Griffin 1,Tropical Island,1
+2414,Food Griffin,Food Griffin 1,Snow-Covered Plains,1
+2415,Food Griffin,Food Griffin 1,Snow-Covered Island,4
+2416,Food Griffin,Food Griffin 1,Snow-Covered Forest,2
+2417,Food Griffin,Food Griffin 1,Savannah,1
+2418,Food Griffin,Food Griffin 1,Prismatic Vista,2
+2419,Food Griffin,Food Griffin 1,Misty Rainforest,4
+2420,Food Griffin,Food Griffin 1,Karakas,1
+2421,Food Griffin,Food Griffin 1,Flooded Strand,3
+2422,Food Griffin,Food Griffin 2,"Oko, Thief of Crowns",2
+2423,Food Griffin,Food Griffin 2,Ice-Fang Coatl,3
+2424,Food Griffin,Food Griffin 2,Hydroid Krasis,1
+2425,Food Griffin,Food Griffin 2,"Teferi, Time Raveler",2
+2426,Food Griffin,Food Griffin 2,Brainstorm,4
+2427,Food Griffin,Food Griffin 2,Eternal Scourge,1
+2428,Food Griffin,Food Griffin 2,Food Chain,4
+2429,Food Griffin,Food Griffin 2,Gilded Goose,1
+2430,Food Griffin,Food Griffin 2,Manipulate Fate,3
+2431,Food Griffin,Food Griffin 2,Misthollow Griffin,3
+2432,Food Griffin,Food Griffin 2,Noble Hierarch,3
+2433,Food Griffin,Food Griffin 2,Ponder,3
+2434,Food Griffin,Food Griffin 2,Recruiter of the Guard,2
+2435,Food Griffin,Food Griffin 2,Swords to Plowshares,2
+2436,Food Griffin,Food Griffin 2,Walking Ballista,2
+2437,Food Griffin,Food Griffin 2,Tundra,1
+2438,Food Griffin,Food Griffin 2,Tropical Island,1
+2439,Food Griffin,Food Griffin 2,Snow-Covered Plains,1
+2440,Food Griffin,Food Griffin 2,Snow-Covered Island,4
+2441,Food Griffin,Food Griffin 2,Snow-Covered Forest,2
+2442,Food Griffin,Food Griffin 2,Savannah,1
+2443,Food Griffin,Food Griffin 2,Prismatic Vista,4
+2444,Food Griffin,Food Griffin 2,Misty Rainforest,3
+2445,Food Griffin,Food Griffin 2,Karakas,1
+2446,Food Griffin,Food Griffin 2,Flooded Strand,2
+2447,Food Griffin,Food Griffin 2,Force of Will,4
+2448,Bomberman,Bomberman 1,Walking Ballista,3
+2449,Bomberman,Bomberman 1,Auriok Salvagers,4
+2450,Bomberman,Bomberman 1,"Urza, Lord High Artificer",4
+2451,Bomberman,Bomberman 1,Lion's Eye Diamond,3
+2452,Bomberman,Bomberman 1,Chalice of the Void,4
+2453,Bomberman,Bomberman 1,Defense Grid,4
+2454,Bomberman,Bomberman 1,Lotus Petal,4
+2455,Bomberman,Bomberman 1,Mishra's Bauble,4
+2456,Bomberman,Bomberman 1,Mox Opal,4
+2457,Bomberman,Bomberman 1,Echo of Eons,4
+2458,Bomberman,Bomberman 1,"Karn, the Great Creator",4
+2459,Bomberman,Bomberman 1,Snow-Covered Island,1
+2460,Bomberman,Bomberman 1,Tundra,1
+2461,Bomberman,Bomberman 1,Karakas,1
+2462,Bomberman,Bomberman 1,Snow-Covered Plains,1
+2463,Bomberman,Bomberman 1,Flooded Strand,2
+2464,Bomberman,Bomberman 1,Ancient Tomb,4
+2465,Bomberman,Bomberman 1,City of Traitors,4
+2466,Bomberman,Bomberman 1,Cavern of Souls,4
+2467,Dredge,Dredge 1,Fiery Islet,3
+2468,Dredge,Dredge 1,Gemstone Mine,4
+2469,Dredge,Dredge 1,Cephalid Coliseum,4
+2470,Dredge,Dredge 1,City of Brass,2
+2471,Dredge,Dredge 1,Bridge from Below,4
+2472,Dredge,Dredge 1,Lion's Eye Diamond,4
+2473,Dredge,Dredge 1,Faithless Looting,4
+2474,Dredge,Dredge 1,Careful Study,4
+2475,Dredge,Dredge 1,Cabal Therapy,4
+2476,Dredge,Dredge 1,Breakthrough,3
+2477,Dredge,Dredge 1,Street Wraith,2
+2478,Dredge,Dredge 1,Stinkweed Imp,4
+2479,Dredge,Dredge 1,Narcomoeba,4
+2480,Dredge,Dredge 1,Insolent Neonate,2
+2481,Dredge,Dredge 1,Ichorid,4
+2482,Dredge,Dredge 1,Golgari Thug,4
+2483,Dredge,Dredge 1,Golgari Grave-Troll,4
+2484,Infect,Infect 1,Verdant Catacombs,4
+2485,Infect,Infect 1,Tropical Island,4
+2486,Infect,Infect 1,Blighted Agent,4
+2487,Infect,Infect 1,Glistener Elf,4
+2488,Infect,Infect 1,Noble Hierarch,4
+2489,Infect,Infect 1,Become Immense,1
+2490,Infect,Infect 1,Crop Rotation,1
+2491,Infect,Infect 1,Berserk,2
+2492,Infect,Infect 1,Vines of Vastwood,2
+2493,Infect,Infect 1,Spell Pierce,2
+2494,Infect,Infect 1,Invigorate,4
+2495,Infect,Infect 1,Brainstorm,4
+2496,Infect,Infect 1,Force of Will,4
+2497,Infect,Infect 1,Misty Rainforest,4
+2498,Infect,Infect 1,Inkmoth Nexus,4
+2499,Infect,Infect 1,Daze,4
+2500,Infect,Infect 1,Scale Up,1
+2501,Infect,Infect 1,Ponder,2
+2502,Infect,Infect 1,Sylvan Library,1
+2503,Infect,Infect 1,"Oko, Thief of Crowns",1
+2504,Infect,Infect 1,Pendelhaven,1
+2505,Infect,Infect 1,Savannah,1
+2506,Infect,Infect 1,Wasteland,1
+2507,Doomsday,Doomsday 1,Lim-Dûl's Vault,1
+2508,Doomsday,Doomsday 1,Lion's Eye Diamond,1
+2509,Doomsday,Doomsday 1,Predict,1
+2510,Doomsday,Doomsday 1,Cabal Therapy,1
+2511,Doomsday,Doomsday 1,Duress,1
+2512,Doomsday,Doomsday 1,Unearth,1
+2513,Doomsday,Doomsday 1,Thoughtseize,1
+2514,Doomsday,Doomsday 1,Edge of Autumn,1
+2515,Doomsday,Doomsday 1,Pyroblast,1
+2516,Doomsday,Doomsday 1,Lotus Petal,3
+2517,Doomsday,Doomsday 1,Force of Will,4
+2518,Doomsday,Doomsday 1,Daze,4
+2519,Doomsday,Doomsday 1,Dark Ritual,4
+2520,Doomsday,Doomsday 1,Brainstorm,4
+2521,Doomsday,Doomsday 1,Preordain,4
+2522,Doomsday,Doomsday 1,Ponder,4
+2523,Doomsday,Doomsday 1,Doomsday,4
+2524,Doomsday,Doomsday 1,Street Wraith,1
+2525,Doomsday,Doomsday 1,Thassa's Oracle,1
+2526,Doomsday,Doomsday 1,Baleful Strix,2
+2527,Doomsday,Doomsday 1,Snow-Covered Swamp,1
+2528,Doomsday,Doomsday 1,Snow-Covered Island,1
+2529,Doomsday,Doomsday 1,Volcanic Island,1
+2530,Doomsday,Doomsday 1,Tropical Island,1
+2531,Doomsday,Doomsday 1,Bloodstained Mire,1
+2532,Doomsday,Doomsday 1,Badlands,1
+2533,Doomsday,Doomsday 1,Underground Sea,3
+2534,Doomsday,Doomsday 1,Scalding Tarn,3
+2535,Doomsday,Doomsday 1,Polluted Delta,4
