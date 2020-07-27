@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4dcu-be/Machine-Learning-the-Gathering/master?filepath=MLtG-binder.ipynb)
+
 # Machine Learning: the Gathering
 Using machine learning to predict what your opponent is playing in Magic: the Gathering
 
