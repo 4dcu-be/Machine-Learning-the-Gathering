@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4dcu-be/Machine-Learning-the-Gathering/master?filepath=MLtG-binder.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4dcu-be/Machine-Learning-the-Gathering/master?filepath=MLtG-binder.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/4dcu-be/Machine-Learning-the-Gathering/)
 
 # Machine Learning: the Gathering
 Using machine learning to predict what your opponent is playing in Magic: the Gathering

@@ -1,42 +1,54 @@
 deck,archetype
 4c Control 1,4c Control
+4c Control 10,4c Control
+4c Control 11,4c Control
+4c Control 12,4c Control
+4c Control 13,4c Control
+4c Control 14,4c Control
+4c Control 15,4c Control
+4c Control 16,4c Control
+4c Control 17,4c Control
+4c Control 18,4c Control
+4c Control 19,4c Control
 4c Control 2,4c Control
+4c Control 20,4c Control
 4c Control 3,4c Control
 4c Control 4,4c Control
+4c Control 5,4c Control
+4c Control 6,4c Control
+4c Control 7,4c Control
+4c Control 8,4c Control
+4c Control 9,4c Control
+All my Spells 1,All my Spells
+All my Spells 2,All my Spells
 Aluren 1,Aluren
 Aluren 2,Aluren
 Aluren 3,Aluren
 Aluren 4,Aluren
-Arclight Phoenix 1,Arclight Phoenix
-Arclight Phoenix 2,Arclight Phoenix
+Aluren 5,Aluren
 Artifacts Blue 1,Artifacts Blue
+Artifacts Blue 10,Artifacts Blue
+Artifacts Blue 11,Artifacts Blue
 Artifacts Blue 2,Artifacts Blue
+Artifacts Blue 3,Artifacts Blue
+Artifacts Blue 4,Artifacts Blue
+Artifacts Blue 5,Artifacts Blue
+Artifacts Blue 6,Artifacts Blue
+Artifacts Blue 7,Artifacts Blue
+Artifacts Blue 8,Artifacts Blue
+Artifacts Blue 9,Artifacts Blue
+BUG Control 1,BUG Control
 BUG Midrange 1,BUG Midrange
-Bant Aggro 1,Bant Aggro
 Bant Control 1,Bant Control
 Bant Control 2,Bant Control
-Bant Control 3,Bant Control
-Bant Control 4,Bant Control
-Bant Control 5,Bant Control
-Bomberman 1,Bomberman
 Burn 1,Burn
 Burn 2,Burn
+Burn 3,Burn
 Canadian Threshold 1,Canadian Threshold
-Canadian Threshold 10,Canadian Threshold
-Canadian Threshold 11,Canadian Threshold
 Canadian Threshold 2,Canadian Threshold
-Canadian Threshold 3,Canadian Threshold
-Canadian Threshold 4,Canadian Threshold
-Canadian Threshold 5,Canadian Threshold
-Canadian Threshold 6,Canadian Threshold
-Canadian Threshold 7,Canadian Threshold
-Canadian Threshold 8,Canadian Threshold
-Canadian Threshold 9,Canadian Threshold
+Cephalid Breakfast 1,Cephalid Breakfast
+Cephalid Breakfast 2,Cephalid Breakfast
 Cloudpost Ramp 1,Cloudpost Ramp
-Cloudpost Ramp 2,Cloudpost Ramp
-Cloudpost Ramp 3,Cloudpost Ramp
-Cloudpost Ramp 4,Cloudpost Ramp
-Cloudpost Ramp 5,Cloudpost Ramp
 Dark Depths 1,Dark Depths
 Dark Depths 2,Dark Depths
 Dark Depths 3,Dark Depths
@@ -45,65 +57,121 @@ Dark Depths 5,Dark Depths
 Dark Depths 6,Dark Depths
 Dark Depths 7,Dark Depths
 Dark Depths 8,Dark Depths
-Dark Depths 9,Dark Depths
 Death & Taxes 1,Death & Taxes
+Death & Taxes 10,Death & Taxes
+Death & Taxes 11,Death & Taxes
 Death & Taxes 2,Death & Taxes
+Death & Taxes 3,Death & Taxes
+Death & Taxes 4,Death & Taxes
+Death & Taxes 5,Death & Taxes
+Death & Taxes 6,Death & Taxes
+Death & Taxes 7,Death & Taxes
+Death & Taxes 8,Death & Taxes
+Death & Taxes 9,Death & Taxes
 Death's Shadow 1,Death's Shadow
 Death's Shadow 2,Death's Shadow
+Death's Shadow 3,Death's Shadow
+Death's Shadow 4,Death's Shadow
+Death's Shadow 5,Death's Shadow
 Delver (Other) 1,Delver (Other)
 Doomsday 1,Doomsday
-Dreadstill 1,Dreadstill
-Dredge 1,Dredge
-Eldrazi Aggro 1,Eldrazi Aggro
-Eldrazi Aggro 2,Eldrazi Aggro
-Eldrazi Aggro 3,Eldrazi Aggro
+Doomsday 2,Doomsday
+Doomsday 3,Doomsday
+Doomsday 4,Doomsday
+Doomsday 5,Doomsday
+Doomsday 6,Doomsday
+Doomsday 7,Doomsday
+Dragon Stompy 1,Dragon Stompy
+Dragon Stompy 10,Dragon Stompy
+Dragon Stompy 11,Dragon Stompy
+Dragon Stompy 12,Dragon Stompy
+Dragon Stompy 2,Dragon Stompy
+Dragon Stompy 3,Dragon Stompy
+Dragon Stompy 4,Dragon Stompy
+Dragon Stompy 5,Dragon Stompy
+Dragon Stompy 6,Dragon Stompy
+Dragon Stompy 7,Dragon Stompy
+Dragon Stompy 8,Dragon Stompy
+Dragon Stompy 9,Dragon Stompy
 Elves 1,Elves
 Elves 2,Elves
 Elves 3,Elves
-Esper Vial 1,Esper Vial
-Esper Vial 2,Esper Vial
-Food Griffin 1,Food Griffin
-Food Griffin 2,Food Griffin
+Elves 4,Elves
+Elves 5,Elves
+Elves 6,Elves
+Elves 7,Elves
+Enchantress 1,Enchantress
 Goblins 1,Goblins
-Goblins 2,Goblins
-Goblins 3,Goblins
-Goblins 4,Goblins
-Goblins 5,Goblins
-Goblins 6,Goblins
 Grixis Control 1,Grixis Control
-Hogaak 1,Hogaak
-Hogaak 2,Hogaak
-Hogaak 3,Hogaak
+Hive Mind 1,Hive Mind
+Hollow One Madness 1,Hollow One Madness
 Infect 1,Infect
+Infect 2,Infect
+Jund 1,Jund
 Lands 1,Lands
 Lands 2,Lands
 Lands 3,Lands
-Nic Fit  1,Nic Fit 
-Nic Fit  2,Nic Fit 
-Ninja 1,Ninja
-Ninja 2,Ninja
-Ninja 3,Ninja
-Ninja 4,Ninja
-Ninja 5,Ninja
-Ninja 6,Ninja
+Lands 4,Lands
+Lands 5,Lands
+Lands 6,Lands
+Maverick 1,Maverick
+Merfolk 1,Merfolk
+Merfolk 2,Merfolk
+Mono Black Aggro 1,Mono Black Aggro
+Other - Aggro 1,Other - Aggro
+Other - Combo 1,Other - Combo
+Other - Combo 2,Other - Combo
+Other - Combo 3,Other - Combo
 Other - Control 1,Other - Control
-Patriot Aggro 1,Patriot Aggro
+Painter 1,Painter
+Painter 2,Painter
+Painter 3,Painter
+Painter 4,Painter
+Painter 5,Painter
+Painter 6,Painter
 Reanimator 1,Reanimator
 Reanimator 2,Reanimator
+Reanimator 3,Reanimator
+Reanimator 4,Reanimator
+Reanimator 5,Reanimator
+Reanimator 6,Reanimator
+Reanimator 7,Reanimator
 Show and Tell 1,Show and Tell
 Show and Tell 2,Show and Tell
 Show and Tell 3,Show and Tell
 Show and Tell 4,Show and Tell
 Show and Tell 5,Show and Tell
 Show and Tell 6,Show and Tell
-Show and Tell 7,Show and Tell
 Stoneblade 1,Stoneblade
 Stoneblade 2,Stoneblade
+Stoneblade 3,Stoneblade
+Stoneblade 4,Stoneblade
 Storm 1,Storm
 Storm 2,Storm
 Storm 3,Storm
-UR Delver 1,UR Delver
-UR Delver 2,UR Delver
-UR Delver 3,UR Delver
-UR Delver 4,UR Delver
-UR Delver 5,UR Delver
+Storm 4,Storm
+Storm 5,Storm
+Storm 6,Storm
+Storm 7,Storm
+UR Aggro 1,UR Aggro
+UR Aggro 10,UR Aggro
+UR Aggro 11,UR Aggro
+UR Aggro 12,UR Aggro
+UR Aggro 13,UR Aggro
+UR Aggro 14,UR Aggro
+UR Aggro 15,UR Aggro
+UR Aggro 16,UR Aggro
+UR Aggro 17,UR Aggro
+UR Aggro 18,UR Aggro
+UR Aggro 19,UR Aggro
+UR Aggro 2,UR Aggro
+UR Aggro 20,UR Aggro
+UR Aggro 3,UR Aggro
+UR Aggro 4,UR Aggro
+UR Aggro 5,UR Aggro
+UR Aggro 6,UR Aggro
+UR Aggro 7,UR Aggro
+UR Aggro 8,UR Aggro
+UR Aggro 9,UR Aggro
+UWx Control 1,UWx Control
+UWx Control 2,UWx Control
